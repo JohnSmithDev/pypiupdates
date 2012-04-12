@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>django-devotionals 0.1.0</title>
+    <link>http://pypi.python.org/pypi/django-devotionals/0.1.0</link>
+    <description>An application for managing daily devotionals.</description>
+    <pubDate>02 Apr 2012 21:40:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>lazr.restfulclient 0.12.1</title>
+    <link>http://pypi.python.org/pypi/lazr.restfulclient/0.12.1</link>
+    <description>A programmable client library that takes advantage of the commonalities among</description>
+    <pubDate>02 Apr 2012 21:04:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>barrister 0.1.0c</title>
+    <link>http://pypi.python.org/pypi/barrister/0.1.0c</link>
+    <description>Polyglot RPC</description>
+    <pubDate>02 Apr 2012 20:56:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-compass2 0.1</title>
+    <link>http://pypi.python.org/pypi/django-compass2/0.1</link>
+    <description>Simple compilation of Compass projects for Django.</description>
+    <pubDate>02 Apr 2012 20:33:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>anybox.recipe.openerp 0.10</title>
+    <link>http://pypi.python.org/pypi/anybox.recipe.openerp/0.10</link>
+    <description>A buildout recipe to install and configure OpenERP</description>
+    <pubDate>02 Apr 2012 20:30:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>routr 0.1</title>
+    <link>http://pypi.python.org/pypi/routr/0.1</link>
+    <description>URL routing made right</description>
+    <pubDate>02 Apr 2012 20:28:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyarrfs 0.8.0</title>
+    <link>http://pypi.python.org/pypi/pyarrfs/0.8.0</link>
+    <description>a RAR reading file system</description>
+    <pubDate>02 Apr 2012 19:55:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>piston-mini-client 0.7.2</title>
+    <link>http://pypi.python.org/pypi/piston-mini-client/0.7.2</link>
+    <description>A package to consume Django-Piston web services</description>
+    <pubDate>02 Apr 2012 19:33:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>balanced 0.1</title>
+    <link>http://pypi.python.org/pypi/balanced/0.1</link>
+    <description>Balanced payments python client</description>
+    <pubDate>02 Apr 2012 19:33:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>BigJob 0.4.40</title>
+    <link>http://pypi.python.org/pypi/BigJob/0.4.40</link>
+    <description>SAGA-based Pilot-Job Implementation</description>
+    <pubDate>02 Apr 2012 19:18:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>bug-repo-syncer 0.3.0</title>
+    <link>http://pypi.python.org/pypi/bug-repo-syncer/0.3.0</link>
+    <description>Program to synchronize bug repositories</description>
+    <pubDate>02 Apr 2012 19:13:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>billy 1.0.0</title>
+    <link>http://pypi.python.org/pypi/billy/1.0.0</link>
+    <description>scraping, storing, and sharing legislative information</description>
+    <pubDate>02 Apr 2012 19:13:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>fedmsg 0.0.7</title>
+    <link>http://pypi.python.org/pypi/fedmsg/0.0.7</link>
+    <description>Fedora Messaging Client API</description>
+    <pubDate>02 Apr 2012 18:48:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>trollop 0.0.6</title>
+    <link>http://pypi.python.org/pypi/trollop/0.0.6</link>
+    <description>A Python library for working with the Trello api.</description>
+    <pubDate>02 Apr 2012 18:37:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>pydap.handlers.hdf5 0.1.5</title>
+    <link>http://pypi.python.org/pypi/pydap.handlers.hdf5/0.1.5</link>
+    <description>HDF5 handler for Pydap</description>
+    <pubDate>02 Apr 2012 18:27:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>armstrong 12.03.1</title>
+    <link>http://pypi.python.org/pypi/armstrong/12.03.1</link>
+    <description>Armstrong is an open-source publishing system designed for news organizations that gives your team the technology edge it needs to report in a media-rich environment.</description>
+    <pubDate>02 Apr 2012 18:08:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-statici18n 0.2.0</title>
+    <link>http://pypi.python.org/pypi/django-statici18n/0.2.0</link>
+    <description>A Django app that provides helper for generating Javascript catalog to static files.</description>
+    <pubDate>02 Apr 2012 18:07:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>armstrong.cli 1.1.1</title>
+    <link>http://pypi.python.org/pypi/armstrong.cli/1.1.1</link>
+    <description>Provides basic commands needed for Armstrong scaffolding</description>
+    <pubDate>02 Apr 2012 18:05:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>pymatgen 1.7.0</title>
+    <link>http://pypi.python.org/pypi/pymatgen/1.7.0</link>
+    <description>pymatgen is the Python library powering the Materials Project (www.materialsproject.org).</description>
+    <pubDate>02 Apr 2012 18:03:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>PaInt 0.1.2</title>
+    <link>http://pypi.python.org/pypi/PaInt/0.1.2</link>
+    <description>python PAckage INTrospection</description>
+    <pubDate>02 Apr 2012 17:44:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>CommandParser 0.1.3</title>
+    <link>http://pypi.python.org/pypi/CommandParser/0.1.3</link>
+    <description>change objects to OptionParser instances via reflection</description>
+    <pubDate>02 Apr 2012 17:42:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>coop-agenda 0.1.2</title>
+    <link>http://pypi.python.org/pypi/coop-agenda/0.1.2</link>
+    <description>Companion app for django-coop, a fork of swingtime</description>
+    <pubDate>02 Apr 2012 17:41:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>vos 1.1.4c</title>
+    <link>http://pypi.python.org/pypi/vos/1.1.4c</link>
+    <description>CADC VOSpace Filesystem</description>
+    <pubDate>02 Apr 2012 17:34:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>schachtler_fh 1.0.0</title>
+    <link>http://pypi.python.org/pypi/schachtler_fh/1.0.0</link>
+    <description>Einfache Ausgabe geschachtelter Listen</description>
+    <pubDate>02 Apr 2012 17:17:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>linaro-dashboard-bundle 1.7.2</title>
+    <link>http://pypi.python.org/pypi/linaro-dashboard-bundle/1.7.2</link>
+    <description>Library for manipulating LAVA dashboard bundles</description>
+    <pubDate>02 Apr 2012 16:41:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>dynamodb-mapper 1.2.1</title>
+    <link>http://pypi.python.org/pypi/dynamodb-mapper/1.2.1</link>
+    <description>Object mapper for Amazon DynamoDB</description>
+    <pubDate>02 Apr 2012 16:29:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>apache-libcloud 0.9.1</title>
+    <link>http://pypi.python.org/pypi/apache-libcloud/0.9.1</link>
+    <description>A standard Python library that abstracts away differences among multiple cloud provider APIs. For more information and documentation, please see http://libcloud.apache.org</description>
+    <pubDate>02 Apr 2012 16:20:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_sockjs 0.3.2</title>
+    <link>http://pypi.python.org/pypi/pyramid_sockjs/0.3.2</link>
+    <description>SockJS server implementation for Pyramid.</description>
+    <pubDate>02 Apr 2012 15:59:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>logscan 0.2.2</title>
+    <link>http://pypi.python.org/pypi/logscan/0.2.2</link>
+    <description>Command-line-tool to get time-specific access to log-files.</description>
+    <pubDate>02 Apr 2012 15:56:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>redomino.qwerty_theme 1.2</title>
+    <link>http://pypi.python.org/pypi/redomino.qwerty_theme/1.2</link>
+    <description>An installable theme for based on redomino.css3theme</description>
+    <pubDate>02 Apr 2012 15:55:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>redomino.seosupport 1.0</title>
+    <link>http://pypi.python.org/pypi/redomino.seosupport/1.0</link>
+    <description>Installing this plugin you will get a Plone site with the sitemap.xml.gz enabled by default</description>
+    <pubDate>02 Apr 2012 15:51:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>z3c.rml 1.0.0</title>
+    <link>http://pypi.python.org/pypi/z3c.rml/1.0.0</link>
+    <description>An alternative implementation of RML</description>
+    <pubDate>02 Apr 2012 15:43:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>googlesitemap.common 1.2</title>
+    <link>http://pypi.python.org/pypi/googlesitemap.common/1.2</link>
+    <description>Google Sitemap common support</description>
+    <pubDate>02 Apr 2012 15:42:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>pecan 0.2.0a</title>
+    <link>http://pypi.python.org/pypi/pecan/0.2.0a</link>
+    <description>A WSGI object-dispatching web framework, designed to be lean and fast, with few dependancies.</description>
+    <pubDate>02 Apr 2012 15:41:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-nose2 0.1.1</title>
+    <link>http://pypi.python.org/pypi/django-nose2/0.1.1</link>
+    <description>Test runner for django that runs tests with nose2</description>
+    <pubDate>02 Apr 2012 15:38:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>redomino.cache 0.1</title>
+    <link>http://pypi.python.org/pypi/redomino.cache/0.1</link>
+    <description>'Plone app caching preconfigured'</description>
+    <pubDate>02 Apr 2012 15:24:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>redomino.tokenrole 0.3</title>
+    <link>http://pypi.python.org/pypi/redomino.tokenrole/0.3</link>
+    <description>This product allows you to share roles about a specific Plone content to an unregistered user through a link.</description>
+    <pubDate>02 Apr 2012 15:19:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>mongopersist 0.7.0</title>
+    <link>http://pypi.python.org/pypi/mongopersist/0.7.0</link>
+    <description>Mongo Persistence Backend</description>
+    <pubDate>02 Apr 2012 15:18:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>nose2 0.3</title>
+    <link>http://pypi.python.org/pypi/nose2/0.3</link>
+    <description>nose2 is the next generation of nicer testing for Python</description>
+    <pubDate>02 Apr 2012 15:12:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>i3-py 0.5.5.1</title>
+    <link>http://pypi.python.org/pypi/i3-py/0.5.5.1</link>
+    <description>tools for i3 users and developers</description>
+    <pubDate>02 Apr 2012 15:12:31 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

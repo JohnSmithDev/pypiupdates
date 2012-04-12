@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>metapdf 0.2.5</title>
+    <link>http://pypi.python.org/pypi/metapdf/0.2.5</link>
+    <description>A lightweight PDF library optimized for metadata extraction and insertion</description>
+    <pubDate>13 Mar 2012 13:12:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>Yaybu 0.1.19</title>
+    <link>http://pypi.python.org/pypi/Yaybu/0.1.19</link>
+    <description>Server deployment and configuration management in Python</description>
+    <pubDate>13 Mar 2012 13:06:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>nipype 0.6.0.g48b2c25-dev</title>
+    <link>http://pypi.python.org/pypi/nipype/0.6.0.g48b2c25-dev</link>
+    <description>Neuroimaging in Python: Pipelines and Interfaces</description>
+    <pubDate>13 Mar 2012 13:06:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.contentmenu 2.1</title>
+    <link>http://pypi.python.org/pypi/ftw.contentmenu/2.1</link>
+    <description>Customize Plone's content menu</description>
+    <pubDate>13 Mar 2012 13:01:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>ella 2.0.7</title>
+    <link>http://pypi.python.org/pypi/ella/2.0.7</link>
+    <description>Ella - Django powered CMS</description>
+    <pubDate>13 Mar 2012 12:44:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>git-recipe 0.0.1</title>
+    <link>http://pypi.python.org/pypi/git-recipe/0.0.1</link>
+    <description>Simple buildout recipe for downloading git repositories. It uses system git command and its syntax</description>
+    <pubDate>13 Mar 2012 12:32:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>consent 0.6</title>
+    <link>http://pypi.python.org/pypi/consent/0.6</link>
+    <description>Software for general assemblies</description>
+    <pubDate>13 Mar 2012 12:10:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>wheezy.web 0.1.158</title>
+    <link>http://pypi.python.org/pypi/wheezy.web/0.1.158</link>
+    <description>A lightweight WSGI web framework.</description>
+    <pubDate>13 Mar 2012 12:01:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>easydict 1.4</title>
+    <link>http://pypi.python.org/pypi/easydict/1.4</link>
+    <description>Access dict values as attributes (works recursively)</description>
+    <pubDate>13 Mar 2012 11:48:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>provpy 1.1.3</title>
+    <link>http://pypi.python.org/pypi/provpy/1.1.3</link>
+    <description>Python implementation of PROV-DM data model</description>
+    <pubDate>13 Mar 2012 11:37:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>RescueDelicious 0.1.1</title>
+    <link>http://pypi.python.org/pypi/RescueDelicious/0.1.1</link>
+    <description>Convert bookmarks in delicious firefox extension to importable file</description>
+    <pubDate>13 Mar 2012 11:32:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>mfabrik.webandmobile 1.0.9</title>
+    <link>http://pypi.python.org/pypi/mfabrik.webandmobile/1.0.9</link>
+    <description>Mobile and multichannel content management for Plone</description>
+    <pubDate>13 Mar 2012 10:53:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.cron 1.0</title>
+    <link>http://pypi.python.org/pypi/collective.cron/1.0</link>
+    <description>Product that enable cron like jobs based on plone.app.async</description>
+    <pubDate>13 Mar 2012 10:50:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>gomobile.mobile 1.0.4</title>
+    <link>http://pypi.python.org/pypi/gomobile.mobile/1.0.4</link>
+    <description>Core package for mobilizing Plone CMS</description>
+    <pubDate>13 Mar 2012 10:49:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>gomobile.supporter 0.9.3</title>
+    <link>http://pypi.python.org/pypi/gomobile.supporter/0.9.3</link>
+    <description>Add mobile support for various Plone add on products</description>
+    <pubDate>13 Mar 2012 10:46:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyGPD3303S 1.0.2</title>
+    <link>http://pypi.python.org/pypi/PyGPD3303S/1.0.2</link>
+    <description>Python Interface for DC power supply GPD-3303S</description>
+    <pubDate>13 Mar 2012 10:32:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygal 0.9.12</title>
+    <link>http://pypi.python.org/pypi/pygal/0.9.12</link>
+    <description>A python svg graph plotting library</description>
+    <pubDate>13 Mar 2012 10:20:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>snmpdesk 0.0.9</title>
+    <link>http://pypi.python.org/pypi/snmpdesk/0.0.9</link>
+    <description>Scripts for easy get snmp data</description>
+    <pubDate>13 Mar 2012 10:11:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>run-python 0.2.6</title>
+    <link>http://pypi.python.org/pypi/run-python/0.2.6</link>
+    <description>Python driver for Run. For more information - https://github.com/respect31/run-core.</description>
+    <pubDate>13 Mar 2012 09:47:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>run-core 0.5.1</title>
+    <link>http://pypi.python.org/pypi/run-core/0.5.1</link>
+    <description>Runs, gets help and lists functions/methods from file with autocompletion. Extendable core/language drivers design.</description>
+    <pubDate>13 Mar 2012 09:46:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>aspen 0.13.5</title>
+    <link>http://pypi.python.org/pypi/aspen/0.13.5</link>
+    <description>Aspen is a Python web framework. Simplates are the main attraction.</description>
+    <pubDate>13 Mar 2012 09:36:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>glitter 0.1.1</title>
+    <link>http://pypi.python.org/pypi/glitter/0.1.1</link>
+    <description>Intuitive OpenGL wrappers</description>
+    <pubDate>13 Mar 2012 09:31:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>geographiclib 1.19</title>
+    <link>http://pypi.python.org/pypi/geographiclib/1.19</link>
+    <description>A translation of the GeographicLib::Geodesic class to Python</description>
+    <pubDate>13 Mar 2012 09:28:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>repoze.what-x509 0.1.1</title>
+    <link>http://pypi.python.org/pypi/repoze.what-x509/0.1.1</link>
+    <description>x509 repoze.what plugin</description>
+    <pubDate>13 Mar 2012 09:10:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>rbtranslations 0.9</title>
+    <link>http://pypi.python.org/pypi/rbtranslations/0.9</link>
+    <description>Java ResourceBundle like approach to localization.</description>
+    <pubDate>13 Mar 2012 09:09:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>synkie 0.2.3</title>
+    <link>http://pypi.python.org/pypi/synkie/0.2.3</link>
+    <description>Synkie watches git repositories, committing and pushing changes automatically</description>
+    <pubDate>13 Mar 2012 09:01:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>fandjango 4.0.5</title>
+    <link>http://pypi.python.org/pypi/fandjango/4.0.5</link>
+    <description>Fandjango makes it stupidly easy to create Facebook applications with Django.</description>
+    <pubDate>13 Mar 2012 08:49:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>towel 0.0.3</title>
+    <link>http://pypi.python.org/pypi/towel/0.0.3</link>
+    <description>Keeping you DRY since 2010</description>
+    <pubDate>13 Mar 2012 08:35:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-serene 0.0.3</title>
+    <link>http://pypi.python.org/pypi/django-serene/0.0.3</link>
+    <description>An enhanced djangorestframework. Serene is a RESTful framework with a touch of sirisanthana</description>
+    <pubDate>13 Mar 2012 08:22:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-permission 0.3.6</title>
+    <link>http://pypi.python.org/pypi/django-permission/0.3.6</link>
+    <description>A enhanced permission system which enable object permission</description>
+    <pubDate>13 Mar 2012 08:10:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>tw2.d3 0.0.4</title>
+    <link>http://pypi.python.org/pypi/tw2.d3/0.0.4</link>
+    <description>toscawidgets2 wrapper for d3 (data-driven documents)</description>
+    <pubDate>13 Mar 2012 08:06:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>cerebrod 1.0.6</title>
+    <link>http://pypi.python.org/pypi/cerebrod/1.0.6</link>
+    <description>A Cluster Management System</description>
+    <pubDate>13 Mar 2012 08:03:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-mfw 0.4.1</title>
+    <link>http://pypi.python.org/pypi/django-mfw/0.4.1</link>
+    <description>Django framework for mobilephone/smartphone site</description>
+    <pubDate>13 Mar 2012 07:53:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-smpp 0.1</title>
+    <link>http://pypi.python.org/pypi/python-smpp/0.1</link>
+    <description>Python SMPP Library</description>
+    <pubDate>13 Mar 2012 07:44:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>rerun 1.0.16</title>
+    <link>http://pypi.python.org/pypi/rerun/1.0.16</link>
+    <description>Command-line executable Python script to re-run the given command every time
+files are modified in the current directory or its subdirectories.</description>
+    <pubDate>13 Mar 2012 07:33:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>wx_py 0.9.8.9</title>
+    <link>http://pypi.python.org/pypi/wx_py/0.9.8.9</link>
+    <description>Py Suite including PyCrust and a revamped version, PySlices</description>
+    <pubDate>13 Mar 2012 07:31:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>malconstrict 0.1</title>
+    <link>http://pypi.python.org/pypi/malconstrict/0.1</link>
+    <description>Python wrapper to the Unofficial MyAnimeList API</description>
+    <pubDate>13 Mar 2012 07:26:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>Toto 0.7.0</title>
+    <link>http://pypi.python.org/pypi/Toto/0.7.0</link>
+    <description>A Tornado based framework designed to accelerate web service development</description>
+    <pubDate>13 Mar 2012 07:21:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-bootstrap-toolkit 2.3.4</title>
+    <link>http://pypi.python.org/pypi/django-bootstrap-toolkit/2.3.4</link>
+    <description>Bootstrap support for Django projects</description>
+    <pubDate>13 Mar 2012 07:16:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>anykeystore 0.1</title>
+    <link>http://pypi.python.org/pypi/anykeystore/0.1</link>
+    <description>A key-value store supporting multiple backends.</description>
+    <pubDate>13 Mar 2012 07:12:11 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

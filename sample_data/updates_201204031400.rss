@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>django_rocket 0.0.2</title>
+    <link>http://pypi.python.org/pypi/django_rocket/0.0.2</link>
+    <description>Google AppEngine helper applcaiton</description>
+    <pubDate>03 Apr 2012 12:54:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>ws_docutils 0.3</title>
+    <link>http://pypi.python.org/pypi/ws_docutils/0.3</link>
+    <description>WS Docutils Extensions</description>
+    <pubDate>03 Apr 2012 12:52:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>easy_sqlalchemy 0.1.3</title>
+    <link>http://pypi.python.org/pypi/easy_sqlalchemy/0.1.3</link>
+    <description>SQLAlchemy wrapper</description>
+    <pubDate>03 Apr 2012 12:43:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-grappelli 2.3.8</title>
+    <link>http://pypi.python.org/pypi/django-grappelli/2.3.8</link>
+    <description>A jazzy skin for the Django Admin-Interface.</description>
+    <pubDate>03 Apr 2012 12:39:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>cartesius 0.1.3</title>
+    <link>http://pypi.python.org/pypi/cartesius/0.1.3</link>
+    <description>Cartesius 2D coordinate system drawing library</description>
+    <pubDate>03 Apr 2012 12:08:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-socketio 0.3.3</title>
+    <link>http://pypi.python.org/pypi/django-socketio/0.3.3</link>
+    <description>A Django app providing the features required to use websockets with Django via Socket.IO</description>
+    <pubDate>03 Apr 2012 12:04:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>sockjs-tornado 0.0.3</title>
+    <link>http://pypi.python.org/pypi/sockjs-tornado/0.0.3</link>
+    <description>SockJS python server implementation on top of Tornado framework</description>
+    <pubDate>03 Apr 2012 11:39:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>adrest 1.1.12</title>
+    <link>http://pypi.python.org/pypi/adrest/1.1.12</link>
+    <description>Adrest - another django REST. Simple application for quick build RESTfull API.</description>
+    <pubDate>03 Apr 2012 11:30:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>mr.laforge 0.3</title>
+    <link>http://pypi.python.org/pypi/mr.laforge/0.3</link>
+    <description>Plugins and utilities for supervisor</description>
+    <pubDate>03 Apr 2012 10:59:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>mmpy 0.1.3</title>
+    <link>http://pypi.python.org/pypi/mmpy/0.1.3</link>
+    <description>Musicmetric API Wrapper</description>
+    <pubDate>03 Apr 2012 10:41:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>openerp_bootstrap 1.0a6</title>
+    <link>http://pypi.python.org/pypi/openerp_bootstrap/1.0a6</link>
+    <description>Easy bootstrap for your OpenERP modules</description>
+    <pubDate>03 Apr 2012 10:29:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>plonetheme.gov 0.12</title>
+    <link>http://pypi.python.org/pypi/plonetheme.gov/0.12</link>
+    <description>An installable theme for Plone 4</description>
+    <pubDate>03 Apr 2012 10:24:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-facebook 3.5.93</title>
+    <link>http://pypi.python.org/pypi/django-facebook/3.5.93</link>
+    <description></description>
+    <pubDate>03 Apr 2012 10:20:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>coop-agenda 0.1.3</title>
+    <link>http://pypi.python.org/pypi/coop-agenda/0.1.3</link>
+    <description>Companion app for django-coop, a fork of swingtime</description>
+    <pubDate>03 Apr 2012 10:10:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>crate-test 1.1</title>
+    <link>http://pypi.python.org/pypi/crate-test/1.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>03 Apr 2012 10:00:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>eea.facetednavigation 4.4</title>
+    <link>http://pypi.python.org/pypi/eea.facetednavigation/4.4</link>
+    <description>EEA Faceted Navigation</description>
+    <pubDate>03 Apr 2012 09:48:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>jmbo-chart 0.0.5</title>
+    <link>http://pypi.python.org/pypi/jmbo-chart/0.0.5</link>
+    <description>Jmbo chart app.</description>
+    <pubDate>03 Apr 2012 09:35:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-recaptcha 0.0.4</title>
+    <link>http://pypi.python.org/pypi/django-recaptcha/0.0.4</link>
+    <description>Django recaptcha form field/widget app.</description>
+    <pubDate>03 Apr 2012 09:30:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>podiff 0.1</title>
+    <link>http://pypi.python.org/pypi/podiff/0.1</link>
+    <description>Sematically compare two .po/gettext files for differences, ignoring, ordering, whitespace, comments, etc.</description>
+    <pubDate>03 Apr 2012 09:26:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>SQLAntaresia 0.4.2</title>
+    <link>http://pypi.python.org/pypi/SQLAntaresia/0.4.2</link>
+    <description>Cross platform MySQL management tools aimed at both developers and system administrators</description>
+    <pubDate>03 Apr 2012 09:10:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>pinax-theme-foundation 0.1.4b</title>
+    <link>http://pypi.python.org/pypi/pinax-theme-foundation/0.1.4b</link>
+    <description>Pinax theme based on Zurb's Foundation</description>
+    <pubDate>03 Apr 2012 09:02:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>rpc 0.0.3</title>
+    <link>http://pypi.python.org/pypi/rpc/0.0.3</link>
+    <description>RPC Client/Server library</description>
+    <pubDate>03 Apr 2012 08:48:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>jmbo-poll 0.0.1</title>
+    <link>http://pypi.python.org/pypi/jmbo-poll/0.0.1</link>
+    <description>Polling app for Jmbo.</description>
+    <pubDate>03 Apr 2012 08:26:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>redsolutioncms.django-simple-feedback 0.3.6</title>
+    <link>http://pypi.python.org/pypi/redsolutioncms.django-simple-feedback/0.3.6</link>
+    <description>Simple application, that provides customizable email form tempalte tag.
+You can specify form fields and optionally enable dedicated view to render feedback page.</description>
+    <pubDate>03 Apr 2012 07:45:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>vs.contentpopup 0.2.2</title>
+    <link>http://pypi.python.org/pypi/vs.contentpopup/0.2.2</link>
+    <description>vs.contentpopup</description>
+    <pubDate>03 Apr 2012 07:41:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>xlrd 0.7.5</title>
+    <link>http://pypi.python.org/pypi/xlrd/0.7.5</link>
+    <description>Library for developers to extract data from Microsoft Excel (tm) spreadsheet files</description>
+    <pubDate>03 Apr 2012 07:32:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>zopyx.smartprintng.plone 2.1.21</title>
+    <link>http://pypi.python.org/pypi/zopyx.smartprintng.plone/2.1.21</link>
+    <description>Produce &amp; Publisher server integration with Plone</description>
+    <pubDate>03 Apr 2012 07:30:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>plivo 0.2.2</title>
+    <link>http://pypi.python.org/pypi/plivo/0.2.2</link>
+    <description>Plivo Python library</description>
+    <pubDate>03 Apr 2012 06:59:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>orb 0.9.4</title>
+    <link>http://pypi.python.org/pypi/orb/0.9.4</link>
+    <description>pip/virtualenv shell script wrapper</description>
+    <pubDate>03 Apr 2012 06:38:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>Notable 0.0.5</title>
+    <link>http://pypi.python.org/pypi/Notable/0.0.5</link>
+    <description>A very simple note taking application</description>
+    <pubDate>03 Apr 2012 06:28:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>tkbd 0.3.3</title>
+    <link>http://pypi.python.org/pypi/tkbd/0.3.3</link>
+    <description>Terminal Kamer Bezetting Daemon voor de faculteit NWI van de Radboud Universiteit</description>
+    <pubDate>03 Apr 2012 06:22:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>callchain 0.2.6</title>
+    <link>http://pypi.python.org/pypi/callchain/0.2.6</link>
+    <description>callables and components joined in one big happy chain</description>
+    <pubDate>03 Apr 2012 06:19:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>twoq 0.4.10</title>
+    <link>http://pypi.python.org/pypi/twoq/0.4.10</link>
+    <description>iterator chaining, underscored by a two-headed queue</description>
+    <pubDate>03 Apr 2012 06:01:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>vos 1.2.0</title>
+    <link>http://pypi.python.org/pypi/vos/1.2.0</link>
+    <description>CADC VOSpace Filesystem</description>
+    <pubDate>03 Apr 2012 05:43:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>hgcp 0.12</title>
+    <link>http://pypi.python.org/pypi/hgcp/0.12</link>
+    <description>Mercurial cross-reposititory copy and move.</description>
+    <pubDate>03 Apr 2012 05:42:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>trollop 0.0.7</title>
+    <link>http://pypi.python.org/pypi/trollop/0.0.7</link>
+    <description>A Python library for working with the Trello api.</description>
+    <pubDate>03 Apr 2012 05:21:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.PloneGlossary 1.5.2.3</title>
+    <link>http://pypi.python.org/pypi/Products.PloneGlossary/1.5.2.3</link>
+    <description>Hilite Plone content terms, mouseover shows the term definition as tooltip.</description>
+    <pubDate>03 Apr 2012 05:15:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>gmusicapi 2012.04.03</title>
+    <link>http://pypi.python.org/pypi/gmusicapi/2012.04.03</link>
+    <description>An unofficial api for Google Play Music.</description>
+    <pubDate>03 Apr 2012 05:08:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-chronograph 0.3.0</title>
+    <link>http://pypi.python.org/pypi/django-chronograph/0.3.0</link>
+    <description>Django chronograph application.</description>
+    <pubDate>03 Apr 2012 04:59:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>matricks 0.3.18a</title>
+    <link>http://pypi.python.org/pypi/matricks/0.3.18a</link>
+    <description>manipulate datasets encoded as 2-D matrices with annotation (first) row and (first) column</description>
+    <pubDate>03 Apr 2012 04:53:36 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>Products.CMFUid 2.3.0-beta</title>
+    <link>http://pypi.python.org/pypi/Products.CMFUid/2.3.0-beta</link>
+    <description>Uid product for the Zope Content Management Framework</description>
+    <pubDate>21 Mar 2012 21:44:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygamess 0.2.1</title>
+    <link>http://pypi.python.org/pypi/pygamess/0.2.1</link>
+    <description>GAMESS wrapper for Python</description>
+    <pubDate>21 Mar 2012 21:42:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.CMFTopic 2.3.0-beta</title>
+    <link>http://pypi.python.org/pypi/Products.CMFTopic/2.3.0-beta</link>
+    <description>Topic product for the Zope Content Management Framework</description>
+    <pubDate>21 Mar 2012 21:41:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>jsongit 0.0.4</title>
+    <link>http://pypi.python.org/pypi/jsongit/0.0.4</link>
+    <description>Git for JSON</description>
+    <pubDate>21 Mar 2012 21:39:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.CMFDefault 2.3.0-beta</title>
+    <link>http://pypi.python.org/pypi/Products.CMFDefault/2.3.0-beta</link>
+    <description>Default product for the Zope Content Management Framework</description>
+    <pubDate>21 Mar 2012 21:39:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.CMFCore 2.3.0-beta</title>
+    <link>http://pypi.python.org/pypi/Products.CMFCore/2.3.0-beta</link>
+    <description>Zope Content Management Framework core components</description>
+    <pubDate>21 Mar 2012 21:35:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>mirte 0.1.4</title>
+    <link>http://pypi.python.org/pypi/mirte/0.1.4</link>
+    <description>Runtime module framework</description>
+    <pubDate>21 Mar 2012 21:34:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.CMFCalendar 2.3.0-beta</title>
+    <link>http://pypi.python.org/pypi/Products.CMFCalendar/2.3.0-beta</link>
+    <description>Calendar product for the Zope Content Management Framework</description>
+    <pubDate>21 Mar 2012 21:33:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-widget-tweaks 1.1</title>
+    <link>http://pypi.python.org/pypi/django-widget-tweaks/1.1</link>
+    <description>Tweak the form field rendering in templates, not in python-level form definitions.</description>
+    <pubDate>21 Mar 2012 21:32:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>nesterCR 1.3.1</title>
+    <link>http://pypi.python.org/pypi/nesterCR/1.3.1</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>21 Mar 2012 21:29:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>LinOTPAdminClientCE 2.4.2</title>
+    <link>http://pypi.python.org/pypi/LinOTPAdminClientCE/2.4.2</link>
+    <description>LinOTP Client Community Edition</description>
+    <pubDate>21 Mar 2012 21:11:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>LinOtpUserIdResolver 2.4.2dev</title>
+    <link>http://pypi.python.org/pypi/LinOtpUserIdResolver/2.4.2dev</link>
+    <description>LinOTP2 modules for resolving usernames (CE)</description>
+    <pubDate>21 Mar 2012 21:11:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>LinOTP 2.4.2</title>
+    <link>http://pypi.python.org/pypi/LinOTP/2.4.2</link>
+    <description>LinOTP Service</description>
+    <pubDate>21 Mar 2012 21:11:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>btcnet_info 0.1.2.5</title>
+    <link>http://pypi.python.org/pypi/btcnet_info/0.1.2.5</link>
+    <description>BitCoin Network Information Library</description>
+    <pubDate>21 Mar 2012 21:01:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-registration-me 0.7.1</title>
+    <link>http://pypi.python.org/pypi/django-registration-me/0.7.1</link>
+    <description>An extensible user-registration application for Django using MongoEngine</description>
+    <pubDate>21 Mar 2012 20:48:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-webtest 1.5.1</title>
+    <link>http://pypi.python.org/pypi/django-webtest/1.5.1</link>
+    <description>Instant integration of Ian Bicking's WebTest
+(http://pythonpaste.org/webtest/) with django's testing framework.</description>
+    <pubDate>21 Mar 2012 20:43:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>crank 0.6.2</title>
+    <link>http://pypi.python.org/pypi/crank/0.6.2</link>
+    <description>Generalization of dispatch mechanism for use across frameworks.</description>
+    <pubDate>21 Mar 2012 20:34:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>json_rest 0.1.6</title>
+    <link>http://pypi.python.org/pypi/json_rest/0.1.6</link>
+    <description>Utility for REST/JSON based web services</description>
+    <pubDate>21 Mar 2012 20:29:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.ResourceRegistries 2.0.8</title>
+    <link>http://pypi.python.org/pypi/Products.ResourceRegistries/2.0.8</link>
+    <description>Registry for managing CSS and JS</description>
+    <pubDate>21 Mar 2012 20:19:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>jsb 0.84.2</title>
+    <link>http://pypi.python.org/pypi/jsb/0.84.2</link>
+    <description>The bot for you!</description>
+    <pubDate>21 Mar 2012 20:11:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>Cartridge 0.4.7</title>
+    <link>http://pypi.python.org/pypi/Cartridge/0.4.7</link>
+    <description>A Django shopping cart application.</description>
+    <pubDate>21 Mar 2012 20:05:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-pandora 0.7-33</title>
+    <link>http://pypi.python.org/pypi/python-pandora/0.7-33</link>
+    <description>Library to access pandora.com. Based on the work from http://forum.xbmc.org/showthread.php?t=70471</description>
+    <pubDate>21 Mar 2012 20:03:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>Mezzanine 1.0.6</title>
+    <link>http://pypi.python.org/pypi/Mezzanine/1.0.6</link>
+    <description>An open source content management platform built using the Django framework.</description>
+    <pubDate>21 Mar 2012 19:51:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyblueprints 0.5.2</title>
+    <link>http://pypi.python.org/pypi/pyblueprints/0.5.2</link>
+    <description>A Python version of the Blueprints
+                    property graph model interface</description>
+    <pubDate>21 Mar 2012 19:49:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>twython 1.5.1</title>
+    <link>http://pypi.python.org/pypi/twython/1.5.1</link>
+    <description>An easy (and up to date) way to access Twitter data with Python.</description>
+    <pubDate>21 Mar 2012 19:46:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>beyondskins.responsive 0.3</title>
+    <link>http://pypi.python.org/pypi/beyondskins.responsive/0.3</link>
+    <description>A responsive design for Plone/Diazo powered sites</description>
+    <pubDate>21 Mar 2012 19:41:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>annotator 0.7.1</title>
+    <link>http://pypi.python.org/pypi/annotator/0.7.1</link>
+    <description>Inline web annotation application and middleware using javascript and WSGI</description>
+    <pubDate>21 Mar 2012 19:38:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>jsb3 0.4.1</title>
+    <link>http://pypi.python.org/pypi/jsb3/0.4.1</link>
+    <description>JSONBOT 3 on Python 3</description>
+    <pubDate>21 Mar 2012 19:19:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>armstrong.apps.donations 0.10.0</title>
+    <link>http://pypi.python.org/pypi/armstrong.apps.donations/0.10.0</link>
+    <description>Provides a framework for accepting donations</description>
+    <pubDate>21 Mar 2012 18:52:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>remote-webkit-debug 0.0.1</title>
+    <link>http://pypi.python.org/pypi/remote-webkit-debug/0.0.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>21 Mar 2012 18:50:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>tiddlywebplugins.sqlalchemy3 3.0.2</title>
+    <link>http://pypi.python.org/pypi/tiddlywebplugins.sqlalchemy3/3.0.2</link>
+    <description>sqlalchemy store for tiddlyweb</description>
+    <pubDate>21 Mar 2012 18:43:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>armstrong.core.arm_wells 1.5.0</title>
+    <link>http://pypi.python.org/pypi/armstrong.core.arm_wells/1.5.0</link>
+    <description>Provides the basic well objects</description>
+    <pubDate>21 Mar 2012 18:35:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>weetwit 0.6.2</title>
+    <link>http://pypi.python.org/pypi/weetwit/0.6.2</link>
+    <description>Twitter suite for Weechat.</description>
+    <pubDate>21 Mar 2012 18:35:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-dockit 0.0.11</title>
+    <link>http://pypi.python.org/pypi/django-dockit/0.0.11</link>
+    <description>UNKNOWN</description>
+    <pubDate>21 Mar 2012 18:32:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>tron 0.3.0</title>
+    <link>http://pypi.python.org/pypi/tron/0.3.0</link>
+    <description>Job scheduling and monitoring system</description>
+    <pubDate>21 Mar 2012 18:27:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>armstrong.core.arm_layout 1.1.0</title>
+    <link>http://pypi.python.org/pypi/armstrong.core.arm_layout/1.1.0</link>
+    <description>Layout code related to Armstrong</description>
+    <pubDate>21 Mar 2012 18:11:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>slc.outdated 1.2</title>
+    <link>http://pypi.python.org/pypi/slc.outdated/1.2</link>
+    <description>Mark and treat plone content as outdated</description>
+    <pubDate>21 Mar 2012 18:11:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>WeasyPrint 0.7</title>
+    <link>http://pypi.python.org/pypi/WeasyPrint/0.7</link>
+    <description>WeasyPrint converts web documents to PDF.</description>
+    <pubDate>21 Mar 2012 18:02:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>mozregression 0.6.2</title>
+    <link>http://pypi.python.org/pypi/mozregression/0.6.2</link>
+    <description>Regression range finder for Mozilla nightly builds</description>
+    <pubDate>21 Mar 2012 17:59:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>mozcommitbuilder 0.4.9</title>
+    <link>http://pypi.python.org/pypi/mozcommitbuilder/0.4.9</link>
+    <description>Regression finder using Mozilla central repo</description>
+    <pubDate>21 Mar 2012 17:57:14 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

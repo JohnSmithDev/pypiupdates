@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>cloud 2.4.5</title>
+    <link>http://pypi.python.org/pypi/cloud/2.4.5</link>
+    <description>PiCloud client-side library</description>
+    <pubDate>28 Mar 2012 11:14:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>asv_seo dev-20120327-02</title>
+    <link>http://pypi.python.org/pypi/asv_seo/dev-20120327-02</link>
+    <description>This is a title, keywords, descriptions connecting to any django model by ContentTypes.</description>
+    <pubDate>28 Mar 2012 11:14:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>rpc 0.0.1.3.2</title>
+    <link>http://pypi.python.org/pypi/rpc/0.0.1.3.2</link>
+    <description>RPC Client/Server library</description>
+    <pubDate>28 Mar 2012 11:12:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftp-cloudfs 0.12.2</title>
+    <link>http://pypi.python.org/pypi/ftp-cloudfs/0.12.2</link>
+    <description>FTP interface to Rackspace Cloud Files and OpenStack Swift</description>
+    <pubDate>28 Mar 2012 10:46:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>slapos.toolbox 0.19</title>
+    <link>http://pypi.python.org/pypi/slapos.toolbox/0.19</link>
+    <description>SlapOS toolbox.</description>
+    <pubDate>28 Mar 2012 10:31:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>charbeat 0.1</title>
+    <link>http://pypi.python.org/pypi/charbeat/0.1</link>
+    <description>A charbeat/newsbeat API wrapper.</description>
+    <pubDate>28 Mar 2012 10:22:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>sqlitebck 1.0</title>
+    <link>http://pypi.python.org/pypi/sqlitebck/1.0</link>
+    <description>Sqlite3 online backup API implementation.</description>
+    <pubDate>28 Mar 2012 10:04:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>ella 2.1.3</title>
+    <link>http://pypi.python.org/pypi/ella/2.1.3</link>
+    <description>Ella - Django powered CMS</description>
+    <pubDate>28 Mar 2012 09:40:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>callchain 0.2.1</title>
+    <link>http://pypi.python.org/pypi/callchain/0.2.1</link>
+    <description>callables and components joined in one big happy call chain</description>
+    <pubDate>28 Mar 2012 09:37:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_zodbconn 0.3</title>
+    <link>http://pypi.python.org/pypi/pyramid_zodbconn/0.3</link>
+    <description>A package which provides integration betwen Pyramid and ZODB</description>
+    <pubDate>28 Mar 2012 09:26:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>twoq 0.4.7</title>
+    <link>http://pypi.python.org/pypi/twoq/0.4.7</link>
+    <description>iterator chaining, underscored by a two-headed queue</description>
+    <pubDate>28 Mar 2012 09:23:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>stuf 0.8.11</title>
+    <link>http://pypi.python.org/pypi/stuf/0.8.11</link>
+    <description>stuf has attributes</description>
+    <pubDate>28 Mar 2012 09:19:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygal 0.9.19</title>
+    <link>http://pypi.python.org/pypi/pygal/0.9.19</link>
+    <description>A python svg graph plotting library</description>
+    <pubDate>28 Mar 2012 09:05:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>libtopic 1.2.0</title>
+    <link>http://pypi.python.org/pypi/libtopic/1.2.0</link>
+    <description>Common utilities library</description>
+    <pubDate>28 Mar 2012 09:03:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-server 0.11.1</title>
+    <link>http://pypi.python.org/pypi/lava-server/0.11.1</link>
+    <description>LAVA Server Application Container</description>
+    <pubDate>28 Mar 2012 08:42:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>jabbatron 0.1.0</title>
+    <link>http://pypi.python.org/pypi/jabbatron/0.1.0</link>
+    <description>Interactive installer script for Ubuntu.</description>
+    <pubDate>28 Mar 2012 08:32:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>rt.zps 0.9.3</title>
+    <link>http://pypi.python.org/pypi/rt.zps/0.9.3</link>
+    <description>A zope processes inspector</description>
+    <pubDate>28 Mar 2012 08:05:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>topzootools 0.3.34dev-20120328</title>
+    <link>http://pypi.python.org/pypi/topzootools/0.3.34dev-20120328</link>
+    <description>Processing and conversion tools for Internet Topology Zoo</description>
+    <pubDate>28 Mar 2012 07:11:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_tm 0.4</title>
+    <link>http://pypi.python.org/pypi/pyramid_tm/0.4</link>
+    <description>A package which allows Pyramid requests to join the active transaction</description>
+    <pubDate>28 Mar 2012 07:10:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.z3cform.norobots 1.3.1</title>
+    <link>http://pypi.python.org/pypi/collective.z3cform.norobots/1.3.1</link>
+    <description>Human readable captcha for z3cform</description>
+    <pubDate>28 Mar 2012 07:05:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>slapos.cookbook 0.43</title>
+    <link>http://pypi.python.org/pypi/slapos.cookbook/0.43</link>
+    <description>SlapOS recipes.</description>
+    <pubDate>28 Mar 2012 06:59:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-hunger 1.0.5</title>
+    <link>http://pypi.python.org/pypi/django-hunger/1.0.5</link>
+    <description>A Django app to manage a private beta phase.</description>
+    <pubDate>28 Mar 2012 06:48:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>piep 0.5</title>
+    <link>http://pypi.python.org/pypi/piep/0.5</link>
+    <description>unix-style stream manipulation with python's syntax</description>
+    <pubDate>28 Mar 2012 06:34:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxcontrib-httpdomain 1.1.7</title>
+    <link>http://pypi.python.org/pypi/sphinxcontrib-httpdomain/1.1.7</link>
+    <description>Sphinx domain for HTTP APIs</description>
+    <pubDate>28 Mar 2012 06:15:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>eplist 0.1.5</title>
+    <link>http://pypi.python.org/pypi/eplist/0.1.5</link>
+    <description>Simple episode renaming program</description>
+    <pubDate>28 Mar 2012 05:44:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>palette_detect 0.2.0</title>
+    <link>http://pypi.python.org/pypi/palette_detect/0.2.0</link>
+    <description>Palette detection from images.</description>
+    <pubDate>28 Mar 2012 05:44:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>gyroid 0.3</title>
+    <link>http://pypi.python.org/pypi/gyroid/0.3</link>
+    <description>A symmetry adapted basis function (SABF) generator.</description>
+    <pubDate>28 Mar 2012 05:31:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>testosterone 0.4.2</title>
+    <link>http://pypi.python.org/pypi/testosterone/0.4.2</link>
+    <description>testosterone is a manly testing interface for Python.</description>
+    <pubDate>28 Mar 2012 04:00:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>pbs 0.104</title>
+    <link>http://pypi.python.org/pypi/pbs/0.104</link>
+    <description>Python subprocess wrapper</description>
+    <pubDate>28 Mar 2012 03:51:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_formencode_classic 0.0.7</title>
+    <link>http://pypi.python.org/pypi/pyramid_formencode_classic/0.0.7</link>
+    <description>an implementation of the classic pylons formencode validation, for pyramid</description>
+    <pubDate>28 Mar 2012 03:12:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>py-trello 0.1</title>
+    <link>http://pypi.python.org/pypi/py-trello/0.1</link>
+    <description>wrapper around the Trello API</description>
+    <pubDate>28 Mar 2012 03:10:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>ranivris_test 1.0.0</title>
+    <link>http://pypi.python.org/pypi/ranivris_test/1.0.0</link>
+    <description>Simple Example</description>
+    <pubDate>28 Mar 2012 02:49:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>snmposter 0.9.3dev</title>
+    <link>http://pypi.python.org/pypi/snmposter/0.9.3dev</link>
+    <description>SNMP Agent Simulator</description>
+    <pubDate>28 Mar 2012 02:45:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>dropbox 1.4</title>
+    <link>http://pypi.python.org/pypi/dropbox/1.4</link>
+    <description>Official Dropbox REST API Client</description>
+    <pubDate>28 Mar 2012 02:33:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_appengine 0.5.3dev</title>
+    <link>http://pypi.python.org/pypi/pyramid_appengine/0.5.3dev</link>
+    <description>Scaffold + Tools for creating/developing pyramid applications on Google App Engine</description>
+    <pubDate>28 Mar 2012 01:57:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-safe 0.1.18</title>
+    <link>http://pypi.python.org/pypi/python-safe/0.1.18</link>
+    <description>Spatial Analysis F* Engine</description>
+    <pubDate>28 Mar 2012 01:34:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyroonga 0.4</title>
+    <link>http://pypi.python.org/pypi/pyroonga/0.4</link>
+    <description>Python interface for groonga</description>
+    <pubDate>28 Mar 2012 01:30:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>TileStache 1.29.3</title>
+    <link>http://pypi.python.org/pypi/TileStache/1.29.3</link>
+    <description>A stylish alternative for caching your map tiles.</description>
+    <pubDate>28 Mar 2012 01:12:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>identeco 0.1</title>
+    <link>http://pypi.python.org/pypi/identeco/0.1</link>
+    <description>An OpenID Provider for Django</description>
+    <pubDate>28 Mar 2012 01:06:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>ses2 0.1.3</title>
+    <link>http://pypi.python.org/pypi/ses2/0.1.3</link>
+    <description>Library for status/control of SES2 enclosure management devices</description>
+    <pubDate>28 Mar 2012 00:18:29 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

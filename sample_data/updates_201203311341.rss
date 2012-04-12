@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>TaskCoach 1.3.11</title>
+    <link>http://pypi.python.org/pypi/TaskCoach/1.3.11</link>
+    <description>Your friendly task manager</description>
+    <pubDate>31 Mar 2012 11:43:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxcontrib-plantuml 0.3</title>
+    <link>http://pypi.python.org/pypi/sphinxcontrib-plantuml/0.3</link>
+    <description>Sphinx "plantuml" extension</description>
+    <pubDate>31 Mar 2012 11:42:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>curlish 1.2</title>
+    <link>http://pypi.python.org/pypi/curlish/1.2</link>
+    <description>A wrapper for curl that adds OAuth support</description>
+    <pubDate>31 Mar 2012 11:40:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>SQLObject 1.3.0</title>
+    <link>http://pypi.python.org/pypi/SQLObject/1.3.0</link>
+    <description>Object-Relational Manager, aka database wrapper</description>
+    <pubDate>31 Mar 2012 11:10:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>linkchecker 7.6</title>
+    <link>http://pypi.python.org/pypi/linkchecker/7.6</link>
+    <description>check websites and HTML documents for broken links</description>
+    <pubDate>31 Mar 2012 11:07:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>openerp_pastertemplates 1.0a5</title>
+    <link>http://pypi.python.org/pypi/openerp_pastertemplates/1.0a5</link>
+    <description>Paster template for creating new OpenERP modules</description>
+    <pubDate>31 Mar 2012 10:24:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftp_bruteforce 1.0.0</title>
+    <link>http://pypi.python.org/pypi/ftp_bruteforce/1.0.0</link>
+    <description>A simple ftp bruteforce script</description>
+    <pubDate>31 Mar 2012 09:54:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>pysmb 1.0.2</title>
+    <link>http://pypi.python.org/pypi/pysmb/1.0.2</link>
+    <description>pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines</description>
+    <pubDate>31 Mar 2012 09:42:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-resto 1.0</title>
+    <link>http://pypi.python.org/pypi/django-resto/1.0</link>
+    <description>REplicated STOrage for Django, a file backend that mirrors media files to several servers over HTTP</description>
+    <pubDate>31 Mar 2012 09:13:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>gum-audio 0.8.2</title>
+    <link>http://pypi.python.org/pypi/gum-audio/0.8.2</link>
+    <description>Gum Audio Editor</description>
+    <pubDate>31 Mar 2012 08:57:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>grs 0.1.3</title>
+    <link>http://pypi.python.org/pypi/grs/0.1.3</link>
+    <description>台灣上市股票價格擷取（Fetch TWSE stock data）含即時盤、台灣時間轉換、開休市判斷。</description>
+    <pubDate>31 Mar 2012 08:54:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>md5creator 1.0.0</title>
+    <link>http://pypi.python.org/pypi/md5creator/1.0.0</link>
+    <description>A simple string to md5 creator</description>
+    <pubDate>31 Mar 2012 08:17:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>md5cracker 1.0.0</title>
+    <link>http://pypi.python.org/pypi/md5cracker/1.0.0</link>
+    <description>A simple online md5 cracker</description>
+    <pubDate>31 Mar 2012 08:16:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-mpd2 0.4.1</title>
+    <link>http://pypi.python.org/pypi/python-mpd2/0.4.1</link>
+    <description>A Python MPD client library</description>
+    <pubDate>31 Mar 2012 07:56:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-engineplate 0.1.0.1</title>
+    <link>http://pypi.python.org/pypi/django-engineplate/0.1.0.1</link>
+    <description>A Django-engineplate App for easy life</description>
+    <pubDate>31 Mar 2012 07:29:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>Notable 0.0.4</title>
+    <link>http://pypi.python.org/pypi/Notable/0.0.4</link>
+    <description>A very simple note taking application</description>
+    <pubDate>31 Mar 2012 07:08:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-lfs 0.7.0b6</title>
+    <link>http://pypi.python.org/pypi/django-lfs/0.7.0b6</link>
+    <description>LFS - Lightning Fast Shop</description>
+    <pubDate>31 Mar 2012 07:06:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-lfstheme 0.7.0b6</title>
+    <link>http://pypi.python.org/pypi/django-lfstheme/0.7.0b6</link>
+    <description>The default theme for LFS</description>
+    <pubDate>31 Mar 2012 07:05:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>stuf 0.8.12</title>
+    <link>http://pypi.python.org/pypi/stuf/0.8.12</link>
+    <description>stuf has attributes</description>
+    <pubDate>31 Mar 2012 06:32:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>crate-test 1.1</title>
+    <link>http://pypi.python.org/pypi/crate-test/1.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>31 Mar 2012 06:15:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>callchain 0.2.4</title>
+    <link>http://pypi.python.org/pypi/callchain/0.2.4</link>
+    <description>callables and components joined in one big happy chain</description>
+    <pubDate>31 Mar 2012 06:11:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>bulbs 0.3-20120331</title>
+    <link>http://pypi.python.org/pypi/bulbs/0.3-20120331</link>
+    <description>A Python persistence framework for graph databases that connects to Neo4j Server, Rexster, OrientDB, Lightsocket.</description>
+    <pubDate>31 Mar 2012 05:57:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>vidscraper 0.5</title>
+    <link>http://pypi.python.org/pypi/vidscraper/0.5</link>
+    <description>UNKNOWN</description>
+    <pubDate>31 Mar 2012 04:51:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>pytextseg 0.2.0</title>
+    <link>http://pypi.python.org/pypi/pytextseg/0.2.0</link>
+    <description>Python module for text segmentation.</description>
+    <pubDate>31 Mar 2012 04:47:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>rospkg 1.0.1</title>
+    <link>http://pypi.python.org/pypi/rospkg/1.0.1</link>
+    <description>ROS package library</description>
+    <pubDate>31 Mar 2012 04:13:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>requests 0.11.1</title>
+    <link>http://pypi.python.org/pypi/requests/0.11.1</link>
+    <description>Python HTTP for Humans.</description>
+    <pubDate>31 Mar 2012 03:47:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygamess 0.3.0</title>
+    <link>http://pypi.python.org/pypi/pygamess/0.3.0</link>
+    <description>GAMESS wrapper for Python</description>
+    <pubDate>31 Mar 2012 03:46:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>git-crucible 0.1.2</title>
+    <link>http://pypi.python.org/pypi/git-crucible/0.1.2</link>
+    <description>Git extension that creates reviews in Crucible straight from the command line.</description>
+    <pubDate>31 Mar 2012 03:37:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygameui 0.0.1</title>
+    <link>http://pypi.python.org/pypi/pygameui/0.0.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>31 Mar 2012 03:24:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>gserver 0.1.7</title>
+    <link>http://pypi.python.org/pypi/gserver/0.1.7</link>
+    <description>Simple wrapper around gevent's wsgi server.Adds simple regex routing, error handling, and json/jsonp handling.</description>
+    <pubDate>31 Mar 2012 03:09:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>petl 0.9</title>
+    <link>http://pypi.python.org/pypi/petl/0.9</link>
+    <description>A tentative Python module for extracting, transforming and loading tables of data.</description>
+    <pubDate>31 Mar 2012 02:38:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>pecan 0.2a</title>
+    <link>http://pypi.python.org/pypi/pecan/0.2a</link>
+    <description>A WSGI object-dispatching web framework, designed to be lean and fast, with few dependancies.</description>
+    <pubDate>31 Mar 2012 01:30:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>jaraco.net 2.0.4</title>
+    <link>http://pypi.python.org/pypi/jaraco.net/2.0.4</link>
+    <description>Networking tools by jaraco</description>
+    <pubDate>31 Mar 2012 01:04:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>virtstrap-local 0.3.5</title>
+    <link>http://pypi.python.org/pypi/virtstrap-local/0.3.5</link>
+    <description>virtstrap's project local commands</description>
+    <pubDate>31 Mar 2012 00:17:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>virtstrap-core 0.3.5</title>
+    <link>http://pypi.python.org/pypi/virtstrap-core/0.3.5</link>
+    <description>A bootstrapping mechanism for virtualenv+pip and shell scripts</description>
+    <pubDate>31 Mar 2012 00:17:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>virtstrap 0.3.5</title>
+    <link>http://pypi.python.org/pypi/virtstrap/0.3.5</link>
+    <description>virtstrap - Making repeatable environments easy!</description>
+    <pubDate>31 Mar 2012 00:17:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>Mako 0.7.0</title>
+    <link>http://pypi.python.org/pypi/Mako/0.7.0</link>
+    <description>A super-fast templating language that borrows the  best ideas from the existing templating languages.</description>
+    <pubDate>31 Mar 2012 00:01:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>PaInt 0.1.1</title>
+    <link>http://pypi.python.org/pypi/PaInt/0.1.1</link>
+    <description>python PAckage INTrospection</description>
+    <pubDate>30 Mar 2012 23:47:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>CommandParser 0.1.2</title>
+    <link>http://pypi.python.org/pypi/CommandParser/0.1.2</link>
+    <description>change objects to OptionParser instances via reflection</description>
+    <pubDate>30 Mar 2012 23:46:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>dogpile 0.2.2</title>
+    <link>http://pypi.python.org/pypi/dogpile/0.2.2</link>
+    <description>A 'dogpile' lock, typically used as a component of a larger caching solution</description>
+    <pubDate>30 Mar 2012 22:52:52 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

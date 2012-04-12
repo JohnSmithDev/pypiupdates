@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>wae 0.1a1</title>
+    <link>http://pypi.python.org/pypi/wae/0.1a1</link>
+    <description>Web Application Engine</description>
+    <pubDate>29 Mar 2012 13:08:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>cmsplugin-nivoslider 0.2.4</title>
+    <link>http://pypi.python.org/pypi/cmsplugin-nivoslider/0.2.4</link>
+    <description>Simple Nivo Slider plugin for django-cms</description>
+    <pubDate>29 Mar 2012 13:05:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>http1 0.1.0</title>
+    <link>http://pypi.python.org/pypi/http1/0.1.0</link>
+    <description>http1 is an API to perform HTTP requests in a single call.</description>
+    <pubDate>29 Mar 2012 13:03:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-group-access 1.1.0</title>
+    <link>http://pypi.python.org/pypi/django-group-access/1.1.0</link>
+    <description>Base Django model to add access control, via groups, to objects.</description>
+    <pubDate>29 Mar 2012 12:50:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-oauth2-provider 0.2.2</title>
+    <link>http://pypi.python.org/pypi/django-oauth2-provider/0.2.2</link>
+    <description>Provide OAuth2 access to your app</description>
+    <pubDate>29 Mar 2012 12:50:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>joyce 0.1.7</title>
+    <link>http://pypi.python.org/pypi/joyce/0.1.7</link>
+    <description>JSON channels</description>
+    <pubDate>29 Mar 2012 12:38:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>adrest 1.1.10</title>
+    <link>http://pypi.python.org/pypi/adrest/1.1.10</link>
+    <description>Adrest - another django REST. Simple application for quick build RESTfull API.</description>
+    <pubDate>29 Mar 2012 11:59:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.sendaspdf 2.5</title>
+    <link>http://pypi.python.org/pypi/collective.sendaspdf/2.5</link>
+    <description>An open source product for Plone to download or email a page seen by the user as a PDF file.</description>
+    <pubDate>29 Mar 2012 11:59:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>jabbapylib 0.1.7</title>
+    <link>http://pypi.python.org/pypi/jabbapylib/0.1.7</link>
+    <description>A lightweight, general-purpose Python library</description>
+    <pubDate>29 Mar 2012 11:47:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>bambu-tools 1.1</title>
+    <link>http://pypi.python.org/pypi/bambu-tools/1.1</link>
+    <description>Tools for Django webapps</description>
+    <pubDate>29 Mar 2012 11:37:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>asset_bundles 0.1.3</title>
+    <link>http://pypi.python.org/pypi/asset_bundles/0.1.3</link>
+    <description>simple clone of django_assets compatible with django 1.3 and staticfiles</description>
+    <pubDate>29 Mar 2012 11:32:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>mmseg 1.3.0</title>
+    <link>http://pypi.python.org/pypi/mmseg/1.3.0</link>
+    <description>MMseg中文分词 Chinese Segment On MMSeg Algorithm</description>
+    <pubDate>29 Mar 2012 10:59:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>slapos.core 0.24</title>
+    <link>http://pypi.python.org/pypi/slapos.core/0.24</link>
+    <description>SlapOS core.</description>
+    <pubDate>29 Mar 2012 10:55:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-coop 0.1.6</title>
+    <link>http://pypi.python.org/pypi/django-coop/0.1.6</link>
+    <description>A basis for a cooperative organization directory, with people, organization, offers.</description>
+    <pubDate>29 Mar 2012 10:49:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>tiddlywebplugins.links 0.9</title>
+    <link>http://pypi.python.org/pypi/tiddlywebplugins.links/0.9</link>
+    <description>Maintain a tiddlers links database</description>
+    <pubDate>29 Mar 2012 10:43:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>i3-py 0.5.5</title>
+    <link>http://pypi.python.org/pypi/i3-py/0.5.5</link>
+    <description>tools for i3 users and developers</description>
+    <pubDate>29 Mar 2012 10:42:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>rfc3987 1.2.1</title>
+    <link>http://pypi.python.org/pypi/rfc3987/1.2.1</link>
+    <description>Parsing and validation of URIs (RFC 3896) and IRIs (RFC 3987)</description>
+    <pubDate>29 Mar 2012 10:23:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>mmpy 0.1.2</title>
+    <link>http://pypi.python.org/pypi/mmpy/0.1.2</link>
+    <description>Musicmetric API Wrapper</description>
+    <pubDate>29 Mar 2012 10:14:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>WSME 0.3b2</title>
+    <link>http://pypi.python.org/pypi/WSME/0.3b2</link>
+    <description>Web Services Made Easy</description>
+    <pubDate>29 Mar 2012 10:06:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>slapos.cookbook 0.45</title>
+    <link>http://pypi.python.org/pypi/slapos.cookbook/0.45</link>
+    <description>SlapOS recipes.</description>
+    <pubDate>29 Mar 2012 09:57:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>lck.django 0.7.2</title>
+    <link>http://pypi.python.org/pypi/lck.django/0.7.2</link>
+    <description>Various common Django-related routines.</description>
+    <pubDate>29 Mar 2012 09:52:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>py2pack 0.4.1</title>
+    <link>http://pypi.python.org/pypi/py2pack/0.4.1</link>
+    <description>Generate distribution packages from Python packages on PyPI</description>
+    <pubDate>29 Mar 2012 09:44:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyGPD3303S 1.1.0</title>
+    <link>http://pypi.python.org/pypi/PyGPD3303S/1.1.0</link>
+    <description>Python Interface for DC power supply GPD-3303S</description>
+    <pubDate>29 Mar 2012 09:36:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>slapos.recipe.template 2.3</title>
+    <link>http://pypi.python.org/pypi/slapos.recipe.template/2.3</link>
+    <description>Templating recipe with remote resource support.</description>
+    <pubDate>29 Mar 2012 09:34:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>gayeogi 0.6.3</title>
+    <link>http://pypi.python.org/pypi/gayeogi/0.6.3</link>
+    <description>A fully-featured music management suite.</description>
+    <pubDate>29 Mar 2012 09:02:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>bug-repo-syncer 0.3.0b6</title>
+    <link>http://pypi.python.org/pypi/bug-repo-syncer/0.3.0b6</link>
+    <description>Program to synchronize bug repositories</description>
+    <pubDate>29 Mar 2012 08:59:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>pydotmailer 0.1</title>
+    <link>http://pypi.python.org/pypi/pydotmailer/0.1</link>
+    <description>A reusable python module for driving the dotMailer API</description>
+    <pubDate>29 Mar 2012 08:51:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>psycopg2 2.4.5</title>
+    <link>http://pypi.python.org/pypi/psycopg2/2.4.5</link>
+    <description>Python-PostgreSQL Database Adapter</description>
+    <pubDate>29 Mar 2012 08:27:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>"Coversation With Your Car" 1.00</title>
+    <link>http://pypi.python.org/pypi/%22Coversation%20With%20Your%20Car%22/1.00</link>
+    <description>Conversation With Your Computer</description>
+    <pubDate>29 Mar 2012 08:18:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>txtorcon 0.1</title>
+    <link>http://pypi.python.org/pypi/txtorcon/0.1</link>
+    <description>Twisted-based Tor controller client, with state-tracking and configuration abstractions.</description>
+    <pubDate>29 Mar 2012 08:00:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>gocept.sftpcopy 0.2.1</title>
+    <link>http://pypi.python.org/pypi/gocept.sftpcopy/0.2.1</link>
+    <description>Upload/download files via SFTP to a  maildir structure</description>
+    <pubDate>29 Mar 2012 07:49:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>gocept.amqparchive 1.2.2</title>
+    <link>http://pypi.python.org/pypi/gocept.amqparchive/1.2.2</link>
+    <description>Archiving, indexing and search for AMQP messages.</description>
+    <pubDate>29 Mar 2012 07:48:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>assertEquals 0.4.2</title>
+    <link>http://pypi.python.org/pypi/assertEquals/0.4.2</link>
+    <description>assertEquals is an epic testing interface for Python.</description>
+    <pubDate>29 Mar 2012 07:45:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>infi.execute 0.0.5</title>
+    <link>http://pypi.python.org/pypi/infi.execute/0.0.5</link>
+    <description>wrapper library for executing system commands from Python</description>
+    <pubDate>29 Mar 2012 07:33:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>robotframework-ride 0.43.3</title>
+    <link>http://pypi.python.org/pypi/robotframework-ride/0.43.3</link>
+    <description>RIDE :: Robot Framework Test Data Editor</description>
+    <pubDate>29 Mar 2012 07:30:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>Chameleon 2.8.1</title>
+    <link>http://pypi.python.org/pypi/Chameleon/2.8.1</link>
+    <description>Fast HTML/XML Template Compiler.</description>
+    <pubDate>29 Mar 2012 06:20:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>Flask-Restless 0.4</title>
+    <link>http://pypi.python.org/pypi/Flask-Restless/0.4</link>
+    <description>A Flask extension for easy ReSTful API generation</description>
+    <pubDate>29 Mar 2012 05:49:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>callchain 0.2.3</title>
+    <link>http://pypi.python.org/pypi/callchain/0.2.3</link>
+    <description>callables and components joined in one big happy call chain</description>
+    <pubDate>29 Mar 2012 04:31:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>twoq 0.4.8</title>
+    <link>http://pypi.python.org/pypi/twoq/0.4.8</link>
+    <description>iterator chaining, underscored by a two-headed queue</description>
+    <pubDate>29 Mar 2012 04:27:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>pystache 0.4.1</title>
+    <link>http://pypi.python.org/pypi/pystache/0.4.1</link>
+    <description>Mustache for Python</description>
+    <pubDate>29 Mar 2012 04:14:10 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

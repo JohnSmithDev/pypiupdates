@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>coop-cms 0.4.8</title>
+    <link>http://pypi.python.org/pypi/coop-cms/0.4.8</link>
+    <description>Small CMS built around a tree navigation open to any django models</description>
+    <pubDate>02 Apr 2012 10:17:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.pygal.plonestats 0.1</title>
+    <link>http://pypi.python.org/pypi/collective.pygal.plonestats/0.1</link>
+    <description>Simple plone portalindex statistics with pygal</description>
+    <pubDate>02 Apr 2012 10:17:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>annotator 0.7.6</title>
+    <link>http://pypi.python.org/pypi/annotator/0.7.6</link>
+    <description>Inline web annotation application and middleware using javascript and WSGI</description>
+    <pubDate>02 Apr 2012 10:16:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.pygal.core 0.1</title>
+    <link>http://pypi.python.org/pypi/collective.pygal.core/0.1</link>
+    <description>Pygal dynamic SVG charting library integration for plone</description>
+    <pubDate>02 Apr 2012 10:16:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>Djaloha 0.3.4</title>
+    <link>http://pypi.python.org/pypi/Djaloha/0.3.4</link>
+    <description>Django integration for aloha HTML5 editor</description>
+    <pubDate>02 Apr 2012 10:15:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>coop-colorbox 0.1.3</title>
+    <link>http://pypi.python.org/pypi/coop-colorbox/0.1.3</link>
+    <description>Manage lightboxes within coop-cms</description>
+    <pubDate>02 Apr 2012 10:13:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>coop-bar 0.3.6</title>
+    <link>http://pypi.python.org/pypi/coop-bar/0.3.6</link>
+    <description>Pluggable admin bar system , works well with coop-cms</description>
+    <pubDate>02 Apr 2012 10:10:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>ndbpager 0.1.0</title>
+    <link>http://pypi.python.org/pypi/ndbpager/0.1.0</link>
+    <description>Pager for NDB</description>
+    <pubDate>02 Apr 2012 10:02:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>SQLAntaresia 0.4</title>
+    <link>http://pypi.python.org/pypi/SQLAntaresia/0.4</link>
+    <description>Cross platform MySQL management tools aimed at both developers and system administrators</description>
+    <pubDate>02 Apr 2012 09:56:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>curlish 1.5</title>
+    <link>http://pypi.python.org/pypi/curlish/1.5</link>
+    <description>A wrapper for curl that adds OAuth support</description>
+    <pubDate>02 Apr 2012 09:46:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.dashboard.dragndrop 1.2</title>
+    <link>http://pypi.python.org/pypi/ftw.dashboard.dragndrop/1.2</link>
+    <description>ftw.dashboard.dragndrop adds dragndrop functionality to the dashboard</description>
+    <pubDate>02 Apr 2012 09:40:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.blog 1.2</title>
+    <link>http://pypi.python.org/pypi/ftw.blog/1.2</link>
+    <description>A Blog for Plone</description>
+    <pubDate>02 Apr 2012 09:34:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-image-cropping 0.4.4</title>
+    <link>http://pypi.python.org/pypi/django-image-cropping/0.4.4</link>
+    <description>A reusable app for cropping images easily and non-destructively in Django</description>
+    <pubDate>02 Apr 2012 09:27:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>Kivy 1.2.0</title>
+    <link>http://pypi.python.org/pypi/Kivy/1.2.0</link>
+    <description>A software library for rapid development of hardware-accelerated multitouch applications.</description>
+    <pubDate>02 Apr 2012 09:05:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>JSONMapperHGMMPFork 0.36</title>
+    <link>http://pypi.python.org/pypi/JSONMapperHGMMPFork/0.36</link>
+    <description>Mapping JSON to objects and vice versa, this is a product of Christopher Lenz and Matthew Good with slight modifications</description>
+    <pubDate>02 Apr 2012 08:55:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>APScheduler 2.0.3</title>
+    <link>http://pypi.python.org/pypi/APScheduler/2.0.3</link>
+    <description>In-process task scheduler with Cron-like capabilities</description>
+    <pubDate>02 Apr 2012 08:39:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>domash 0.2.3</title>
+    <link>http://pypi.python.org/pypi/domash/0.2.3</link>
+    <description>Legendary Domash</description>
+    <pubDate>02 Apr 2012 08:31:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>raw-import 0.1.1</title>
+    <link>http://pypi.python.org/pypi/raw-import/0.1.1</link>
+    <description>Copy your docs directly to the dedicate branch.</description>
+    <pubDate>02 Apr 2012 07:48:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>Djblets 0.6.17</title>
+    <link>http://pypi.python.org/pypi/Djblets/0.6.17</link>
+    <description>A collection of useful classes and functions for Django</description>
+    <pubDate>02 Apr 2012 07:29:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>nester_fire 1.3.0</title>
+    <link>http://pypi.python.org/pypi/nester_fire/1.3.0</link>
+    <description>A simple printer of nested lists with the control over indent</description>
+    <pubDate>02 Apr 2012 07:19:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-lazysignup 0.9.0</title>
+    <link>http://pypi.python.org/pypi/django-lazysignup/0.9.0</link>
+    <description>Lazy signup for Django</description>
+    <pubDate>02 Apr 2012 07:12:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>zope.component 3.12.1</title>
+    <link>http://pypi.python.org/pypi/zope.component/3.12.1</link>
+    <description>Zope Component Architecture</description>
+    <pubDate>02 Apr 2012 06:09:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-yamlfield 0.2</title>
+    <link>http://pypi.python.org/pypi/django-yamlfield/0.2</link>
+    <description>A Django database field for storing YAML data</description>
+    <pubDate>02 Apr 2012 05:09:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyskein 0.7.1</title>
+    <link>http://pypi.python.org/pypi/pyskein/0.7.1</link>
+    <description>Implementation of the Skein hash function</description>
+    <pubDate>02 Apr 2012 04:16:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>dictshield 0.4.2</title>
+    <link>http://pypi.python.org/pypi/dictshield/0.4.2</link>
+    <description>Python Library for typed dictionaries... sorta</description>
+    <pubDate>02 Apr 2012 04:07:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyacoustid 0.6</title>
+    <link>http://pypi.python.org/pypi/pyacoustid/0.6</link>
+    <description>bindings for Chromaprint acoustic fingerprinting and the Acoustid API</description>
+    <pubDate>02 Apr 2012 04:04:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-mwapi 0.1.1</title>
+    <link>http://pypi.python.org/pypi/python-mwapi/0.1.1</link>
+    <description>Simple wrapper for the Mediawiki API</description>
+    <pubDate>02 Apr 2012 03:57:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-fost-authn 0.3.1</title>
+    <link>http://pypi.python.org/pypi/django-fost-authn/0.3.1</link>
+    <description>HTTP SHA1 HMAC authentication backend for Django</description>
+    <pubDate>02 Apr 2012 03:15:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>ServiceAgent007 0.2.0</title>
+    <link>http://pypi.python.org/pypi/ServiceAgent007/0.2.0</link>
+    <description>Wrapper of urllib2 suited for HTTP REST service requests.</description>
+    <pubDate>02 Apr 2012 03:04:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-jsonfield 0.8</title>
+    <link>http://pypi.python.org/pypi/django-jsonfield/0.8</link>
+    <description>JSONField for django models</description>
+    <pubDate>02 Apr 2012 02:54:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>hermes-chat 0.2.0</title>
+    <link>http://pypi.python.org/pypi/hermes-chat/0.2.0</link>
+    <description>A simple python-based group chat server built on XMPP.</description>
+    <pubDate>02 Apr 2012 02:53:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>callchain 0.2.5</title>
+    <link>http://pypi.python.org/pypi/callchain/0.2.5</link>
+    <description>callables and components joined in one big happy chain</description>
+    <pubDate>02 Apr 2012 01:59:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>jdatetime 1.2</title>
+    <link>http://pypi.python.org/pypi/jdatetime/1.2</link>
+    <description>Jalali datetime binding for python</description>
+    <pubDate>02 Apr 2012 01:47:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>twoq 0.4.9</title>
+    <link>http://pypi.python.org/pypi/twoq/0.4.9</link>
+    <description>iterator chaining, underscored by a two-headed queue</description>
+    <pubDate>02 Apr 2012 01:27:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>appspace 0.5.4</title>
+    <link>http://pypi.python.org/pypi/appspace/0.5.4</link>
+    <description>easy application construction with easy building blocks</description>
+    <pubDate>02 Apr 2012 01:12:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>stuf 0.8.13</title>
+    <link>http://pypi.python.org/pypi/stuf/0.8.13</link>
+    <description>stuf has attributes</description>
+    <pubDate>02 Apr 2012 00:59:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-dynamic-fixture 1.6.0</title>
+    <link>http://pypi.python.org/pypi/django-dynamic-fixture/1.6.0</link>
+    <description>A full library to create dynamic model instances for testing purposes.</description>
+    <pubDate>02 Apr 2012 00:49:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>negotiate 0.0.1</title>
+    <link>http://pypi.python.org/pypi/negotiate/0.0.1</link>
+    <description>Negotiate: smart, simple content negotiation for Python web applications</description>
+    <pubDate>02 Apr 2012 00:26:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-scheduler 0.12.1</title>
+    <link>http://pypi.python.org/pypi/lava-scheduler/0.12.1</link>
+    <description>LAVA Scheduler Application</description>
+    <pubDate>02 Apr 2012 00:20:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-dispatcher 0.5.11</title>
+    <link>http://pypi.python.org/pypi/lava-dispatcher/0.5.11</link>
+    <description>Part of the LAVA framework for dispatching test jobs</description>
+    <pubDate>02 Apr 2012 00:19:30 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

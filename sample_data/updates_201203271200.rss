@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>collective.chimpfeed 1.4</title>
+    <link>http://pypi.python.org/pypi/collective.chimpfeed/1.4</link>
+    <description>Plone-integration for MailChimp RSS-campaigns.</description>
+    <pubDate>27 Mar 2012 10:55:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-reversion 1.6.0</title>
+    <link>http://pypi.python.org/pypi/django-reversion/1.6.0</link>
+    <description>An extension to the Django web framework that provides comprehensive version control facilities</description>
+    <pubDate>27 Mar 2012 10:55:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyArabic 0.4</title>
+    <link>http://pypi.python.org/pypi/PyArabic/0.4</link>
+    <description>pyarabic Arabic text tools for Python</description>
+    <pubDate>27 Mar 2012 10:49:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>nester_by_philogrammer 1.0.0</title>
+    <link>http://pypi.python.org/pypi/nester_by_philogrammer/1.0.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>27 Mar 2012 10:44:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomatic_tagging 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomatic_tagging/0.0.14</link>
+    <description>A generic tagging application for Django projects</description>
+    <pubDate>27 Mar 2012 10:36:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomatic_photolog 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomatic_photolog/0.0.14</link>
+    <description>Photologue is a reusable Django application that provides powerful image management and manipulation functionality as well as a complete photo gallery solution.</description>
+    <pubDate>27 Mar 2012 10:36:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomatic_django_vcs 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomatic_django_vcs/0.0.14</link>
+    <description>A way to integrate VCS-agnostic repository browsing into Django apps.</description>
+    <pubDate>27 Mar 2012 10:36:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomatic_django_filer 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomatic_django_filer/0.0.14</link>
+    <description>.</description>
+    <pubDate>27 Mar 2012 10:36:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomatic_django_cms 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomatic_django_cms/0.0.14</link>
+    <description>Get the pony powered CMS With Frontend-Editing</description>
+    <pubDate>27 Mar 2012 10:36:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomaticcore 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomaticcore/0.0.14</link>
+    <description>Appomatic is a userfriendly Django environment with automatic plugin (app) management based on pip.</description>
+    <pubDate>27 Mar 2012 10:36:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomatic_cms_tagging 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomatic_cms_tagging/0.0.14</link>
+    <description>Adds tagging support to django-cms</description>
+    <pubDate>27 Mar 2012 10:36:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomatic_cmsplugin_phlog 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomatic_cmsplugin_phlog/0.0.14</link>
+    <description>Integrates django-cms and Photologue</description>
+    <pubDate>27 Mar 2012 10:36:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomatic_appadmin 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomatic_appadmin/0.0.14</link>
+    <description>Django admin page to administer appomatic apps</description>
+    <pubDate>27 Mar 2012 10:36:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomatic_admin 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomatic_admin/0.0.14</link>
+    <description>Enables the django site admin</description>
+    <pubDate>27 Mar 2012 10:36:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>appomatic 0.0.14</title>
+    <link>http://pypi.python.org/pypi/appomatic/0.0.14</link>
+    <description>Appomatic is a userfriendly Django environment with automatic plugin (app) management based on pip.</description>
+    <pubDate>27 Mar 2012 10:36:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>LibQutrub 1.0</title>
+    <link>http://pypi.python.org/pypi/LibQutrub/1.0</link>
+    <description>libqutrub Arabic verb conjuagtion library</description>
+    <pubDate>27 Mar 2012 10:34:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-oauth2-provider 0.2.1</title>
+    <link>http://pypi.python.org/pypi/django-oauth2-provider/0.2.1</link>
+    <description>Provide OAuth2 access to your app</description>
+    <pubDate>27 Mar 2012 10:33:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>tiddlyweb 1.2.58</title>
+    <link>http://pypi.python.org/pypi/tiddlyweb/1.2.58</link>
+    <description>An optionally headless, extensible RESTful datastore for tiddlers: bits of stuff.</description>
+    <pubDate>27 Mar 2012 10:27:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>bebop-server 0.2.2</title>
+    <link>http://pypi.python.org/pypi/bebop-server/0.2.2</link>
+    <description>A tool for rapid web development</description>
+    <pubDate>27 Mar 2012 10:18:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>thirty-cli 0.3.1</title>
+    <link>http://pypi.python.org/pypi/thirty-cli/0.3.1</link>
+    <description>A high level management tool for the 30loops platform.</description>
+    <pubDate>27 Mar 2012 10:08:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.PageTemplateFilledSlots 1.0.1</title>
+    <link>http://pypi.python.org/pypi/Products.PageTemplateFilledSlots/1.0.1</link>
+    <description>Gives the template variable in page templates a method pt_filled_slots to see which slots are being filled</description>
+    <pubDate>27 Mar 2012 10:07:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>qhonuskan-votes 0.1.2</title>
+    <link>http://pypi.python.org/pypi/qhonuskan-votes/0.1.2</link>
+    <description>Easy to use reddit like voting system for django models.</description>
+    <pubDate>27 Mar 2012 09:53:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>TornadIO2 0.0.3</title>
+    <link>http://pypi.python.org/pypi/TornadIO2/0.0.3</link>
+    <description>Socket.io 0.7+ server implementation on top of Tornado framework</description>
+    <pubDate>27 Mar 2012 09:35:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-iadmin 0.1.8</title>
+    <link>http://pypi.python.org/pypi/django-iadmin/0.1.8</link>
+    <description>UNKNOWN</description>
+    <pubDate>27 Mar 2012 09:20:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>factual-api 0.9.0</title>
+    <link>http://pypi.python.org/pypi/factual-api/0.9.0</link>
+    <description>Official Python driver for the Factual public API</description>
+    <pubDate>27 Mar 2012 09:14:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-safe 0.1.6</title>
+    <link>http://pypi.python.org/pypi/python-safe/0.1.6</link>
+    <description>Spatial Analysis F* Engine</description>
+    <pubDate>27 Mar 2012 08:33:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>openssh-wrapper 0.2.2</title>
+    <link>http://pypi.python.org/pypi/openssh-wrapper/0.2.2</link>
+    <description>OpenSSH python wrapper</description>
+    <pubDate>27 Mar 2012 08:16:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>twoq 0.4.6</title>
+    <link>http://pypi.python.org/pypi/twoq/0.4.6</link>
+    <description>iterator chaining, underscored by a two-headed queue</description>
+    <pubDate>27 Mar 2012 08:13:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>pysaml2 0.4.2</title>
+    <link>http://pypi.python.org/pypi/pysaml2/0.4.2</link>
+    <description>Python implementation of SAML Version 2 to for instance be used in a WSGI environment</description>
+    <pubDate>27 Mar 2012 08:08:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>s3grep 0.2</title>
+    <link>http://pypi.python.org/pypi/s3grep/0.2</link>
+    <description>Parallelized grep for Amazon S3</description>
+    <pubDate>27 Mar 2012 08:04:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxcontrib-fancybox 0.1</title>
+    <link>http://pypi.python.org/pypi/sphinxcontrib-fancybox/0.1</link>
+    <description>Sphinx "fancybox" extension</description>
+    <pubDate>27 Mar 2012 06:57:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.dashboard.dragndrop 1.1.7</title>
+    <link>http://pypi.python.org/pypi/ftw.dashboard.dragndrop/1.1.7</link>
+    <description>ftw.dashboard.dragndrop adds dragndrop functionality to the dashboard</description>
+    <pubDate>27 Mar 2012 06:36:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>three 0.6</title>
+    <link>http://pypi.python.org/pypi/three/0.6</link>
+    <description>An easy-to-use wrapper for the Open311 API</description>
+    <pubDate>27 Mar 2012 06:10:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>newrelic 1.2.0.246</title>
+    <link>http://pypi.python.org/pypi/newrelic/1.2.0.246</link>
+    <description>New Relic Python Agent</description>
+    <pubDate>27 Mar 2012 05:17:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>djeploy 0.2.1</title>
+    <link>http://pypi.python.org/pypi/djeploy/0.2.1</link>
+    <description>Common tasks used to deploy Django powered websites via Fabric.</description>
+    <pubDate>27 Mar 2012 05:16:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyelasticsearch 0.0.6</title>
+    <link>http://pypi.python.org/pypi/pyelasticsearch/0.0.6</link>
+    <description>Lightweight python wrapper for elasticsearch.</description>
+    <pubDate>27 Mar 2012 05:05:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>django_slumber 0.4.10</title>
+    <link>http://pypi.python.org/pypi/django_slumber/0.4.10</link>
+    <description>RESTful data connector for Django</description>
+    <pubDate>27 Mar 2012 04:45:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>gpxpy 0.7.0</title>
+    <link>http://pypi.python.org/pypi/gpxpy/0.7.0</link>
+    <description>GPX file parser and GPS track manipulation library</description>
+    <pubDate>27 Mar 2012 04:36:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_debugtoolbar 1.0.1</title>
+    <link>http://pypi.python.org/pypi/pyramid_debugtoolbar/1.0.1</link>
+    <description>A package which provides an interactive HTML debugger for Pyramid application development</description>
+    <pubDate>27 Mar 2012 04:07:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>pactors 0.0.1</title>
+    <link>http://pypi.python.org/pypi/pactors/0.0.1</link>
+    <description>Python actors library</description>
+    <pubDate>27 Mar 2012 02:43:39 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

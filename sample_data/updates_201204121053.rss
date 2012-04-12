@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>pycom 0.5.1</title>
+    <link>http://pypi.python.org/pypi/pycom/0.5.1</link>
+    <description>Distributed component model for Python.</description>
+    <pubDate>12 Apr 2012 09:29:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>igs.PloneMultiSync 1.0</title>
+    <link>http://pypi.python.org/pypi/igs.PloneMultiSync/1.0</link>
+    <description>Multi synchronization for plone site</description>
+    <pubDate>12 Apr 2012 08:57:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>oauthc 201204</title>
+    <link>http://pypi.python.org/pypi/oauthc/201204</link>
+    <description>OAuth compact version</description>
+    <pubDate>12 Apr 2012 08:47:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>glyph-rpc 0.1-20120412</title>
+    <link>http://pypi.python.org/pypi/glyph-rpc/0.1-20120412</link>
+    <description>glyph-rpc is yet another http rpc library, but it tries to exploit http rather than simply tunnel requests over it.</description>
+    <pubDate>12 Apr 2012 08:43:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-threatmetrix 0.0.1</title>
+    <link>http://pypi.python.org/pypi/django-threatmetrix/0.0.1</link>
+    <description>Django App for adding the threatmetrix script tag</description>
+    <pubDate>12 Apr 2012 08:03:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>vs.jquerybookmarks 0.1.4</title>
+    <link>http://pypi.python.org/pypi/vs.jquerybookmarks/0.1.4</link>
+    <description>jquery.bookmark integration with Plone 4</description>
+    <pubDate>12 Apr 2012 07:45:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-coop 0.1.7</title>
+    <link>http://pypi.python.org/pypi/django-coop/0.1.7</link>
+    <description>A basis for a cooperative organization directory, with people, organization, offers.</description>
+    <pubDate>12 Apr 2012 07:30:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>jabbapylib 0.2.2</title>
+    <link>http://pypi.python.org/pypi/jabbapylib/0.2.2</link>
+    <description>A lightweight, general-purpose Python library</description>
+    <pubDate>12 Apr 2012 07:28:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>undo 0.5.1</title>
+    <link>http://pypi.python.org/pypi/undo/0.5.1</link>
+    <description>Action-based undo framework for python</description>
+    <pubDate>12 Apr 2012 06:45:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>sentry-hipchat 0.2.1</title>
+    <link>http://pypi.python.org/pypi/sentry-hipchat/0.2.1</link>
+    <description>A Sentry extension which integrates with Hipchat.</description>
+    <pubDate>12 Apr 2012 06:34:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>zenircbot_api 2.1.3</title>
+    <link>http://pypi.python.org/pypi/zenircbot_api/2.1.3</link>
+    <description>Python HTTP for Humans.</description>
+    <pubDate>12 Apr 2012 05:10:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>sw.grokcore.jsonp 0.1</title>
+    <link>http://pypi.python.org/pypi/sw.grokcore.jsonp/0.1</link>
+    <description>JSON-P base view for Grok.</description>
+    <pubDate>12 Apr 2012 04:40:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>potpie 0.1.1</title>
+    <link>http://pypi.python.org/pypi/potpie/0.1.1</link>
+    <description>Translation Utility to Create Pseudo Translations of PO Files</description>
+    <pubDate>12 Apr 2012 03:24:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>eplist 0.1.6</title>
+    <link>http://pypi.python.org/pypi/eplist/0.1.6</link>
+    <description>Simple episode renaming program</description>
+    <pubDate>12 Apr 2012 02:56:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>bambu-tools 1.6.1</title>
+    <link>http://pypi.python.org/pypi/bambu-tools/1.6.1</link>
+    <description>Tools for Django webapps</description>
+    <pubDate>12 Apr 2012 02:00:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>iodeflib 0.07</title>
+    <link>http://pypi.python.org/pypi/iodeflib/0.07</link>
+    <description>a python library to create, parse and edit cyber incident reports using the IODEF XML format (RFC 5070)</description>
+    <pubDate>12 Apr 2012 00:54:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-summit 1.1.-</title>
+    <link>http://pypi.python.org/pypi/django-summit/1.1.-</link>
+    <description>This is the Summit Scheduling Tool</description>
+    <pubDate>12 Apr 2012 00:48:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>tw2.sqla 2.0.0</title>
+    <link>http://pypi.python.org/pypi/tw2.sqla/2.0.0</link>
+    <description>SQLAlchemy database layer for ToscaWidgets 2</description>
+    <pubDate>12 Apr 2012 00:44:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>gevent_subprocess 0.1.1</title>
+    <link>http://pypi.python.org/pypi/gevent_subprocess/0.1.1</link>
+    <description>gevent adapter for the standard python subprocess</description>
+    <pubDate>12 Apr 2012 00:25:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>pip2pi 0.1.2</title>
+    <link>http://pypi.python.org/pypi/pip2pi/0.1.2</link>
+    <description>pip2pi builds a PyPI-compatible package repository from pip
+        requirements</description>
+    <pubDate>12 Apr 2012 00:13:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.LinguaPlone 4.1.2</title>
+    <link>http://pypi.python.org/pypi/Products.LinguaPlone/4.1.2</link>
+    <description>Manage and maintain multilingual content that integrates seamlessly with Plone.</description>
+    <pubDate>11 Apr 2012 23:52:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>lck.django 0.7.4</title>
+    <link>http://pypi.python.org/pypi/lck.django/0.7.4</link>
+    <description>Various common Django-related routines.</description>
+    <pubDate>11 Apr 2012 23:50:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>trafaret 0.4.0</title>
+    <link>http://pypi.python.org/pypi/trafaret/0.4.0</link>
+    <description>Validation and parsing library</description>
+    <pubDate>11 Apr 2012 23:27:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>hitt 0.1.22</title>
+    <link>http://pypi.python.org/pypi/hitt/0.1.22</link>
+    <description>A tiny 2D game development framework.</description>
+    <pubDate>11 Apr 2012 23:10:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-pushserver 0.1.7</title>
+    <link>http://pypi.python.org/pypi/django-pushserver/0.1.7</link>
+    <description>Push server for Django based on Leo Ponomarev's Basic HTTP Push Relay Protocol.</description>
+    <pubDate>11 Apr 2012 22:58:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>armstrong.esi 1.0.0.2</title>
+    <link>http://pypi.python.org/pypi/armstrong.esi/1.0.0.2</link>
+    <description>Utilities to help development of sites that utilize Edge Side Includes</description>
+    <pubDate>11 Apr 2012 22:56:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>tw2.dynforms 2.0.0</title>
+    <link>http://pypi.python.org/pypi/tw2.dynforms/2.0.0</link>
+    <description>Dynamic widgets with JavaScript for ToscaWidgets 2</description>
+    <pubDate>11 Apr 2012 22:52:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>test_nester 1.1.0</title>
+    <link>http://pypi.python.org/pypi/test_nester/1.1.0</link>
+    <description>A simple printer of ensted lists</description>
+    <pubDate>11 Apr 2012 22:42:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>gevent 0.13.7</title>
+    <link>http://pypi.python.org/pypi/gevent/0.13.7</link>
+    <description>Python network library that uses greenlet and libevent for easy and scalable concurrency</description>
+    <pubDate>11 Apr 2012 22:32:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.utils 0.3.10</title>
+    <link>http://pypi.python.org/pypi/ztfy.utils/0.3.10</link>
+    <description>ZTFY utility functions and classes for Zope3</description>
+    <pubDate>11 Apr 2012 22:32:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.jqueryui 0.6.0</title>
+    <link>http://pypi.python.org/pypi/ztfy.jqueryui/0.6.0</link>
+    <description>A package containing JQuery, JQuery UI, JQuery Tools and a small set of JQuery plugins</description>
+    <pubDate>11 Apr 2012 22:18:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>tw2.excanvas 2.0.0</title>
+    <link>http://pypi.python.org/pypi/tw2.excanvas/2.0.0</link>
+    <description>toscawidgets2 wrapper for excanvas.js resource</description>
+    <pubDate>11 Apr 2012 22:17:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>mynt 0.2.2</title>
+    <link>http://pypi.python.org/pypi/mynt/0.2.2</link>
+    <description>A static blog generator.</description>
+    <pubDate>11 Apr 2012 21:50:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>wildcard.level3caching 1.3a1</title>
+    <link>http://pypi.python.org/pypi/wildcard.level3caching/1.3a1</link>
+    <description>provide integration for invalidations with level3</description>
+    <pubDate>11 Apr 2012 21:48:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>AirbrakePy 1.0.0b2</title>
+    <link>http://pypi.python.org/pypi/AirbrakePy/1.0.0b2</link>
+    <description>Airbrake notifier for Python logging framework</description>
+    <pubDate>11 Apr 2012 21:42:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>tw2.jqplugins.gritter 2.0.0</title>
+    <link>http://pypi.python.org/pypi/tw2.jqplugins.gritter/2.0.0</link>
+    <description>toscawidgets2 wrapper for jquery gritter plugin.</description>
+    <pubDate>11 Apr 2012 21:22:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>netlogger 4.3.0</title>
+    <link>http://pypi.python.org/pypi/netlogger/4.3.0</link>
+    <description>NetLogger Toolkit</description>
+    <pubDate>11 Apr 2012 21:21:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>tw2.jqplugins.ui 2.0.1</title>
+    <link>http://pypi.python.org/pypi/tw2.jqplugins.ui/2.0.1</link>
+    <description>toscawidgets2 wrapper for jquery-ui</description>
+    <pubDate>11 Apr 2012 21:06:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>mass 0.1.3</title>
+    <link>http://pypi.python.org/pypi/mass/0.1.3</link>
+    <description>Merge and Simplify Scripts: an automated tool for managing, combining and minifying javascript assets for web projects.</description>
+    <pubDate>11 Apr 2012 21:06:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>tw2.jquery 2.0.2</title>
+    <link>http://pypi.python.org/pypi/tw2.jquery/2.0.2</link>
+    <description>toscawidgets2 wrapper for jQuery</description>
+    <pubDate>11 Apr 2012 21:02:15 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>djangosenchatools 1.0.1</title>
+    <link>http://pypi.python.org/pypi/djangosenchatools/1.0.1</link>
+    <description>Django management command to simplify building extjs and sencha touch apps with Sencha tools.</description>
+    <pubDate>10 Apr 2012 10:01:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>JSONMapperHGMMPFork 0.38</title>
+    <link>http://pypi.python.org/pypi/JSONMapperHGMMPFork/0.38</link>
+    <description>Mapping JSON to objects and vice versa, this is a product of Christopher Lenz and Matthew Good with slight modifications</description>
+    <pubDate>10 Apr 2012 09:52:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyqcy 0.1.1</title>
+    <link>http://pypi.python.org/pypi/pyqcy/0.1.1</link>
+    <description>QuickCheck-like testing framework for Python</description>
+    <pubDate>10 Apr 2012 09:13:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>django_extjs4 1.0.1</title>
+    <link>http://pypi.python.org/pypi/django_extjs4/1.0.1</link>
+    <description>Packages extjs as a Django app.</description>
+    <pubDate>10 Apr 2012 09:07:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>atreal.richfile.qualifier 1.1.2</title>
+    <link>http://pypi.python.org/pypi/atreal.richfile.qualifier/1.1.2</link>
+    <description>System to enrich a file content type in Plone with a marker interface regarding its mimetype.</description>
+    <pubDate>10 Apr 2012 09:04:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-manifest 0.1a4</title>
+    <link>http://pypi.python.org/pypi/django-manifest/0.1a4</link>
+    <description>A package to help automate creation of web applications in Django</description>
+    <pubDate>10 Apr 2012 08:38:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-basket 0.4.3</title>
+    <link>http://pypi.python.org/pypi/django-basket/0.4.3</link>
+    <description>Django generic basket application. Allow to put in basket any object and view orders in the Django admin interface</description>
+    <pubDate>10 Apr 2012 08:23:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>django_addexampledata 1.0</title>
+    <link>http://pypi.python.org/pypi/django_addexampledata/1.0</link>
+    <description>Easily bundle example data with your django apps.</description>
+    <pubDate>10 Apr 2012 07:39:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-ignoretests 0.3.1</title>
+    <link>http://pypi.python.org/pypi/django-ignoretests/0.3.1</link>
+    <description>Ignore tests of given django apps</description>
+    <pubDate>10 Apr 2012 07:27:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>rer.portlet.advanced_static 1.2.3</title>
+    <link>http://pypi.python.org/pypi/rer.portlet.advanced_static/1.2.3</link>
+    <description>A portlet that extends Plone static text portlet, and add more functionalities</description>
+    <pubDate>10 Apr 2012 07:06:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>twython 1.6.0</title>
+    <link>http://pypi.python.org/pypi/twython/1.6.0</link>
+    <description>An easy (and up to date) way to access Twitter data with Python.</description>
+    <pubDate>10 Apr 2012 05:52:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>amonpy 0.4</title>
+    <link>http://pypi.python.org/pypi/amonpy/0.4</link>
+    <description>Python client for the Amon API</description>
+    <pubDate>10 Apr 2012 05:40:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>simple-db-migrate 1.5.0</title>
+    <link>http://pypi.python.org/pypi/simple-db-migrate/1.5.0</link>
+    <description>simple-db-migrate is a database versioning and migration tool inspired on Rails Migrations.</description>
+    <pubDate>10 Apr 2012 05:17:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>nester_ganeshas 1.1.0</title>
+    <link>http://pypi.python.org/pypi/nester_ganeshas/1.1.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>10 Apr 2012 05:03:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-easydump 0.1.1</title>
+    <link>http://pypi.python.org/pypi/django-easydump/0.1.1</link>
+    <description>Easily load database snapshots across deployments</description>
+    <pubDate>10 Apr 2012 04:47:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>Hello_world 0.0.1</title>
+    <link>http://pypi.python.org/pypi/Hello_world/0.0.1</link>
+    <description>An demonstration of how to create, document, and publish to the cheese shop a5 pypi.org.</description>
+    <pubDate>10 Apr 2012 04:15:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>jeeves-framework 0.1.2</title>
+    <link>http://pypi.python.org/pypi/jeeves-framework/0.1.2</link>
+    <description>A Python IRC Bot Framework. Easily create IRC bots with a single command</description>
+    <pubDate>10 Apr 2012 03:18:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>globusonline-transfer-api-client 0.10.11</title>
+    <link>http://pypi.python.org/pypi/globusonline-transfer-api-client/0.10.11</link>
+    <description>Globus Online Transfer API client library</description>
+    <pubDate>10 Apr 2012 02:53:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>clojure_py 0.2.4</title>
+    <link>http://pypi.python.org/pypi/clojure_py/0.2.4</link>
+    <description>Clojure implemented on top of Python</description>
+    <pubDate>10 Apr 2012 02:37:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>RestForce 1.0.0</title>
+    <link>http://pypi.python.org/pypi/RestForce/1.0.0</link>
+    <description>A python API for accessing RESTful resources on the force.com platform.</description>
+    <pubDate>10 Apr 2012 02:24:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>color 0.1</title>
+    <link>http://pypi.python.org/pypi/color/0.1</link>
+    <description>Very small color printing module</description>
+    <pubDate>10 Apr 2012 02:19:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>archetypes.referencebrowserwidget 2.4.11</title>
+    <link>http://pypi.python.org/pypi/archetypes.referencebrowserwidget/2.4.11</link>
+    <description>A referencebrowser implementation for Archetypes</description>
+    <pubDate>10 Apr 2012 01:20:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.PlonePAS 4.0.12</title>
+    <link>http://pypi.python.org/pypi/Products.PlonePAS/4.0.12</link>
+    <description>PlonePAS adapts the PluggableAuthService for use by Plone.</description>
+    <pubDate>10 Apr 2012 01:17:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.ATContentTypes 2.1.7</title>
+    <link>http://pypi.python.org/pypi/Products.ATContentTypes/2.1.7</link>
+    <description>Default Content Types for Plone</description>
+    <pubDate>10 Apr 2012 01:14:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.Archetypes 1.7.13</title>
+    <link>http://pypi.python.org/pypi/Products.Archetypes/1.7.13</link>
+    <description>Archetypes is a developers framework for rapidly developing and deploying rich, full featured content types within the context of Zope/CMF and Plone.</description>
+    <pubDate>10 Apr 2012 01:10:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-tables2 0.10.4</title>
+    <link>http://pypi.python.org/pypi/django-tables2/0.10.4</link>
+    <description>Table/data-grid framework for Django</description>
+    <pubDate>10 Apr 2012 01:05:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>authy 0.0.1</title>
+    <link>http://pypi.python.org/pypi/authy/0.0.1</link>
+    <description>Authy API Client</description>
+    <pubDate>10 Apr 2012 00:47:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>plone.app.vocabularies 2.1.6</title>
+    <link>http://pypi.python.org/pypi/plone.app.vocabularies/2.1.6</link>
+    <description>A collection of generally useful vocabularies.</description>
+    <pubDate>10 Apr 2012 00:43:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>TileStache 1.31.1</title>
+    <link>http://pypi.python.org/pypi/TileStache/1.31.1</link>
+    <description>A stylish alternative for caching your map tiles.</description>
+    <pubDate>10 Apr 2012 00:36:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>anvil-build 0.0.1dev</title>
+    <link>http://pypi.python.org/pypi/anvil-build/0.0.1dev</link>
+    <description>A parallel build system and content pipeline</description>
+    <pubDate>10 Apr 2012 00:29:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>furl 0.3.1</title>
+    <link>http://pypi.python.org/pypi/furl/0.3.1</link>
+    <description>URL manipulation made simple.</description>
+    <pubDate>10 Apr 2012 00:05:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>glean 0.1</title>
+    <link>http://pypi.python.org/pypi/glean/0.1</link>
+    <description>A test runner for the C++ unittest library</description>
+    <pubDate>09 Apr 2012 23:01:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>agentx 0.7</title>
+    <link>http://pypi.python.org/pypi/agentx/0.7</link>
+    <description>Python 2.x and 3.x module for SNMP AgentX functionality</description>
+    <pubDate>09 Apr 2012 22:49:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>NEURON 7.2.536.8</title>
+    <link>http://pypi.python.org/pypi/NEURON/7.2.536.8</link>
+    <description>A Python package version of NEURON, for empirically-based simulations of neurons and networks of neurons</description>
+    <pubDate>09 Apr 2012 22:41:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>WebTestRunner 0.2</title>
+    <link>http://pypi.python.org/pypi/WebTestRunner/0.2</link>
+    <description>Web-based interface for selectively executing client-side Python UnitTests</description>
+    <pubDate>09 Apr 2012 22:35:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>mock-django 0.6.0</title>
+    <link>http://pypi.python.org/pypi/mock-django/0.6.0</link>
+    <description>UNKNOWN</description>
+    <pubDate>09 Apr 2012 22:12:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyrelic 0.2.0</title>
+    <link>http://pypi.python.org/pypi/pyrelic/0.2.0</link>
+    <description>New Relic Python API Client</description>
+    <pubDate>09 Apr 2012 22:00:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>tw2.core 2.0.2</title>
+    <link>http://pypi.python.org/pypi/tw2.core/2.0.2</link>
+    <description>Web widget creation toolkit based on TurboGears widgets</description>
+    <pubDate>09 Apr 2012 21:53:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>zohodocs 0.1.0</title>
+    <link>http://pypi.python.org/pypi/zohodocs/0.1.0</link>
+    <description>Python library for interfacing with the Zoho Docs API.</description>
+    <pubDate>09 Apr 2012 21:37:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>django_ckeditorfiles 1.0</title>
+    <link>http://pypi.python.org/pypi/django_ckeditorfiles/1.0</link>
+    <description>CKEditor bundled as a django staticfiles app.</description>
+    <pubDate>09 Apr 2012 21:35:35 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

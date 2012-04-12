@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>bayeux 0.2</title>
+    <link>http://pypi.python.org/pypi/bayeux/0.2</link>
+    <description>Generator of the TAP protocol</description>
+    <pubDate>03 Apr 2012 21:07:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>BigJob 0.4.46</title>
+    <link>http://pypi.python.org/pypi/BigJob/0.4.46</link>
+    <description>SAGA-based Pilot-Job Implementation</description>
+    <pubDate>03 Apr 2012 21:04:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>curlish 1.6</title>
+    <link>http://pypi.python.org/pypi/curlish/1.6</link>
+    <description>A wrapper for curl that adds OAuth support</description>
+    <pubDate>03 Apr 2012 20:48:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>dataflake.ldapconnection 1.4</title>
+    <link>http://pypi.python.org/pypi/dataflake.ldapconnection/1.4</link>
+    <description>LDAP connection library</description>
+    <pubDate>03 Apr 2012 20:48:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>rosinstall 0.6.13</title>
+    <link>http://pypi.python.org/pypi/rosinstall/0.6.13</link>
+    <description>The installer for ROS</description>
+    <pubDate>03 Apr 2012 20:39:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>yamlish 0.8</title>
+    <link>http://pypi.python.org/pypi/yamlish/0.8</link>
+    <description>Python implementation of YAMLish</description>
+    <pubDate>03 Apr 2012 20:25:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>vcstools 0.1.15</title>
+    <link>http://pypi.python.org/pypi/vcstools/0.1.15</link>
+    <description>VCS/SCM source control library for svn, git, hg, and bzr</description>
+    <pubDate>03 Apr 2012 20:24:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>ansicolors 1.0.1</title>
+    <link>http://pypi.python.org/pypi/ansicolors/1.0.1</link>
+    <description>ANSI colors for Python</description>
+    <pubDate>03 Apr 2012 20:16:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>cilantro 0.9.1b15</title>
+    <link>http://pypi.python.org/pypi/cilantro/0.9.1b15</link>
+    <description>A client implementation for Serrano</description>
+    <pubDate>03 Apr 2012 20:11:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>reddit 1.3.3</title>
+    <link>http://pypi.python.org/pypi/reddit/1.3.3</link>
+    <description>A wrapper for the Reddit API</description>
+    <pubDate>03 Apr 2012 19:29:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>weetwit 0.7.0</title>
+    <link>http://pypi.python.org/pypi/weetwit/0.7.0</link>
+    <description>Twitter suite for Weechat.</description>
+    <pubDate>03 Apr 2012 19:19:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>sentry 3.7.3</title>
+    <link>http://pypi.python.org/pypi/sentry/3.7.3</link>
+    <description>A realtime logging an aggregation server.</description>
+    <pubDate>03 Apr 2012 18:53:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>gj_nester 1.2.0</title>
+    <link>http://pypi.python.org/pypi/gj_nester/1.2.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>03 Apr 2012 18:50:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>virtualenvwrapper-win 1.0.4</title>
+    <link>http://pypi.python.org/pypi/virtualenvwrapper-win/1.0.4</link>
+    <description>Port of Doug Hellmann's virtualenvwrapper to Windows batch scripts</description>
+    <pubDate>03 Apr 2012 18:44:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>pydap.handlers.netcdf 0.6.1</title>
+    <link>http://pypi.python.org/pypi/pydap.handlers.netcdf/0.6.1</link>
+    <description>NetCDF handler for Pydap</description>
+    <pubDate>03 Apr 2012 18:39:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>corduroy 0.9.0</title>
+    <link>http://pypi.python.org/pypi/corduroy/0.9.0</link>
+    <description>An asynchronous CouchDB client library</description>
+    <pubDate>03 Apr 2012 18:37:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>py.saunter 0.40</title>
+    <link>http://pypi.python.org/pypi/py.saunter/0.40</link>
+    <description>An opinionated Selenium framework</description>
+    <pubDate>03 Apr 2012 17:59:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>Flask-LazyViews 0.1</title>
+    <link>http://pypi.python.org/pypi/Flask-LazyViews/0.1</link>
+    <description>Registering url routes for Flask app and blueprints in lazy way.</description>
+    <pubDate>03 Apr 2012 17:43:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>vos 1.2.1a</title>
+    <link>http://pypi.python.org/pypi/vos/1.2.1a</link>
+    <description>CADC VOSpace Filesystem</description>
+    <pubDate>03 Apr 2012 17:28:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>jaraco.develop 1.9</title>
+    <link>http://pypi.python.org/pypi/jaraco.develop/1.9</link>
+    <description>Routines to assist development</description>
+    <pubDate>03 Apr 2012 16:26:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>jaraco.windows 2.7</title>
+    <link>http://pypi.python.org/pypi/jaraco.windows/2.7</link>
+    <description>Windows Routines by Jason R. Coombs</description>
+    <pubDate>03 Apr 2012 16:23:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>blackbox 0.5.3</title>
+    <link>http://pypi.python.org/pypi/blackbox/0.5.3</link>
+    <description>A Python module to abstract and encapsulate the IRC protocol</description>
+    <pubDate>03 Apr 2012 16:13:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>sockjs-tornado 0.0.4</title>
+    <link>http://pypi.python.org/pypi/sockjs-tornado/0.0.4</link>
+    <description>SockJS python server implementation on top of Tornado framework</description>
+    <pubDate>03 Apr 2012 16:11:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-extensible-profiles 1.0</title>
+    <link>http://pypi.python.org/pypi/django-extensible-profiles/1.0</link>
+    <description>Generic extensible django user profiles.</description>
+    <pubDate>03 Apr 2012 15:55:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>openerp_bootstrap 1.0a7</title>
+    <link>http://pypi.python.org/pypi/openerp_bootstrap/1.0a7</link>
+    <description>Easy bootstrap for your OpenERP modules</description>
+    <pubDate>03 Apr 2012 15:31:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>kombu 2.1.3</title>
+    <link>http://pypi.python.org/pypi/kombu/2.1.3</link>
+    <description>Messaging Framework for Python</description>
+    <pubDate>03 Apr 2012 15:21:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>circuits-bricks 0.1.2</title>
+    <link>http://pypi.python.org/pypi/circuits-bricks/0.1.2</link>
+    <description>General purpose components extending the circuits framework.</description>
+    <pubDate>03 Apr 2012 15:20:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>OERPLib 0.5.0</title>
+    <link>http://pypi.python.org/pypi/OERPLib/0.5.0</link>
+    <description>OpenERP client library which allows to easily interact with an OpenERP server.</description>
+    <pubDate>03 Apr 2012 15:16:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.pfg.sqlformadapter 1.0.3</title>
+    <link>http://pypi.python.org/pypi/collective.pfg.sqlformadapter/1.0.3</link>
+    <description>Product to insert values from the forms into msSQL</description>
+    <pubDate>03 Apr 2012 15:15:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>haigha 0.4.4</title>
+    <link>http://pypi.python.org/pypi/haigha/0.4.4</link>
+    <description>Event driven AMQP client library</description>
+    <pubDate>03 Apr 2012 15:03:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>routr 0.1.1</title>
+    <link>http://pypi.python.org/pypi/routr/0.1.1</link>
+    <description>URL routing made right</description>
+    <pubDate>03 Apr 2012 15:03:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>Cydra 0.1.3</title>
+    <link>http://pypi.python.org/pypi/Cydra/0.1.3</link>
+    <description>Code hosting platform</description>
+    <pubDate>03 Apr 2012 15:01:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>pub 0.0.4</title>
+    <link>http://pypi.python.org/pypi/pub/0.0.4</link>
+    <description>Python Utility Belt</description>
+    <pubDate>03 Apr 2012 14:54:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>Ibidas 0.1.12</title>
+    <link>http://pypi.python.org/pypi/Ibidas/0.1.12</link>
+    <description>Ibidas is an environment for data handling and exploration, able to cope with different data structures and sources</description>
+    <pubDate>03 Apr 2012 14:53:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>fedmsg 0.0.9</title>
+    <link>http://pypi.python.org/pypi/fedmsg/0.0.9</link>
+    <description>Fedora Messaging Client API</description>
+    <pubDate>03 Apr 2012 14:35:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>beautifulsoup4 4.0.3</title>
+    <link>http://pypi.python.org/pypi/beautifulsoup4/4.0.3</link>
+    <description>UNKNOWN</description>
+    <pubDate>03 Apr 2012 14:34:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-statici18n 0.3.1</title>
+    <link>http://pypi.python.org/pypi/django-statici18n/0.3.1</link>
+    <description>A Django app that provides helper for generating Javascript catalog to static files.</description>
+    <pubDate>03 Apr 2012 14:14:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>Later 0.1.3</title>
+    <link>http://pypi.python.org/pypi/Later/0.1.3</link>
+    <description>A simple in-process thread-safe scheduler.</description>
+    <pubDate>03 Apr 2012 14:10:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-fost-authn 0.3.2</title>
+    <link>http://pypi.python.org/pypi/django-fost-authn/0.3.2</link>
+    <description>HTTP SHA1 HMAC authentication backend for Django</description>
+    <pubDate>03 Apr 2012 14:09:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>redomino.social 1.2</title>
+    <link>http://pypi.python.org/pypi/redomino.social/1.2</link>
+    <description>Enhances sc.social.like with a portlet and others social plugins.</description>
+    <pubDate>03 Apr 2012 13:35:46 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

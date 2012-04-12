@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>django-jinja 0.2</title>
+    <link>http://pypi.python.org/pypi/django-jinja/0.2</link>
+    <description>Jinja2 templating language integrated in Django.</description>
+    <pubDate>25 Mar 2012 13:21:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-thummer 2.0.4</title>
+    <link>http://pypi.python.org/pypi/django-thummer/2.0.4</link>
+    <description>A website screenshot and thumbnailing app for Django.</description>
+    <pubDate>25 Mar 2012 12:37:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>update-copyright 0.4</title>
+    <link>http://pypi.python.org/pypi/update-copyright/0.4</link>
+    <description>Automatically update copyright blurbs in versioned source.</description>
+    <pubDate>25 Mar 2012 12:24:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>green-django 0.1.1</title>
+    <link>http://pypi.python.org/pypi/green-django/0.1.1</link>
+    <description>Utility function to green Django for gevent usage.</description>
+    <pubDate>25 Mar 2012 12:24:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-lfstheme 0.7.0b5</title>
+    <link>http://pypi.python.org/pypi/django-lfstheme/0.7.0b5</link>
+    <description>The default theme for LFS</description>
+    <pubDate>25 Mar 2012 12:06:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>opster 3.5</title>
+    <link>http://pypi.python.org/pypi/opster/3.5</link>
+    <description>command line parsing speedster</description>
+    <pubDate>25 Mar 2012 12:05:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-site-maintenance 0.1</title>
+    <link>http://pypi.python.org/pypi/django-site-maintenance/0.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>25 Mar 2012 11:44:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>ngs_plumbing 0.7.0</title>
+    <link>http://pypi.python.org/pypi/ngs_plumbing/0.7.0</link>
+    <description>Plumbing for NGS data</description>
+    <pubDate>25 Mar 2012 11:43:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>subliminal 0.5</title>
+    <link>http://pypi.python.org/pypi/subliminal/0.5</link>
+    <description>Subtitles, faster than your thoughts</description>
+    <pubDate>25 Mar 2012 10:58:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>bambu-tools 0.9.1</title>
+    <link>http://pypi.python.org/pypi/bambu-tools/0.9.1</link>
+    <description>Tools for Django webapps</description>
+    <pubDate>25 Mar 2012 09:52:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>weetwit 0.6.3</title>
+    <link>http://pypi.python.org/pypi/weetwit/0.6.3</link>
+    <description>Twitter suite for Weechat.</description>
+    <pubDate>25 Mar 2012 09:44:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>gyroid 0.2</title>
+    <link>http://pypi.python.org/pypi/gyroid/0.2</link>
+    <description>A symmetry adapted basis function (SABF) generator.</description>
+    <pubDate>25 Mar 2012 09:10:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxcontrib-googlechart 0.1.5</title>
+    <link>http://pypi.python.org/pypi/sphinxcontrib-googlechart/0.1.5</link>
+    <description>Sphinx "googlechart" extension</description>
+    <pubDate>25 Mar 2012 08:40:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxjp.shibukawa 0.1.3</title>
+    <link>http://pypi.python.org/pypi/sphinxjp.shibukawa/0.1.3</link>
+    <description>Sphinx calendar extension</description>
+    <pubDate>25 Mar 2012 08:32:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-immutablemodel 0.3.3</title>
+    <link>http://pypi.python.org/pypi/django-immutablemodel/0.3.3</link>
+    <description>A base class for Django to allow immutable fields on Models</description>
+    <pubDate>25 Mar 2012 08:25:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>Volt 0.0.2</title>
+    <link>http://pypi.python.org/pypi/Volt/0.0.2</link>
+    <description>The static website generator with potential</description>
+    <pubDate>25 Mar 2012 07:50:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>twoq 0.4.1</title>
+    <link>http://pypi.python.org/pypi/twoq/0.4.1</link>
+    <description>iterator chaining, underscored by a two-headed queue</description>
+    <pubDate>25 Mar 2012 06:38:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>stathat 0.0.2</title>
+    <link>http://pypi.python.org/pypi/stathat/0.0.2</link>
+    <description>StatHat.com API Wrapper.</description>
+    <pubDate>25 Mar 2012 06:31:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxjp.themes.htmlslide 0.1.3</title>
+    <link>http://pypi.python.org/pypi/sphinxjp.themes.htmlslide/0.1.3</link>
+    <description>A sphinx theme for generate HTML Slide presentation. #sphinxjp</description>
+    <pubDate>25 Mar 2012 05:52:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>ncnyt 0.1</title>
+    <link>http://pypi.python.org/pypi/ncnyt/0.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>25 Mar 2012 05:48:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>neseter 1.1.0</title>
+    <link>http://pypi.python.org/pypi/neseter/1.1.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>25 Mar 2012 05:26:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>Toto 0.7.3</title>
+    <link>http://pypi.python.org/pypi/Toto/0.7.3</link>
+    <description>A Tornado based framework designed to accelerate web service development</description>
+    <pubDate>25 Mar 2012 05:13:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>z3c.jsonrpc 0.7.0</title>
+    <link>http://pypi.python.org/pypi/z3c.jsonrpc/0.7.0</link>
+    <description>JSON RPC server and client implementation for Zope3</description>
+    <pubDate>25 Mar 2012 05:12:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>OpenAnywhere 1.0.1</title>
+    <link>http://pypi.python.org/pypi/OpenAnywhere/1.0.1</link>
+    <description>A Python library taken from the Dive Into Python book, to open any resource (either string, file or url) and manage it as a file.</description>
+    <pubDate>25 Mar 2012 05:08:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>MailManager 1.0.2</title>
+    <link>http://pypi.python.org/pypi/MailManager/1.0.2</link>
+    <description>A Python library for sending emails easily through SMTP</description>
+    <pubDate>25 Mar 2012 04:50:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>dflt 1.0</title>
+    <link>http://pypi.python.org/pypi/dflt/1.0</link>
+    <description>A module that adds raw_default</description>
+    <pubDate>25 Mar 2012 04:43:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>redtape 1.0</title>
+    <link>http://pypi.python.org/pypi/redtape/1.0</link>
+    <description>simple tiny document generator</description>
+    <pubDate>25 Mar 2012 04:20:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>legit 0.1.1</title>
+    <link>http://pypi.python.org/pypi/legit/0.1.1</link>
+    <description>Git for Humans.</description>
+    <pubDate>25 Mar 2012 02:23:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>Ctrax 0.3.2</title>
+    <link>http://pypi.python.org/pypi/Ctrax/0.3.2</link>
+    <description>Ctrax: The Caltech Multiple Fly Tracker</description>
+    <pubDate>25 Mar 2012 01:56:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>vcstools 0.1.13</title>
+    <link>http://pypi.python.org/pypi/vcstools/0.1.13</link>
+    <description>VCS/SCM source control library for svn, git, hg, and bzr</description>
+    <pubDate>25 Mar 2012 01:40:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-sendgrid 0.4.2</title>
+    <link>http://pypi.python.org/pypi/django-sendgrid/0.4.2</link>
+    <description>django-sendgrid</description>
+    <pubDate>25 Mar 2012 01:15:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_exclog 0.6</title>
+    <link>http://pypi.python.org/pypi/pyramid_exclog/0.6</link>
+    <description>A package which logs to a Python logger when an exception is raised by a Pyramid application</description>
+    <pubDate>25 Mar 2012 01:14:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>repoze.retry 1.1</title>
+    <link>http://pypi.python.org/pypi/repoze.retry/1.1</link>
+    <description>Middleware which implements a retryable exceptions</description>
+    <pubDate>25 Mar 2012 01:12:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>repoze.vhm 0.14</title>
+    <link>http://pypi.python.org/pypi/repoze.vhm/0.14</link>
+    <description>repoze virtual hosting middleware.</description>
+    <pubDate>25 Mar 2012 00:54:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>tinycss 0.1dev-20120325</title>
+    <link>http://pypi.python.org/pypi/tinycss/0.1dev-20120325</link>
+    <description>A CSS parser, and nothing else.</description>
+    <pubDate>25 Mar 2012 00:53:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>Flask-JSONPages 0.1.1</title>
+    <link>http://pypi.python.org/pypi/Flask-JSONPages/0.1.1</link>
+    <description>Provides static pages to a Flask application based on JSON</description>
+    <pubDate>24 Mar 2012 23:48:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>storescrapper 0.1.10</title>
+    <link>http://pypi.python.org/pypi/storescrapper/0.1.10</link>
+    <description>Web scrapping API for selected stores</description>
+    <pubDate>24 Mar 2012 23:43:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>trytond_garreta 2.0.2</title>
+    <link>http://pypi.python.org/pypi/trytond_garreta/2.0.2</link>
+    <description>Base de dades dels Garreta</description>
+    <pubDate>24 Mar 2012 23:26:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>bigquery 2.0.3</title>
+    <link>http://pypi.python.org/pypi/bigquery/2.0.3</link>
+    <description>Command-line tools for interacting with Google BigQuery</description>
+    <pubDate>24 Mar 2012 23:08:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>Marrja_Mail 0.2</title>
+    <link>http://pypi.python.org/pypi/Marrja_Mail/0.2</link>
+    <description>Small wrapper for marrow.mailer to use Jinja2 templates and automatically send html and plain text emails.</description>
+    <pubDate>24 Mar 2012 22:26:50 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

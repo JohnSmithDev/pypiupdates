@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>django-metro-tiny 1.0</title>
+    <link>http://pypi.python.org/pypi/django-metro-tiny/1.0</link>
+    <description>Metro stations and lines models for Django</description>
+    <pubDate>18 Mar 2012 23:45:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-cities-tiny 1.0</title>
+    <link>http://pypi.python.org/pypi/django-cities-tiny/1.0</link>
+    <description>Another simple alternative to django-cities</description>
+    <pubDate>18 Mar 2012 23:34:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>Browshot 1.6.0</title>
+    <link>http://pypi.python.org/pypi/Browshot/1.6.0</link>
+    <description></description>
+    <pubDate>18 Mar 2012 22:55:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-djvulibre 0.3.8</title>
+    <link>http://pypi.python.org/pypi/python-djvulibre/0.3.8</link>
+    <description>Python support for the DjVu image format</description>
+    <pubDate>18 Mar 2012 22:47:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>TDTPy 0.7</title>
+    <link>http://pypi.python.org/pypi/TDTPy/0.7</link>
+    <description>Module for communicating with TDT's System 3 hardware</description>
+    <pubDate>18 Mar 2012 22:45:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>djangosaml2 0.4.1</title>
+    <link>http://pypi.python.org/pypi/djangosaml2/0.4.1</link>
+    <description>pysaml2 integration in Django</description>
+    <pubDate>18 Mar 2012 22:32:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-keyboard-shortcuts 0.0.4</title>
+    <link>http://pypi.python.org/pypi/django-keyboard-shortcuts/0.0.4</link>
+    <description>Allow to use the keyboard instead of the mouse inside your web project.</description>
+    <pubDate>18 Mar 2012 22:30:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>pysaml2 0.4.1</title>
+    <link>http://pypi.python.org/pypi/pysaml2/0.4.1</link>
+    <description>Python implementation of SAML Version 2 to for instance be used in a WSGI environment</description>
+    <pubDate>18 Mar 2012 22:28:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>Currency 0.1.2</title>
+    <link>http://pypi.python.org/pypi/Currency/0.1.2</link>
+    <description>Currency conversion using openexangerates API</description>
+    <pubDate>18 Mar 2012 21:52:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>monk 0.5.0</title>
+    <link>http://pypi.python.org/pypi/monk/0.5.0</link>
+    <description>A lightweight schema/query framework for MongoDB</description>
+    <pubDate>18 Mar 2012 21:01:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>indNester 1.5.0</title>
+    <link>http://pypi.python.org/pypi/indNester/1.5.0</link>
+    <description>Nested indented printing of lists</description>
+    <pubDate>18 Mar 2012 20:50:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>boto 2.3.0</title>
+    <link>http://pypi.python.org/pypi/boto/2.3.0</link>
+    <description>Amazon Web Services Library</description>
+    <pubDate>18 Mar 2012 20:49:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>NEURON 7.2</title>
+    <link>http://pypi.python.org/pypi/NEURON/7.2</link>
+    <description>NEURON bindings for python</description>
+    <pubDate>18 Mar 2012 20:19:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-linguo 1.2.5</title>
+    <link>http://pypi.python.org/pypi/django-linguo/1.2.5</link>
+    <description>Linguo is a Django application that provides the ability to have multilingual models.</description>
+    <pubDate>18 Mar 2012 20:18:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxcontrib-taglist 0.2</title>
+    <link>http://pypi.python.org/pypi/sphinxcontrib-taglist/0.2</link>
+    <description>Sphinx "taglist" extension</description>
+    <pubDate>18 Mar 2012 20:15:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>LEPL 5.1.0</title>
+    <link>http://pypi.python.org/pypi/LEPL/5.1.0</link>
+    <description>A Parser Library for Python 2.6+/3+: Recursive Descent; Full Backtracking</description>
+    <pubDate>18 Mar 2012 19:34:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyOpenLCB 0.2</title>
+    <link>http://pypi.python.org/pypi/PyOpenLCB/0.2</link>
+    <description>Implementation of the OpenLCB model train control protocol in Python</description>
+    <pubDate>18 Mar 2012 19:31:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-gears 0.2</title>
+    <link>http://pypi.python.org/pypi/django-gears/0.2</link>
+    <description>Compiles and concatenates JavaScript and CSS assets.</description>
+    <pubDate>18 Mar 2012 19:23:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>btcnet_info 0.1.2.3</title>
+    <link>http://pypi.python.org/pypi/btcnet_info/0.1.2.3</link>
+    <description>BitCoin Network Information Library</description>
+    <pubDate>18 Mar 2012 19:13:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>Gears 0.2</title>
+    <link>http://pypi.python.org/pypi/Gears/0.2</link>
+    <description>Compiles and concatenates JavaScript and CSS assets.</description>
+    <pubDate>18 Mar 2012 19:13:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyMind 1.0.2</title>
+    <link>http://pypi.python.org/pypi/PyMind/1.0.2</link>
+    <description>Unofficial Mindmeister command line tool.</description>
+    <pubDate>18 Mar 2012 19:11:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>mittun 0.1.2.2</title>
+    <link>http://pypi.python.org/pypi/mittun/0.1.2.2</link>
+    <description>conference manager</description>
+    <pubDate>18 Mar 2012 19:01:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-pseudo-cms 0.0.1</title>
+    <link>http://pypi.python.org/pypi/django-pseudo-cms/0.0.1</link>
+    <description>A Simple application to help add dynamic content to pages.</description>
+    <pubDate>18 Mar 2012 18:17:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>TileStache 1.29.2</title>
+    <link>http://pypi.python.org/pypi/TileStache/1.29.2</link>
+    <description>A stylish alternative for caching your map tiles.</description>
+    <pubDate>18 Mar 2012 18:14:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>iboto 0.20.0</title>
+    <link>http://pypi.python.org/pypi/iboto/0.20.0</link>
+    <description>Amazon EC2 shell for managing multiple accounts and regions easily</description>
+    <pubDate>18 Mar 2012 17:54:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>hrdns dev</title>
+    <link>http://pypi.python.org/pypi/hrdns/dev</link>
+    <description>Small tool created for management of hetzner dns service from commandline</description>
+    <pubDate>18 Mar 2012 17:48:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>moke 1.0.2</title>
+    <link>http://pypi.python.org/pypi/moke/1.0.2</link>
+    <description>moke is not like make</description>
+    <pubDate>18 Mar 2012 17:40:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>vulture 0.2</title>
+    <link>http://pypi.python.org/pypi/vulture/0.2</link>
+    <description>Find dead code</description>
+    <pubDate>18 Mar 2012 17:33:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>cloudtee 0.0.6</title>
+    <link>http://pypi.python.org/pypi/cloudtee/0.0.6</link>
+    <description>UNKNOWN</description>
+    <pubDate>18 Mar 2012 17:05:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>turses 0.0.6</title>
+    <link>http://pypi.python.org/pypi/turses/0.0.6</link>
+    <description>A Twitter client with a curses interface.</description>
+    <pubDate>18 Mar 2012 17:00:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>compoze 0.4.1</title>
+    <link>http://pypi.python.org/pypi/compoze/0.4.1</link>
+    <description>Build package indexes</description>
+    <pubDate>18 Mar 2012 16:20:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>orb 0.9.3</title>
+    <link>http://pypi.python.org/pypi/orb/0.9.3</link>
+    <description>pip/virtualenv shell script wrapper</description>
+    <pubDate>18 Mar 2012 16:16:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>bellatrix 1.0.8</title>
+    <link>http://pypi.python.org/pypi/bellatrix/1.0.8</link>
+    <description>Bellatrix is a set of (magic) tools to automate the management of Amazon EC2 services.</description>
+    <pubDate>18 Mar 2012 15:51:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-simple-aes-field 0.1.3</title>
+    <link>http://pypi.python.org/pypi/django-simple-aes-field/0.1.3</link>
+    <description>A SimpleAES encoded field for Django.</description>
+    <pubDate>18 Mar 2012 14:55:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>rpstool 1.1</title>
+    <link>http://pypi.python.org/pypi/rpstool/1.1</link>
+    <description>A simple requests per second (rps) counter</description>
+    <pubDate>18 Mar 2012 14:44:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>espy 0.4.1</title>
+    <link>http://pypi.python.org/pypi/espy/0.4.1</link>
+    <description>Operating Environment Inspection</description>
+    <pubDate>18 Mar 2012 13:53:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>dictmapper 0.1dev</title>
+    <link>http://pypi.python.org/pypi/dictmapper/0.1dev</link>
+    <description>Maps hierarchical dictionaries to flat structures</description>
+    <pubDate>18 Mar 2012 13:26:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>state 0.1.1dev</title>
+    <link>http://pypi.python.org/pypi/state/0.1.1dev</link>
+    <description>UNKNOWN</description>
+    <pubDate>18 Mar 2012 13:24:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-lfs 0.7.0b3</title>
+    <link>http://pypi.python.org/pypi/django-lfs/0.7.0b3</link>
+    <description>LFS - Lightning Fast Shop</description>
+    <pubDate>18 Mar 2012 12:28:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-lfstheme 0.7.0b2</title>
+    <link>http://pypi.python.org/pypi/django-lfstheme/0.7.0b2</link>
+    <description>The default theme for LFS</description>
+    <pubDate>18 Mar 2012 12:26:53 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

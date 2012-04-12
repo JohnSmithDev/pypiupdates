@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>qmath 0.3.0</title>
+    <link>http://pypi.python.org/pypi/qmath/0.3.0</link>
+    <description>qmath provides a class for deal with quaternion algebra and 3D rotations.
+  Root evaluations and Moebius transformations are implemented.</description>
+    <pubDate>11 Mar 2012 18:00:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>pdfserver 0.6</title>
+    <link>http://pypi.python.org/pypi/pdfserver/0.6</link>
+    <description>Pdfserver is a webservice that offers common PDF operations like joining documents, selecting pages or "n pages on one".</description>
+    <pubDate>11 Mar 2012 17:32:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>JSONMapperHGMMPFork 0.30</title>
+    <link>http://pypi.python.org/pypi/JSONMapperHGMMPFork/0.30</link>
+    <description>Mapping JSON to objects and vice versa, this is a product of Christopher Lenz and Matthew Good with slight modifications</description>
+    <pubDate>11 Mar 2012 17:28:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>pycom 0.4.2</title>
+    <link>http://pypi.python.org/pypi/pycom/0.4.2</link>
+    <description>Distributed component model for Python.</description>
+    <pubDate>11 Mar 2012 17:19:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>mesh 1.0.0a1</title>
+    <link>http://pypi.python.org/pypi/mesh/1.0.0a1</link>
+    <description>A declarative RESTful API framework.</description>
+    <pubDate>11 Mar 2012 17:03:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>bake 1.0.0a1</title>
+    <link>http://pypi.python.org/pypi/bake/1.0.0a1</link>
+    <description>A project scripting and build utility.</description>
+    <pubDate>11 Mar 2012 16:58:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>scheme 1.0.0a1</title>
+    <link>http://pypi.python.org/pypi/scheme/1.0.0a1</link>
+    <description>A declarative schema framework.</description>
+    <pubDate>11 Mar 2012 16:45:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>Scrapy 0.14.2</title>
+    <link>http://pypi.python.org/pypi/Scrapy/0.14.2</link>
+    <description>A high-level Python Screen Scraping framework</description>
+    <pubDate>11 Mar 2012 16:18:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>dotfiles 0.5.3</title>
+    <link>http://pypi.python.org/pypi/dotfiles/0.5.3</link>
+    <description>Easily manage your dotfiles</description>
+    <pubDate>11 Mar 2012 16:07:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>Flask-Cache-PyLibMC 0.1</title>
+    <link>http://pypi.python.org/pypi/Flask-Cache-PyLibMC/0.1</link>
+    <description>PyLibMC cache for Flask-Cache, supports multiple operations
+and other awesome things.</description>
+    <pubDate>11 Mar 2012 15:52:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>easywebdav 1.0.2</title>
+    <link>http://pypi.python.org/pypi/easywebdav/1.0.2</link>
+    <description>A straight-forward WebDAV client, implemented using Requests</description>
+    <pubDate>11 Mar 2012 15:24:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>offlinetb 0.0.4</title>
+    <link>http://pypi.python.org/pypi/offlinetb/0.0.4</link>
+    <description>Tools for distilling tracebacks for offline viewing</description>
+    <pubDate>11 Mar 2012 15:07:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxcontrib-eagle 0.0.7</title>
+    <link>http://pypi.python.org/pypi/sphinxcontrib-eagle/0.0.7</link>
+    <description>Sphinx extension to include image or partlist of eagle schematic or board</description>
+    <pubDate>11 Mar 2012 15:04:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>ofxstatement 0.1.0</title>
+    <link>http://pypi.python.org/pypi/ofxstatement/0.1.0</link>
+    <description>Tool to convert proprietary bank statement to OFX format, suitable for importing to GnuCash</description>
+    <pubDate>11 Mar 2012 15:04:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyavrutils 0.1.0</title>
+    <link>http://pypi.python.org/pypi/pyavrutils/0.1.0</link>
+    <description>pyavrutils can build AVR and arduino code from python</description>
+    <pubDate>11 Mar 2012 14:18:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyspread 0.2.1</title>
+    <link>http://pypi.python.org/pypi/pyspread/0.2.1</link>
+    <description>Python Spreadsheet</description>
+    <pubDate>11 Mar 2012 13:54:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>nous.migration 0.7.1</title>
+    <link>http://pypi.python.org/pypi/nous.migration/0.7.1</link>
+    <description>Yet another sqlalchemy based database schema migration tool</description>
+    <pubDate>11 Mar 2012 13:52:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>wheezy.core 0.1.64</title>
+    <link>http://pypi.python.org/pypi/wheezy.core/0.1.64</link>
+    <description>A lightweight core library</description>
+    <pubDate>11 Mar 2012 11:46:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>samklang-payment 0.4.7</title>
+    <link>http://pypi.python.org/pypi/samklang-payment/0.4.7</link>
+    <description>Donations and payment app for Samklang</description>
+    <pubDate>11 Mar 2012 11:08:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>jb.recipe.supervisor 0.0.1</title>
+    <link>http://pypi.python.org/pypi/jb.recipe.supervisor/0.0.1</link>
+    <description>Recipe for installing Supervisor</description>
+    <pubDate>11 Mar 2012 10:44:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>wheezy.web 0.1.152</title>
+    <link>http://pypi.python.org/pypi/wheezy.web/0.1.152</link>
+    <description>A lightweight WSGI web framework.</description>
+    <pubDate>11 Mar 2012 10:40:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>TracWatchlistPlugin 1.0</title>
+    <link>http://pypi.python.org/pypi/TracWatchlistPlugin/1.0</link>
+    <description>Watchlist Plugin for Trac 0.11/0.12</description>
+    <pubDate>11 Mar 2012 10:40:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>wheezy.http 0.1.176</title>
+    <link>http://pypi.python.org/pypi/wheezy.http/0.1.176</link>
+    <description>A lightweight http request-response library</description>
+    <pubDate>11 Mar 2012 10:38:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>gir2rst 0.4</title>
+    <link>http://pypi.python.org/pypi/gir2rst/0.4</link>
+    <description>ReST-based Sphinx documentation from GIR files</description>
+    <pubDate>11 Mar 2012 10:36:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>wheezy.caching 0.1.43</title>
+    <link>http://pypi.python.org/pypi/wheezy.caching/0.1.43</link>
+    <description>A lightweight caching library</description>
+    <pubDate>11 Mar 2012 10:30:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.conference 1.0a1</title>
+    <link>http://pypi.python.org/pypi/collective.conference/1.0a1</link>
+    <description>Conference management</description>
+    <pubDate>11 Mar 2012 09:50:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>Flask-Administration 0.1.37</title>
+    <link>http://pypi.python.org/pypi/Flask-Administration/0.1.37</link>
+    <description>UNKNOWN</description>
+    <pubDate>11 Mar 2012 09:34:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>rednose 0.3.1</title>
+    <link>http://pypi.python.org/pypi/rednose/0.3.1</link>
+    <description>coloured output for nosetests</description>
+    <pubDate>11 Mar 2012 09:34:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>mocktest 0.6.1</title>
+    <link>http://pypi.python.org/pypi/mocktest/0.6.1</link>
+    <description>mocking library for python, inspired by rspec</description>
+    <pubDate>11 Mar 2012 09:34:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>repoze.what-x509 0.1</title>
+    <link>http://pypi.python.org/pypi/repoze.what-x509/0.1</link>
+    <description>x509 repoze.what plugin</description>
+    <pubDate>11 Mar 2012 09:23:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.miscbehaviors 0.2</title>
+    <link>http://pypi.python.org/pypi/collective.miscbehaviors/0.2</link>
+    <description>Miscellaneous behaviors for Plone</description>
+    <pubDate>11 Mar 2012 09:13:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>uwsgitop 0.6</title>
+    <link>http://pypi.python.org/pypi/uwsgitop/0.6</link>
+    <description>uWSGI top-like interface</description>
+    <pubDate>11 Mar 2012 08:53:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>rmtree 1.0</title>
+    <link>http://pypi.python.org/pypi/rmtree/1.0</link>
+    <description>A sweet and simple python wrapper to shutil.rmtree</description>
+    <pubDate>11 Mar 2012 08:17:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyskel 1.1.2</title>
+    <link>http://pypi.python.org/pypi/pyskel/1.1.2</link>
+    <description>A skeleton directory copying command line utility.</description>
+    <pubDate>11 Mar 2012 07:32:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>cov-core 1.5</title>
+    <link>http://pypi.python.org/pypi/cov-core/1.5</link>
+    <description>plugin core for use by pytest-cov, nose-cov and nose2-cov</description>
+    <pubDate>11 Mar 2012 07:15:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>dj.choices 0.8.0</title>
+    <link>http://pypi.python.org/pypi/dj.choices/0.8.0</link>
+    <description>An enum implementation for Django forms and models.</description>
+    <pubDate>11 Mar 2012 06:35:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>vcstools 0.1.10</title>
+    <link>http://pypi.python.org/pypi/vcstools/0.1.10</link>
+    <description>VCS/SCM source control library for svn, git, hg, and bzr</description>
+    <pubDate>11 Mar 2012 06:31:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>rebar 0.1</title>
+    <link>http://pypi.python.org/pypi/rebar/0.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>11 Mar 2012 06:24:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>hieroglyph 0.2</title>
+    <link>http://pypi.python.org/pypi/hieroglyph/0.2</link>
+    <description>UNKNOWN</description>
+    <pubDate>11 Mar 2012 06:07:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>dj 0.0</title>
+    <link>http://pypi.python.org/pypi/dj/0.0</link>
+    <description>This is a namespace package for extra Django packages. Feel free to use it.</description>
+    <pubDate>11 Mar 2012 06:05:16 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>lck.django 0.7.3</title>
+    <link>http://pypi.python.org/pypi/lck.django/0.7.3</link>
+    <description>Various common Django-related routines.</description>
+    <pubDate>31 Mar 2012 19:51:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-twitter-tag 0.4.0</title>
+    <link>http://pypi.python.org/pypi/django-twitter-tag/0.4.0</link>
+    <description>A django template tag to display user's recent tweets.</description>
+    <pubDate>31 Mar 2012 19:34:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-kendoui-backend 0.3</title>
+    <link>http://pypi.python.org/pypi/django-kendoui-backend/0.3</link>
+    <description>Kendo UI DataSource backend</description>
+    <pubDate>31 Mar 2012 19:24:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>dwight 0.8.0</title>
+    <link>http://pypi.python.org/pypi/dwight/0.8.0</link>
+    <description>Run Django management commands against arbitrary settings files.</description>
+    <pubDate>31 Mar 2012 19:23:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-notifier 0.9.5</title>
+    <link>http://pypi.python.org/pypi/python-notifier/0.9.5</link>
+    <description>A generic notifier/event scheduler abstraction</description>
+    <pubDate>31 Mar 2012 19:21:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>jinjastatic 0.0.4</title>
+    <link>http://pypi.python.org/pypi/jinjastatic/0.0.4</link>
+    <description>Static template compilation</description>
+    <pubDate>31 Mar 2012 19:21:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>geonode-extract 0.2.1</title>
+    <link>http://pypi.python.org/pypi/geonode-extract/0.2.1</link>
+    <description>Extract data from a geonode and put it in a folder</description>
+    <pubDate>31 Mar 2012 18:53:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>armstrong.core.arm_wells 1.6.0</title>
+    <link>http://pypi.python.org/pypi/armstrong.core.arm_wells/1.6.0</link>
+    <description>Provides the basic well objects</description>
+    <pubDate>31 Mar 2012 18:31:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>van.static 1.0</title>
+    <link>http://pypi.python.org/pypi/van.static/1.0</link>
+    <description>Tools for managing Pyramid static files on a CDN</description>
+    <pubDate>31 Mar 2012 18:09:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>dm.zdoc 2.0</title>
+    <link>http://pypi.python.org/pypi/dm.zdoc/2.0</link>
+    <description>pydoc based documentation for Zope</description>
+    <pubDate>31 Mar 2012 17:46:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>dogbutler 0.0.1</title>
+    <link>http://pypi.python.org/pypi/dogbutler/0.0.1</link>
+    <description>Make HTTP/HTTPS requests with cache, cookie, and redirect support</description>
+    <pubDate>31 Mar 2012 17:45:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.CMFDefault 2.3.0-beta2</title>
+    <link>http://pypi.python.org/pypi/Products.CMFDefault/2.3.0-beta2</link>
+    <description>Default product for the Zope Content Management Framework</description>
+    <pubDate>31 Mar 2012 17:26:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.CMFCore 2.3.0-beta2</title>
+    <link>http://pypi.python.org/pypi/Products.CMFCore/2.3.0-beta2</link>
+    <description>Zope Content Management Framework core components</description>
+    <pubDate>31 Mar 2012 17:23:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>turses 0.0.11</title>
+    <link>http://pypi.python.org/pypi/turses/0.0.11</link>
+    <description>A Twitter client with a curses interface.</description>
+    <pubDate>31 Mar 2012 17:17:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-mpd2 0.4.2</title>
+    <link>http://pypi.python.org/pypi/python-mpd2/0.4.2</link>
+    <description>A Python MPD client library</description>
+    <pubDate>31 Mar 2012 17:07:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-tumblelog 0.2</title>
+    <link>http://pypi.python.org/pypi/django-tumblelog/0.2</link>
+    <description>A simple and extensible tumblelog engine for Django</description>
+    <pubDate>31 Mar 2012 17:05:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>tomahawk 0.5.0</title>
+    <link>http://pypi.python.org/pypi/tomahawk/0.5.0</link>
+    <description>A simple ssh wrapper for executing commands for many hosts.</description>
+    <pubDate>31 Mar 2012 17:01:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-scriptures 1.1.0</title>
+    <link>http://pypi.python.org/pypi/python-scriptures/1.1.0</link>
+    <description>python-scriptures is a Python package and regular expression library for validating, extracting, and normalizing biblical scripture references from blocks of text.</description>
+    <pubDate>31 Mar 2012 16:52:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-dynamic-choices 0.2.0</title>
+    <link>http://pypi.python.org/pypi/django-dynamic-choices/0.2.0</link>
+    <description>Django admin fk and m2m dynamic choices by providing callback support</description>
+    <pubDate>31 Mar 2012 16:49:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-tumblpy 0.3.1</title>
+    <link>http://pypi.python.org/pypi/python-tumblpy/0.3.1</link>
+    <description>A Python Library to interface with Tumblr v2 REST API &amp; OAuth</description>
+    <pubDate>31 Mar 2012 16:42:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>fedmsg 0.0.4</title>
+    <link>http://pypi.python.org/pypi/fedmsg/0.0.4</link>
+    <description>Fedora Messaging Client API</description>
+    <pubDate>31 Mar 2012 16:25:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>tinycss 0.1dev-20120331</title>
+    <link>http://pypi.python.org/pypi/tinycss/0.1dev-20120331</link>
+    <description>tinycss is a complete yet simple CSS parser for Python.</description>
+    <pubDate>31 Mar 2012 16:19:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyautocad 0.1.2</title>
+    <link>http://pypi.python.org/pypi/pyautocad/0.1.2</link>
+    <description>AutoCAD Automation for Python</description>
+    <pubDate>31 Mar 2012 15:40:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>nester_mg_1 1.3.0</title>
+    <link>http://pypi.python.org/pypi/nester_mg_1/1.3.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>31 Mar 2012 15:24:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-fabfile 2012.03.31.4</title>
+    <link>http://pypi.python.org/pypi/django-fabfile/2012.03.31.4</link>
+    <description>Fabric tasks for Django and Amazon Web Services</description>
+    <pubDate>31 Mar 2012 14:53:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>b3 1.8.1</title>
+    <link>http://pypi.python.org/pypi/b3/1.8.1</link>
+    <description>BigBrotherBot (B3) is a cross-platform, cross-game game administration bot. Features in-game administration of game servers, multiple user access levels, and database storage. Currently include parsers for Call of Duty 1 to 7, Urban Terror (ioUrT), World of Padman, ETpro, Smokin' Guns, BFBC2, MOH, HomeFront, Open Arena, Altitude etc.</description>
+    <pubDate>31 Mar 2012 14:12:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>pywidl 0.1</title>
+    <link>http://pypi.python.org/pypi/pywidl/0.1</link>
+    <description>Generic code generator from WebIDL interfaces.</description>
+    <pubDate>31 Mar 2012 14:03:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>GeoAlchemy 0.7.1</title>
+    <link>http://pypi.python.org/pypi/GeoAlchemy/0.7.1</link>
+    <description>Using SQLAlchemy with Spatial Databases</description>
+    <pubDate>31 Mar 2012 13:54:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>curlish 1.3</title>
+    <link>http://pypi.python.org/pypi/curlish/1.3</link>
+    <description>A wrapper for curl that adds OAuth support</description>
+    <pubDate>31 Mar 2012 12:36:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>yamlish 0.7</title>
+    <link>http://pypi.python.org/pypi/yamlish/0.7</link>
+    <description>Python implementation of YAMLish</description>
+    <pubDate>31 Mar 2012 11:48:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>TaskCoach 1.3.11</title>
+    <link>http://pypi.python.org/pypi/TaskCoach/1.3.11</link>
+    <description>Your friendly task manager</description>
+    <pubDate>31 Mar 2012 11:43:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxcontrib-plantuml 0.3</title>
+    <link>http://pypi.python.org/pypi/sphinxcontrib-plantuml/0.3</link>
+    <description>Sphinx "plantuml" extension</description>
+    <pubDate>31 Mar 2012 11:42:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>SQLObject 1.3.0</title>
+    <link>http://pypi.python.org/pypi/SQLObject/1.3.0</link>
+    <description>Object-Relational Manager, aka database wrapper</description>
+    <pubDate>31 Mar 2012 11:10:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>linkchecker 7.6</title>
+    <link>http://pypi.python.org/pypi/linkchecker/7.6</link>
+    <description>check websites and HTML documents for broken links</description>
+    <pubDate>31 Mar 2012 11:07:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>openerp_pastertemplates 1.0a5</title>
+    <link>http://pypi.python.org/pypi/openerp_pastertemplates/1.0a5</link>
+    <description>Paster template for creating new OpenERP modules</description>
+    <pubDate>31 Mar 2012 10:24:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftp_bruteforce 1.0.0</title>
+    <link>http://pypi.python.org/pypi/ftp_bruteforce/1.0.0</link>
+    <description>A simple ftp bruteforce script</description>
+    <pubDate>31 Mar 2012 09:54:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>pysmb 1.0.2</title>
+    <link>http://pypi.python.org/pypi/pysmb/1.0.2</link>
+    <description>pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines</description>
+    <pubDate>31 Mar 2012 09:42:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-resto 1.0</title>
+    <link>http://pypi.python.org/pypi/django-resto/1.0</link>
+    <description>REplicated STOrage for Django, a file backend that mirrors media files to several servers over HTTP</description>
+    <pubDate>31 Mar 2012 09:13:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>gum-audio 0.8.2</title>
+    <link>http://pypi.python.org/pypi/gum-audio/0.8.2</link>
+    <description>Gum Audio Editor</description>
+    <pubDate>31 Mar 2012 08:57:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>grs 0.1.3</title>
+    <link>http://pypi.python.org/pypi/grs/0.1.3</link>
+    <description>台灣上市股票價格擷取（Fetch TWSE stock data）含即時盤、台灣時間轉換、開休市判斷。</description>
+    <pubDate>31 Mar 2012 08:54:28 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

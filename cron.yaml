@@ -1,0 +1,11 @@
+# cron.yaml for Python Package Updates GAE app
+
+cron:
+- description: Download RSS feed from pypi.org
+  url: /Offline/downloadFeed
+  schedule: every 1 hours
+# TODO: daily parsing of the feeds
+# TODO: daily mailouts
+- description: Create a daily aggregated list
+  url: /Offline/processFeeds
+  schedule: every day 04:00

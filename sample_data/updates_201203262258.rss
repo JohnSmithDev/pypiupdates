@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>factored 1.1a2</title>
+    <link>http://pypi.python.org/pypi/factored/1.1a2</link>
+    <description>A WSGI app that allows you to add another factor of authentication to any application server.</description>
+    <pubDate>26 Mar 2012 21:39:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>listEnumeration 1.4.0</title>
+    <link>http://pypi.python.org/pypi/listEnumeration/1.4.0</link>
+    <description>A simple funciton to print nested lists</description>
+    <pubDate>26 Mar 2012 21:31:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>piped.contrib.zookeeper 0.4.0</title>
+    <link>http://pypi.python.org/pypi/piped.contrib.zookeeper/0.4.0</link>
+    <description>Apache ZooKeeper support for Piped.</description>
+    <pubDate>26 Mar 2012 21:30:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>piped.contrib.zmq 0.4.0</title>
+    <link>http://pypi.python.org/pypi/piped.contrib.zmq/0.4.0</link>
+    <description>ZeroMQ processors and providers for Piped.</description>
+    <pubDate>26 Mar 2012 21:29:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>piped.contrib.validation 0.4.0</title>
+    <link>http://pypi.python.org/pypi/piped.contrib.validation/0.4.0</link>
+    <description>FormEncode-like validation processor for Piped.</description>
+    <pubDate>26 Mar 2012 21:29:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>piped.contrib.status_testing 0.4.0</title>
+    <link>http://pypi.python.org/pypi/piped.contrib.status_testing/0.4.0</link>
+    <description>Status test support for Piped.</description>
+    <pubDate>26 Mar 2012 21:29:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>piped.contrib.manhole 0.4.0</title>
+    <link>http://pypi.python.org/pypi/piped.contrib.manhole/0.4.0</link>
+    <description>Twisted Manhole support for Piped.</description>
+    <pubDate>26 Mar 2012 21:29:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>piped.contrib.database 0.4.0</title>
+    <link>http://pypi.python.org/pypi/piped.contrib.database/0.4.0</link>
+    <description>Database provider for Piped.</description>
+    <pubDate>26 Mar 2012 21:29:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>piped.contrib.cyclone 0.4.0</title>
+    <link>http://pypi.python.org/pypi/piped.contrib.cyclone/0.4.0</link>
+    <description>Cyclone provider for Piped.</description>
+    <pubDate>26 Mar 2012 21:29:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>piped.contrib.amqp 0.4.0</title>
+    <link>http://pypi.python.org/pypi/piped.contrib.amqp/0.4.0</link>
+    <description>AMQP support for Piped.</description>
+    <pubDate>26 Mar 2012 21:29:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>piped 0.4.0</title>
+    <link>http://pypi.python.org/pypi/piped/0.4.0</link>
+    <description>A framework and application server with pipelines.</description>
+    <pubDate>26 Mar 2012 21:29:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>streaming-fileutils 0.2</title>
+    <link>http://pypi.python.org/pypi/streaming-fileutils/0.2</link>
+    <description>Streaming and Fileutils libraries</description>
+    <pubDate>26 Mar 2012 21:16:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>twoq 0.4.4</title>
+    <link>http://pypi.python.org/pypi/twoq/0.4.4</link>
+    <description>iterator chaining, underscored by a two-headed queue</description>
+    <pubDate>26 Mar 2012 21:14:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>geoloqi-python 12.086</title>
+    <link>http://pypi.python.org/pypi/geoloqi-python/12.086</link>
+    <description>A powerful platform for mobile location, messaging and analytics.</description>
+    <pubDate>26 Mar 2012 21:11:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>haigha 0.4.2</title>
+    <link>http://pypi.python.org/pypi/haigha/0.4.2</link>
+    <description>Event driven AMQP client library</description>
+    <pubDate>26 Mar 2012 21:02:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>bug-repo-syncer 0.3.0b4</title>
+    <link>http://pypi.python.org/pypi/bug-repo-syncer/0.3.0b4</link>
+    <description>Program to synchronize bug repositories</description>
+    <pubDate>26 Mar 2012 20:54:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>plomino.tinymce 0.6.8</title>
+    <link>http://pypi.python.org/pypi/plomino.tinymce/0.6.8</link>
+    <description>TinyMCE Plomino Embedded Plugin</description>
+    <pubDate>26 Mar 2012 20:48:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-tables2 0.10.2</title>
+    <link>http://pypi.python.org/pypi/django-tables2/0.10.2</link>
+    <description>Table/data-grid framework for Django</description>
+    <pubDate>26 Mar 2012 20:44:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>Marrja_Mail 0.2.2</title>
+    <link>http://pypi.python.org/pypi/Marrja_Mail/0.2.2</link>
+    <description>Small wrapper for marrow.mailer to use Jinja2 templates and automatically send html and plain text emails.</description>
+    <pubDate>26 Mar 2012 20:43:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-attest 0.2.4</title>
+    <link>http://pypi.python.org/pypi/django-attest/0.2.4</link>
+    <description>Provides Django specific testing helpers to Attest</description>
+    <pubDate>26 Mar 2012 20:41:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>dynamodb-mapper 1.0.2</title>
+    <link>http://pypi.python.org/pypi/dynamodb-mapper/1.0.2</link>
+    <description>Object mapper for Amazon DynamoDB</description>
+    <pubDate>26 Mar 2012 20:37:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>tkbd 0.3.0</title>
+    <link>http://pypi.python.org/pypi/tkbd/0.3.0</link>
+    <description>Terminal Kamer Bezetting Daemon voor de faculteit NWI van de Radboud Universiteit</description>
+    <pubDate>26 Mar 2012 20:33:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>cql 1.0.10</title>
+    <link>http://pypi.python.org/pypi/cql/1.0.10</link>
+    <description>Cassandra Query Language driver</description>
+    <pubDate>26 Mar 2012 20:33:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_mailer 0.8</title>
+    <link>http://pypi.python.org/pypi/pyramid_mailer/0.8</link>
+    <description>Sendmail package for Pyramid</description>
+    <pubDate>26 Mar 2012 20:18:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.CMFPlomino 1.14</title>
+    <link>http://pypi.python.org/pypi/Products.CMFPlomino/1.14</link>
+    <description>Create specific applications in Plone without developing. Created by Makina Corpus.</description>
+    <pubDate>26 Mar 2012 20:10:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>repoze.sendmail 3.1</title>
+    <link>http://pypi.python.org/pypi/repoze.sendmail/3.1</link>
+    <description>Repoze Sendmail</description>
+    <pubDate>26 Mar 2012 20:05:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>Plomino 1.13.4</title>
+    <link>http://pypi.python.org/pypi/Plomino/1.13.4</link>
+    <description>Create specific applications in Plone without developing. Created by Makina Corpus.</description>
+    <pubDate>26 Mar 2012 19:55:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>tiddlywebplugins.tiddlyspace 1.0.94</title>
+    <link>http://pypi.python.org/pypi/tiddlywebplugins.tiddlyspace/1.0.94</link>
+    <description>A discoursive social model for Tiddlers</description>
+    <pubDate>26 Mar 2012 19:46:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>Mothership 0.0.22</title>
+    <link>http://pypi.python.org/pypi/Mothership/0.0.22</link>
+    <description>Mothership - asset managment</description>
+    <pubDate>26 Mar 2012 19:45:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>tkintertable 1.0.0</title>
+    <link>http://pypi.python.org/pypi/tkintertable/1.0.0</link>
+    <description>Extendable table class for Tkinter</description>
+    <pubDate>26 Mar 2012 19:44:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>xworkflows 0.2.1</title>
+    <link>http://pypi.python.org/pypi/xworkflows/0.2.1</link>
+    <description>A library implementing workflows (or state machines) for Python projects.</description>
+    <pubDate>26 Mar 2012 19:17:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>MoPyTools 3.1</title>
+    <link>http://pypi.python.org/pypi/MoPyTools/3.1</link>
+    <description>Set of tools to build Mozilla Services apps</description>
+    <pubDate>26 Mar 2012 19:09:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-safe 0.1</title>
+    <link>http://pypi.python.org/pypi/python-safe/0.1</link>
+    <description>Spatial Analysis F* Engine</description>
+    <pubDate>26 Mar 2012 18:54:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>audioread 0.5</title>
+    <link>http://pypi.python.org/pypi/audioread/0.5</link>
+    <description>multi-library, cross-platform audio decoding</description>
+    <pubDate>26 Mar 2012 18:48:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>MobileWorks 0.1.7</title>
+    <link>http://pypi.python.org/pypi/MobileWorks/0.1.7</link>
+    <description>A wrapper for the MobileWorks API.</description>
+    <pubDate>26 Mar 2012 18:34:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-response-helpers 0.1.6</title>
+    <link>http://pypi.python.org/pypi/django-response-helpers/0.1.6</link>
+    <description>A helper application for working with Django Responses</description>
+    <pubDate>26 Mar 2012 18:33:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-pipeline 1.2.0</title>
+    <link>http://pypi.python.org/pypi/django-pipeline/1.2.0</link>
+    <description>Pipeline is an asset packaging library for Django.</description>
+    <pubDate>26 Mar 2012 18:28:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>slapos.cookbook 0.42</title>
+    <link>http://pypi.python.org/pypi/slapos.cookbook/0.42</link>
+    <description>SlapOS recipes.</description>
+    <pubDate>26 Mar 2012 18:26:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>turses 0.0.9</title>
+    <link>http://pypi.python.org/pypi/turses/0.0.9</link>
+    <description>A Twitter client with a curses interface.</description>
+    <pubDate>26 Mar 2012 18:26:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>miniPOS 1.1</title>
+    <link>http://pypi.python.org/pypi/miniPOS/1.1</link>
+    <description>A simple POS program for record keeping.</description>
+    <pubDate>26 Mar 2012 18:10:24 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

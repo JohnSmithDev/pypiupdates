@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>gitcampy 0.0.8</title>
+    <link>http://pypi.python.org/pypi/gitcampy/0.0.8</link>
+    <description>Basecamp todo_lists con commits messages. Port of the project gitcamp.</description>
+    <pubDate>12 Mar 2012 16:42:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>nipype 0.5.0</title>
+    <link>http://pypi.python.org/pypi/nipype/0.5.0</link>
+    <description>Neuroimaging in Python: Pipelines and Interfaces</description>
+    <pubDate>12 Mar 2012 16:41:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>StrangeCase v2.4.1</title>
+    <link>http://pypi.python.org/pypi/StrangeCase/v2.4.1</link>
+    <description>A straightforward python static site generator.</description>
+    <pubDate>12 Mar 2012 16:37:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-fagungis 0.0.14</title>
+    <link>http://pypi.python.org/pypi/django-fagungis/0.0.14</link>
+    <description>DJANGO + FAbric + GUnicorn + NGInx + Supervisor deployment</description>
+    <pubDate>12 Mar 2012 16:19:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygal 0.9.11</title>
+    <link>http://pypi.python.org/pypi/pygal/0.9.11</link>
+    <description>A python svg graph plotting library</description>
+    <pubDate>12 Mar 2012 16:10:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>gntplib 0.1</title>
+    <link>http://pypi.python.org/pypi/gntplib/0.1</link>
+    <description>Pure python implementation of Growl Notification Transport Protocol client</description>
+    <pubDate>12 Mar 2012 15:59:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>refreshbooks 1.6.1</title>
+    <link>http://pypi.python.org/pypi/refreshbooks/1.6.1</link>
+    <description>A client library for the FreshBooks API</description>
+    <pubDate>12 Mar 2012 15:48:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.table 1.7.6</title>
+    <link>http://pypi.python.org/pypi/ftw.table/1.7.6</link>
+    <description>Table generator utility for use within zope.</description>
+    <pubDate>12 Mar 2012 15:47:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.dashboard.portlets.recentlymodified 1.2.4</title>
+    <link>http://pypi.python.org/pypi/ftw.dashboard.portlets.recentlymodified/1.2.4</link>
+    <description>Recently modified portlet for the dashboard</description>
+    <pubDate>12 Mar 2012 15:30:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>autojenkins 0.5.4</title>
+    <link>http://pypi.python.org/pypi/autojenkins/0.5.4</link>
+    <description>Jenkins Remote Control Library</description>
+    <pubDate>12 Mar 2012 15:29:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.dashboard.portlets.postit 1.3.2</title>
+    <link>http://pypi.python.org/pypi/ftw.dashboard.portlets.postit/1.3.2</link>
+    <description>Postit portlet for the dashboard</description>
+    <pubDate>12 Mar 2012 15:17:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.blog 1.1.7</title>
+    <link>http://pypi.python.org/pypi/ftw.blog/1.1.7</link>
+    <description>A Blog for Plone</description>
+    <pubDate>12 Mar 2012 14:56:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>webtail 0.1b15</title>
+    <link>http://pypi.python.org/pypi/webtail/0.1b15</link>
+    <description>Tornado-based log viewer</description>
+    <pubDate>12 Mar 2012 14:52:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-subview 0.1.2</title>
+    <link>http://pypi.python.org/pypi/django-subview/0.1.2</link>
+    <description>Treat Django views as reusable and generic components</description>
+    <pubDate>12 Mar 2012 14:22:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>proboscis 1.2.4</title>
+    <link>http://pypi.python.org/pypi/proboscis/1.2.4</link>
+    <description>Extends Nose with certain TestNG like features.</description>
+    <pubDate>12 Mar 2012 14:11:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>wheezy.http 0.1.179</title>
+    <link>http://pypi.python.org/pypi/wheezy.http/0.1.179</link>
+    <description>A lightweight http request-response library</description>
+    <pubDate>12 Mar 2012 14:05:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>wheezy.caching 0.1.45</title>
+    <link>http://pypi.python.org/pypi/wheezy.caching/0.1.45</link>
+    <description>A lightweight caching library</description>
+    <pubDate>12 Mar 2012 14:05:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-jenkins-latest 0.12.0</title>
+    <link>http://pypi.python.org/pypi/django-jenkins-latest/0.12.0</link>
+    <description>Plug and play continuous integration with django and jenkins</description>
+    <pubDate>12 Mar 2012 14:02:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-simple-aes-field 0.1.1</title>
+    <link>http://pypi.python.org/pypi/django-simple-aes-field/0.1.1</link>
+    <description>A SimpleAES encoded field for Django.</description>
+    <pubDate>12 Mar 2012 13:47:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.recipe.deployment 1.0.1</title>
+    <link>http://pypi.python.org/pypi/ftw.recipe.deployment/1.0.1</link>
+    <description>A zc.buildout recipe for Plone deployments which configures various unix system services.</description>
+    <pubDate>12 Mar 2012 13:42:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>surebilling 0.5</title>
+    <link>http://pypi.python.org/pypi/surebilling/0.5</link>
+    <description>Python wrapper for the SureBilling API</description>
+    <pubDate>12 Mar 2012 13:30:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>setman 0.1-alpha</title>
+    <link>http://pypi.python.org/pypi/setman/0.1-alpha</link>
+    <description>Settings manager for Python web-apps and projects. Another?</description>
+    <pubDate>12 Mar 2012 13:14:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>dreidel 1.0.3</title>
+    <link>http://pypi.python.org/pypi/dreidel/1.0.3</link>
+    <description>A python replacement for logrotate</description>
+    <pubDate>12 Mar 2012 12:59:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>basecamp 0.0.12</title>
+    <link>http://pypi.python.org/pypi/basecamp/0.0.12</link>
+    <description>Almost complete warapper around the Basecamp API.</description>
+    <pubDate>12 Mar 2012 12:52:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-guardian 1.0.4</title>
+    <link>http://pypi.python.org/pypi/django-guardian/1.0.4</link>
+    <description>Implementation of per object permissions for Django 1.2 or later.</description>
+    <pubDate>12 Mar 2012 12:45:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>JSONMapperHGMMPFork 0.31</title>
+    <link>http://pypi.python.org/pypi/JSONMapperHGMMPFork/0.31</link>
+    <description>Mapping JSON to objects and vice versa, this is a product of Christopher Lenz and Matthew Good with slight modifications</description>
+    <pubDate>12 Mar 2012 12:42:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-thumbnailfield 0.1.3</title>
+    <link>http://pypi.python.org/pypi/django-thumbnailfield/0.1.3</link>
+    <description>Enhanced ImageField which automatically generate thumbnails of the image</description>
+    <pubDate>12 Mar 2012 12:22:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>aldjemy 0.3.5</title>
+    <link>http://pypi.python.org/pypi/aldjemy/0.3.5</link>
+    <description>SQLAlchemy to Django integration library</description>
+    <pubDate>12 Mar 2012 12:22:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>m01.mongo 0.6.2</title>
+    <link>http://pypi.python.org/pypi/m01.mongo/0.6.2</link>
+    <description>MongoDB connection pool and container implementation for Zope3</description>
+    <pubDate>12 Mar 2012 12:18:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>Yaybu 0.1.17</title>
+    <link>http://pypi.python.org/pypi/Yaybu/0.1.17</link>
+    <description>Server deployment and configuration management in Python</description>
+    <pubDate>12 Mar 2012 12:04:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-cities-light 1.0</title>
+    <link>http://pypi.python.org/pypi/django-cities-light/1.0</link>
+    <description>Simple alternative to django-cities</description>
+    <pubDate>12 Mar 2012 11:58:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>requests-oauth2 0.1.0</title>
+    <link>http://pypi.python.org/pypi/requests-oauth2/0.1.0</link>
+    <description>Open Authentication 2 support to Python-requests HTTP library.</description>
+    <pubDate>12 Mar 2012 11:45:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-statsd 1.4.1</title>
+    <link>http://pypi.python.org/pypi/python-statsd/1.4.1</link>
+    <description>statsd is a client for Etsy's node-js statsd server. 
+        A proxy for the Graphite stats collection and graphing server.</description>
+    <pubDate>12 Mar 2012 11:39:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-statsd 1.7.1</title>
+    <link>http://pypi.python.org/pypi/django-statsd/1.7.1</link>
+    <description>django-statsd is a django app that submits query and 
+        view durations to Etsy's statsd.</description>
+    <pubDate>12 Mar 2012 11:35:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>vumi 0.3.1</title>
+    <link>http://pypi.python.org/pypi/vumi/0.3.1</link>
+    <description>Super-scalable messaging engine for the delivery of SMS, Star Menu and chat messages to diverse audiences in emerging markets and beyond.</description>
+    <pubDate>12 Mar 2012 11:31:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>easywebdav 1.0.2</title>
+    <link>http://pypi.python.org/pypi/easywebdav/1.0.2</link>
+    <description>A straight-forward WebDAV client, implemented using Requests</description>
+    <pubDate>12 Mar 2012 11:29:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>hcs_utils 1.3rc6</title>
+    <link>http://pypi.python.org/pypi/hcs_utils/1.3rc6</link>
+    <description>My personal library collecting some useful snippets.</description>
+    <pubDate>12 Mar 2012 11:23:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>rednose 0.3.2</title>
+    <link>http://pypi.python.org/pypi/rednose/0.3.2</link>
+    <description>coloured output for nosetests</description>
+    <pubDate>12 Mar 2012 11:07:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>mougeon 0.1.0dev-r45</title>
+    <link>http://pypi.python.org/pypi/mougeon/0.1.0dev-r45</link>
+    <description>Free Mobile Cell Tower usage tracker</description>
+    <pubDate>12 Mar 2012 10:57:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>emen2 2.1b5</title>
+    <link>http://pypi.python.org/pypi/emen2/2.1b5</link>
+    <description>EMEN2 Object-Oriented Scientific Database</description>
+    <pubDate>12 Mar 2012 10:44:45 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

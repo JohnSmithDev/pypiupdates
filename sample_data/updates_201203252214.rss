@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>MobileWorks 0.1.0</title>
+    <link>http://pypi.python.org/pypi/MobileWorks/0.1.0</link>
+    <description>A wrapper for the MobileWorks API.</description>
+    <pubDate>25 Mar 2012 20:50:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygrep 0.1</title>
+    <link>http://pypi.python.org/pypi/pygrep/0.1</link>
+    <description>Find python identifiers</description>
+    <pubDate>25 Mar 2012 20:49:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>mytimetable 1.0.0</title>
+    <link>http://pypi.python.org/pypi/mytimetable/1.0.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>25 Mar 2012 20:42:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-allauth 0.4.0</title>
+    <link>http://pypi.python.org/pypi/django-allauth/0.4.0</link>
+    <description>Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.</description>
+    <pubDate>25 Mar 2012 20:38:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>RayQT Timetable 1.0.0</title>
+    <link>http://pypi.python.org/pypi/RayQT%20Timetable/1.0.0</link>
+    <description>A simple printer of my timetable</description>
+    <pubDate>25 Mar 2012 20:34:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>Timetable5 1.0.0</title>
+    <link>http://pypi.python.org/pypi/Timetable5/1.0.0</link>
+    <description>A simple printer of my Timetable</description>
+    <pubDate>25 Mar 2012 20:34:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>metis 0.1a</title>
+    <link>http://pypi.python.org/pypi/metis/0.1a</link>
+    <description>METIS wrapper using ctypes</description>
+    <pubDate>25 Mar 2012 20:25:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>timetable 1.0.0</title>
+    <link>http://pypi.python.org/pypi/timetable/1.0.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>25 Mar 2012 19:43:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>jaraco.util 5.3</title>
+    <link>http://pypi.python.org/pypi/jaraco.util/5.3</link>
+    <description>General utility modules that supply commonly-used functionality</description>
+    <pubDate>25 Mar 2012 19:42:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>DipL5TimeTable 1.0.0</title>
+    <link>http://pypi.python.org/pypi/DipL5TimeTable/1.0.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>25 Mar 2012 19:42:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-auth-ldap 1.0.19</title>
+    <link>http://pypi.python.org/pypi/django-auth-ldap/1.0.19</link>
+    <description>Django LDAP authentication backend</description>
+    <pubDate>25 Mar 2012 19:11:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>Flask-Admin 0.4.0</title>
+    <link>http://pypi.python.org/pypi/Flask-Admin/0.4.0</link>
+    <description>Flask extenstion module that provides an admin interface</description>
+    <pubDate>25 Mar 2012 18:26:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>urllib3 1.3</title>
+    <link>http://pypi.python.org/pypi/urllib3/1.3</link>
+    <description>HTTP library with thread-safe connection pooling, file post, and more.</description>
+    <pubDate>25 Mar 2012 18:22:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>pybbm 0.8.0</title>
+    <link>http://pypi.python.org/pypi/pybbm/0.8.0</link>
+    <description>PyBB Modified. Django forum application</description>
+    <pubDate>25 Mar 2012 18:07:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>winshell 0.6</title>
+    <link>http://pypi.python.org/pypi/winshell/0.6</link>
+    <description>Windows shell functions</description>
+    <pubDate>25 Mar 2012 17:34:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyWebDAV 0.9.8</title>
+    <link>http://pypi.python.org/pypi/PyWebDAV/0.9.8</link>
+    <description>WebDAV library including a standalone server for python</description>
+    <pubDate>25 Mar 2012 16:38:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>ncnyt 0.1</title>
+    <link>http://pypi.python.org/pypi/ncnyt/0.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>25 Mar 2012 16:36:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>subliminal 0.5.1</title>
+    <link>http://pypi.python.org/pypi/subliminal/0.5.1</link>
+    <description>Subtitles, faster than your thoughts</description>
+    <pubDate>25 Mar 2012 16:04:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>trafaret 0.3.91</title>
+    <link>http://pypi.python.org/pypi/trafaret/0.3.91</link>
+    <description>Validation and parsing library</description>
+    <pubDate>25 Mar 2012 15:58:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyMind 1.1.0</title>
+    <link>http://pypi.python.org/pypi/PyMind/1.1.0</link>
+    <description>Unofficial Mindmeister command line tool.</description>
+    <pubDate>25 Mar 2012 15:49:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-mindmeister 1.1.0</title>
+    <link>http://pypi.python.org/pypi/python-mindmeister/1.1.0</link>
+    <description>Unofficial Mindmeister API binding for python.</description>
+    <pubDate>25 Mar 2012 15:45:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyautocad 0.1.1</title>
+    <link>http://pypi.python.org/pypi/pyautocad/0.1.1</link>
+    <description>AutoCAD Automation for Python</description>
+    <pubDate>25 Mar 2012 15:37:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-site-maintenance 0.1.1</title>
+    <link>http://pypi.python.org/pypi/django-site-maintenance/0.1.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>25 Mar 2012 15:30:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-cuddlybuddly-ecb 1.0</title>
+    <link>http://pypi.python.org/pypi/django-cuddlybuddly-ecb/1.0</link>
+    <description>A Django app to convert currencies using the feed from the European Central Bank. Includes manager methods and template tags.</description>
+    <pubDate>25 Mar 2012 14:54:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>TracTicketReferencePlugin 0.2.3</title>
+    <link>http://pypi.python.org/pypi/TracTicketReferencePlugin/0.2.3</link>
+    <description>Provides support for ticket cross reference for Trac</description>
+    <pubDate>25 Mar 2012 14:53:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>lesscpy 0.9</title>
+    <link>http://pypi.python.org/pypi/lesscpy/0.9</link>
+    <description>Lesscss compiler.</description>
+    <pubDate>25 Mar 2012 14:33:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>redtape 1.1</title>
+    <link>http://pypi.python.org/pypi/redtape/1.1</link>
+    <description>simple tiny document generator</description>
+    <pubDate>25 Mar 2012 14:05:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-jinja 0.2</title>
+    <link>http://pypi.python.org/pypi/django-jinja/0.2</link>
+    <description>Jinja2 templating language integrated in Django.</description>
+    <pubDate>25 Mar 2012 13:21:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-thummer 2.0.4</title>
+    <link>http://pypi.python.org/pypi/django-thummer/2.0.4</link>
+    <description>A website screenshot and thumbnailing app for Django.</description>
+    <pubDate>25 Mar 2012 12:37:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>update-copyright 0.4</title>
+    <link>http://pypi.python.org/pypi/update-copyright/0.4</link>
+    <description>Automatically update copyright blurbs in versioned source.</description>
+    <pubDate>25 Mar 2012 12:24:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>green-django 0.1.1</title>
+    <link>http://pypi.python.org/pypi/green-django/0.1.1</link>
+    <description>Utility function to green Django for gevent usage.</description>
+    <pubDate>25 Mar 2012 12:24:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-lfstheme 0.7.0b5</title>
+    <link>http://pypi.python.org/pypi/django-lfstheme/0.7.0b5</link>
+    <description>The default theme for LFS</description>
+    <pubDate>25 Mar 2012 12:06:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>opster 3.5</title>
+    <link>http://pypi.python.org/pypi/opster/3.5</link>
+    <description>command line parsing speedster</description>
+    <pubDate>25 Mar 2012 12:05:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>ngs_plumbing 0.7.0</title>
+    <link>http://pypi.python.org/pypi/ngs_plumbing/0.7.0</link>
+    <description>Plumbing for NGS data</description>
+    <pubDate>25 Mar 2012 11:43:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>subliminal 0.5</title>
+    <link>http://pypi.python.org/pypi/subliminal/0.5</link>
+    <description>Subtitles, faster than your thoughts</description>
+    <pubDate>25 Mar 2012 10:58:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>bambu-tools 0.9.1</title>
+    <link>http://pypi.python.org/pypi/bambu-tools/0.9.1</link>
+    <description>Tools for Django webapps</description>
+    <pubDate>25 Mar 2012 09:52:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>weetwit 0.6.3</title>
+    <link>http://pypi.python.org/pypi/weetwit/0.6.3</link>
+    <description>Twitter suite for Weechat.</description>
+    <pubDate>25 Mar 2012 09:44:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>gyroid 0.2</title>
+    <link>http://pypi.python.org/pypi/gyroid/0.2</link>
+    <description>A symmetry adapted basis function (SABF) generator.</description>
+    <pubDate>25 Mar 2012 09:10:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxcontrib-googlechart 0.1.5</title>
+    <link>http://pypi.python.org/pypi/sphinxcontrib-googlechart/0.1.5</link>
+    <description>Sphinx "googlechart" extension</description>
+    <pubDate>25 Mar 2012 08:40:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxjp.shibukawa 0.1.3</title>
+    <link>http://pypi.python.org/pypi/sphinxjp.shibukawa/0.1.3</link>
+    <description>Sphinx calendar extension</description>
+    <pubDate>25 Mar 2012 08:32:12 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

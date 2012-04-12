@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>miniPOS 1.1</title>
+    <link>http://pypi.python.org/pypi/miniPOS/1.1</link>
+    <description>A simple POS program for record keeping.</description>
+    <pubDate>26 Mar 2012 18:10:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>ncdfextra 0.3.8</title>
+    <link>http://pypi.python.org/pypi/ncdfextra/0.3.8</link>
+    <description>Process netcdf data.</description>
+    <pubDate>26 Mar 2012 18:01:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>WHIPS 1.0.5</title>
+    <link>http://pypi.python.org/pypi/WHIPS/1.0.5</link>
+    <description>Scripts for customized regridding of Level-2 data to Level-3 data</description>
+    <pubDate>26 Mar 2012 17:51:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>sense 0.0.1</title>
+    <link>http://pypi.python.org/pypi/sense/0.0.1</link>
+    <description>Sense Server Monitoring</description>
+    <pubDate>26 Mar 2012 17:41:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>librato 0.2</title>
+    <link>http://pypi.python.org/pypi/librato/0.2</link>
+    <description>Python API Wrapper for Librato</description>
+    <pubDate>26 Mar 2012 17:40:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-dynamic-fixture 1.5.1</title>
+    <link>http://pypi.python.org/pypi/django-dynamic-fixture/1.5.1</link>
+    <description>A full library to create dynamic model instances for testing purposes.</description>
+    <pubDate>26 Mar 2012 17:34:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>instrumental 0.3.1</title>
+    <link>http://pypi.python.org/pypi/instrumental/0.3.1</link>
+    <description>A condition/decision coverage tool for Python</description>
+    <pubDate>26 Mar 2012 17:10:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>Clay 0.26</title>
+    <link>http://pypi.python.org/pypi/Clay/0.26</link>
+    <description>A rapid prototyping tool</description>
+    <pubDate>26 Mar 2012 16:55:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>brutius_slurmimus 0.1.1dev</title>
+    <link>http://pypi.python.org/pypi/brutius_slurmimus/0.1.1dev</link>
+    <description>Parse-and-return slurm commands.  Don't use this.  Use pyslurm instead.</description>
+    <pubDate>26 Mar 2012 16:46:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>cloud-scheduler 1.1.1</title>
+    <link>http://pypi.python.org/pypi/cloud-scheduler/1.1.1</link>
+    <description>A cloud-enabled distributed resource manager</description>
+    <pubDate>26 Mar 2012 16:07:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>tiddlywebplugins.sqlalchemy3 3.0.3</title>
+    <link>http://pypi.python.org/pypi/tiddlywebplugins.sqlalchemy3/3.0.3</link>
+    <description>sqlalchemy store for tiddlyweb</description>
+    <pubDate>26 Mar 2012 16:07:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>jcconv 0.2.3</title>
+    <link>http://pypi.python.org/pypi/jcconv/0.2.3</link>
+    <description>jcconv "JapaneseCharacterCONVerter", interconvert hiragana, katakana, halfwidth kana</description>
+    <pubDate>26 Mar 2012 16:07:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>Turkmenbashi 1.9</title>
+    <link>http://pypi.python.org/pypi/Turkmenbashi/1.9</link>
+    <description>A library to write UNIX daemons.</description>
+    <pubDate>26 Mar 2012 16:07:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>Flask-MustacheJS 0.4.6</title>
+    <link>http://pypi.python.org/pypi/Flask-MustacheJS/0.4.6</link>
+    <description>Mustache integration in Flask, with Jinja and client-side libraries.</description>
+    <pubDate>26 Mar 2012 16:03:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>pdb4qt 0.2</title>
+    <link>http://pypi.python.org/pypi/pdb4qt/0.2</link>
+    <description>A set_trace() that works with PyQt4</description>
+    <pubDate>26 Mar 2012 15:44:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>tkintertable 1.00</title>
+    <link>http://pypi.python.org/pypi/tkintertable/1.00</link>
+    <description>Extendable table class for Tkinter</description>
+    <pubDate>26 Mar 2012 15:29:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>apns 1.1.1</title>
+    <link>http://pypi.python.org/pypi/apns/1.1.1</link>
+    <description>A python library for interacting with the Apple Push Notification Service</description>
+    <pubDate>26 Mar 2012 15:21:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>git-crucible 0.1.1</title>
+    <link>http://pypi.python.org/pypi/git-crucible/0.1.1</link>
+    <description>Git extension that creates reviews in Crucible straight from the command line.</description>
+    <pubDate>26 Mar 2012 15:12:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-celery 0.2</title>
+    <link>http://pypi.python.org/pypi/lava-celery/0.2</link>
+    <description>Celery integration for LAVA Server</description>
+    <pubDate>26 Mar 2012 15:12:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-site-access 0.1.1</title>
+    <link>http://pypi.python.org/pypi/django-site-access/0.1.1</link>
+    <description>an app to provide utilities via middleware to control access to your django site</description>
+    <pubDate>26 Mar 2012 14:58:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>textformatter 1.5</title>
+    <link>http://pypi.python.org/pypi/textformatter/1.5</link>
+    <description>Python library for text formatting.</description>
+    <pubDate>26 Mar 2012 14:57:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>colorbash 1.6</title>
+    <link>http://pypi.python.org/pypi/colorbash/1.6</link>
+    <description>Python library for color the output of program in Bash.</description>
+    <pubDate>26 Mar 2012 14:53:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>check 0.3</title>
+    <link>http://pypi.python.org/pypi/check/0.3</link>
+    <description>Checking of many numbers and codes. Date, e-mail, URL, directory, personal number, taxpayer number, ...</description>
+    <pubDate>26 Mar 2012 14:46:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>nesterim 9.9.9b</title>
+    <link>http://pypi.python.org/pypi/nesterim/9.9.9b</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>26 Mar 2012 14:43:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-filebrowser 3.4.2</title>
+    <link>http://pypi.python.org/pypi/django-filebrowser/3.4.2</link>
+    <description>Media-Management with Grappelli</description>
+    <pubDate>26 Mar 2012 14:40:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>neo4jrestclient 1.6.2</title>
+    <link>http://pypi.python.org/pypi/neo4jrestclient/1.6.2</link>
+    <description>Object-oriented Python library to interact with Neo4j standalone REST server</description>
+    <pubDate>26 Mar 2012 14:35:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>recurly 2.1.1</title>
+    <link>http://pypi.python.org/pypi/recurly/2.1.1</link>
+    <description>Interact with Recurly's REST API for subscription management from your Python website</description>
+    <pubDate>26 Mar 2012 14:27:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>factored 1.1a1</title>
+    <link>http://pypi.python.org/pypi/factored/1.1a1</link>
+    <description>A WSGI app that allows you to add another factor of authentication to any application server.</description>
+    <pubDate>26 Mar 2012 14:15:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-thummer 2.0.5</title>
+    <link>http://pypi.python.org/pypi/django-thummer/2.0.5</link>
+    <description>A website screenshot and thumbnailing app for Django.</description>
+    <pubDate>26 Mar 2012 14:11:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>streaming_httplib2 0.7.5</title>
+    <link>http://pypi.python.org/pypi/streaming_httplib2/0.7.5</link>
+    <description>A comprehensive HTTP client library modified to add response streaming support.</description>
+    <pubDate>26 Mar 2012 14:05:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-email-html 0.1</title>
+    <link>http://pypi.python.org/pypi/django-email-html/0.1</link>
+    <description>Application for switching from Django plain-text emails to html emails with 2 bodies: html and plain-text, generated automatically from html</description>
+    <pubDate>26 Mar 2012 14:04:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-blog-zinnia 0.10</title>
+    <link>http://pypi.python.org/pypi/django-blog-zinnia/0.10</link>
+    <description>A clear and powerfull weblog application powered with Django</description>
+    <pubDate>26 Mar 2012 13:55:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>beautifulsoup4 4.0.2</title>
+    <link>http://pypi.python.org/pypi/beautifulsoup4/4.0.2</link>
+    <description>UNKNOWN</description>
+    <pubDate>26 Mar 2012 13:50:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>simplelayout.types.common 3.0b3</title>
+    <link>http://pypi.python.org/pypi/simplelayout.types.common/3.0b3</link>
+    <description>simplelayout common types</description>
+    <pubDate>26 Mar 2012 13:45:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>lighty-template 0.3.3</title>
+    <link>http://pypi.python.org/pypi/lighty-template/0.3.3</link>
+    <description>Simple template engine for python</description>
+    <pubDate>26 Mar 2012 13:43:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.tooltip 1.0.1</title>
+    <link>http://pypi.python.org/pypi/ftw.tooltip/1.0.1</link>
+    <description>Apply tooltips dynamically</description>
+    <pubDate>26 Mar 2012 13:34:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>lxml 2.3.4</title>
+    <link>http://pypi.python.org/pypi/lxml/2.3.4</link>
+    <description>Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.</description>
+    <pubDate>26 Mar 2012 13:28:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.chimpfeed 1.3</title>
+    <link>http://pypi.python.org/pypi/collective.chimpfeed/1.3</link>
+    <description>Plone-integration for MailChimp RSS-campaigns.</description>
+    <pubDate>26 Mar 2012 13:23:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>ngs_plumbing 0.7.2</title>
+    <link>http://pypi.python.org/pypi/ngs_plumbing/0.7.2</link>
+    <description>Plumbing for NGS data</description>
+    <pubDate>26 Mar 2012 13:17:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>ciciol 0.1.1</title>
+    <link>http://pypi.python.org/pypi/ciciol/0.1.1</link>
+    <description>Lightweight and extremely customizable notifier.  Designed to work with Twitter and much more</description>
+    <pubDate>26 Mar 2012 12:49:25 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

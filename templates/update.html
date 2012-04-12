@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block body %}
+<h1>Updates for {{ date }}</h1>
+
+{% for thing in packages %}
+<p>{{ thing }}</p>
+{% endfor %}
+
+{% endblock %}

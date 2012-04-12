@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>relaxml 0.1.2</title>
+    <link>http://pypi.python.org/pypi/relaxml/0.1.2</link>
+    <description>Converting XML to a dictionary should be easy -- and fast.</description>
+    <pubDate>12 Mar 2012 01:29:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>cov-core 1.6</title>
+    <link>http://pypi.python.org/pypi/cov-core/1.6</link>
+    <description>plugin core for use by pytest-cov, nose-cov and nose2-cov</description>
+    <pubDate>12 Mar 2012 01:17:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>sator 0.2</title>
+    <link>http://pypi.python.org/pypi/sator/0.2</link>
+    <description>Sator is a python module for atonal music theory analysis.</description>
+    <pubDate>12 Mar 2012 00:59:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyrasite 2.0beta</title>
+    <link>http://pypi.python.org/pypi/pyrasite/2.0beta</link>
+    <description>Inject code into a running Python process</description>
+    <pubDate>12 Mar 2012 00:31:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.i18n 0.2.7</title>
+    <link>http://pypi.python.org/pypi/ztfy.i18n/0.2.7</link>
+    <description>ZTFY i18n management package for Zope3</description>
+    <pubDate>12 Mar 2012 00:30:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.extfile 0.2.4</title>
+    <link>http://pypi.python.org/pypi/ztfy.extfile/0.2.4</link>
+    <description>ZTFY package used to handle external files storage in Zope3</description>
+    <pubDate>12 Mar 2012 00:20:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.workflow 0.2.4</title>
+    <link>http://pypi.python.org/pypi/ztfy.workflow/0.2.4</link>
+    <description>ZTFY package used to handle simple workflow</description>
+    <pubDate>12 Mar 2012 00:14:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.skin 0.2.6</title>
+    <link>http://pypi.python.org/pypi/ztfy.skin/0.2.6</link>
+    <description>ZTFY skin utility package, including views, forms and viewlets base classes</description>
+    <pubDate>12 Mar 2012 00:11:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>plone.app.event 1.0a1</title>
+    <link>http://pypi.python.org/pypi/plone.app.event/1.0a1</link>
+    <description>Event content type for plone</description>
+    <pubDate>12 Mar 2012 00:04:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.utils 0.3.8</title>
+    <link>http://pypi.python.org/pypi/ztfy.utils/0.3.8</link>
+    <description>ZTFY utility functions and classes for Zope3</description>
+    <pubDate>12 Mar 2012 00:03:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>importlib_full 0.0.1</title>
+    <link>http://pypi.python.org/pypi/importlib_full/0.0.1</link>
+    <description>Backport of Brett Cannon's full importlib module.</description>
+    <pubDate>11 Mar 2012 23:40:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>plone.app.event-ploneintegration 1.0</title>
+    <link>http://pypi.python.org/pypi/plone.app.event-ploneintegration/1.0</link>
+    <description>Integration of plone.app.event into pre Plone 4.3 release.</description>
+    <pubDate>11 Mar 2012 23:36:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>pcard 0.1</title>
+    <link>http://pypi.python.org/pypi/pcard/0.1</link>
+    <description>Generates a Password card</description>
+    <pubDate>11 Mar 2012 23:36:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-common-tivix 0.1.2</title>
+    <link>http://pypi.python.org/pypi/django-common-tivix/0.1.2</link>
+    <description>Common things every Django app needs!</description>
+    <pubDate>11 Mar 2012 23:29:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>linode 0.1.0</title>
+    <link>http://pypi.python.org/pypi/linode/0.1.0</link>
+    <description>Python wrapper of the Linode API</description>
+    <pubDate>11 Mar 2012 23:21:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>bettercache 0.5.4</title>
+    <link>http://pypi.python.org/pypi/bettercache/0.5.4</link>
+    <description>A replacement template cache</description>
+    <pubDate>11 Mar 2012 23:17:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>Cartridge 0.4.3</title>
+    <link>http://pypi.python.org/pypi/Cartridge/0.4.3</link>
+    <description>A Django shopping cart application.</description>
+    <pubDate>11 Mar 2012 23:16:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-announce 0.1.0</title>
+    <link>http://pypi.python.org/pypi/django-announce/0.1.0</link>
+    <description>an Announce.js client for Django</description>
+    <pubDate>11 Mar 2012 23:06:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_subscribers_beaker_https_session 0.0.2</title>
+    <link>http://pypi.python.org/pypi/pyramid_subscribers_beaker_https_session/0.0.2</link>
+    <description>provides for a 'session_https' secure session object</description>
+    <pubDate>11 Mar 2012 22:47:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>three 0.4.2</title>
+    <link>http://pypi.python.org/pypi/three/0.4.2</link>
+    <description>An easy-to-use wrapper for the Open311 API</description>
+    <pubDate>11 Mar 2012 22:43:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>metaPdf 0.1</title>
+    <link>http://pypi.python.org/pypi/metaPdf/0.1</link>
+    <description>A lightweight PDF library optimized for metadata extraction and insertion</description>
+    <pubDate>11 Mar 2012 22:39:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>autopep8 0.5.2</title>
+    <link>http://pypi.python.org/pypi/autopep8/0.5.2</link>
+    <description>A tool that automatically formats Python code to conform to the PEP 8 style guide</description>
+    <pubDate>11 Mar 2012 22:38:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-selectable 0.4.1</title>
+    <link>http://pypi.python.org/pypi/django-selectable/0.4.1</link>
+    <description>django-selectable is a collection of tools and widgets for using/creating auto-complete selection widgets using Django and jQuery UI.</description>
+    <pubDate>11 Mar 2012 22:30:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>pip2pi 0.1.1</title>
+    <link>http://pypi.python.org/pypi/pip2pi/0.1.1</link>
+    <description>pip2pi builds a PyPI-compatible package repository from pip        requirements</description>
+    <pubDate>11 Mar 2012 21:25:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>datahaven rev5897</title>
+    <link>http://pypi.python.org/pypi/datahaven/rev5897</link>
+    <description>Distributed encrypted backup utility</description>
+    <pubDate>11 Mar 2012 19:52:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>yaak.inject 0.2.1</title>
+    <link>http://pypi.python.org/pypi/yaak.inject/0.2.1</link>
+    <description>A dependency injection framework for your python applications</description>
+    <pubDate>11 Mar 2012 19:45:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyMind 1.0.1</title>
+    <link>http://pypi.python.org/pypi/PyMind/1.0.1</link>
+    <description>Unofficial Mindmeister command line tool.</description>
+    <pubDate>11 Mar 2012 19:38:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>Flask-Split 0.1.0</title>
+    <link>http://pypi.python.org/pypi/Flask-Split/0.1.0</link>
+    <description>A/B testing for your Flask application</description>
+    <pubDate>11 Mar 2012 19:27:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>StrangeCase v2.4</title>
+    <link>http://pypi.python.org/pypi/StrangeCase/v2.4</link>
+    <description>A straightforward python static site generator.</description>
+    <pubDate>11 Mar 2012 19:13:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>boost_queue 0.4</title>
+    <link>http://pypi.python.org/pypi/boost_queue/0.4</link>
+    <description>Queue using boost's locking API</description>
+    <pubDate>11 Mar 2012 19:09:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>git-svn-helpers 0.9</title>
+    <link>http://pypi.python.org/pypi/git-svn-helpers/0.9</link>
+    <description>Command-line tools to make git-svn simple</description>
+    <pubDate>11 Mar 2012 19:06:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>mpdlcd 0.2.4</title>
+    <link>http://pypi.python.org/pypi/mpdlcd/0.2.4</link>
+    <description>Display MPD status on a lcdproc server.</description>
+    <pubDate>11 Mar 2012 18:59:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>WebHDFS 0.1.06</title>
+    <link>http://pypi.python.org/pypi/WebHDFS/0.1.06</link>
+    <description>HDFS Python client based on WebHDFS REST API</description>
+    <pubDate>11 Mar 2012 18:48:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>buildbot 0.8.6</title>
+    <link>http://pypi.python.org/pypi/buildbot/0.8.6</link>
+    <description>Buildbot build automation system</description>
+    <pubDate>11 Mar 2012 18:46:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>buildbot-slave 0.8.6</title>
+    <link>http://pypi.python.org/pypi/buildbot-slave/0.8.6</link>
+    <description>Buildbot Slave Daemon</description>
+    <pubDate>11 Mar 2012 18:45:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>qmath 0.3.0</title>
+    <link>http://pypi.python.org/pypi/qmath/0.3.0</link>
+    <description>qmath provides a class for deal with quaternion algebra and 3D rotations.
+  Root evaluations and Moebius transformations are implemented.</description>
+    <pubDate>11 Mar 2012 18:00:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>pdfserver 0.6</title>
+    <link>http://pypi.python.org/pypi/pdfserver/0.6</link>
+    <description>Pdfserver is a webservice that offers common PDF operations like joining documents, selecting pages or "n pages on one".</description>
+    <pubDate>11 Mar 2012 17:32:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>JSONMapperHGMMPFork 0.30</title>
+    <link>http://pypi.python.org/pypi/JSONMapperHGMMPFork/0.30</link>
+    <description>Mapping JSON to objects and vice versa, this is a product of Christopher Lenz and Matthew Good with slight modifications</description>
+    <pubDate>11 Mar 2012 17:28:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>pycom 0.4.2</title>
+    <link>http://pypi.python.org/pypi/pycom/0.4.2</link>
+    <description>Distributed component model for Python.</description>
+    <pubDate>11 Mar 2012 17:19:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>mesh 1.0.0a1</title>
+    <link>http://pypi.python.org/pypi/mesh/1.0.0a1</link>
+    <description>A declarative RESTful API framework.</description>
+    <pubDate>11 Mar 2012 17:03:08 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>refline.srccheck 0.5.3</title>
+    <link>http://pypi.python.org/pypi/refline.srccheck/0.5.3</link>
+    <description>Source checking/linting tool</description>
+    <pubDate>04 Apr 2012 09:01:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-user-streams 0.5.0</title>
+    <link>http://pypi.python.org/pypi/django-user-streams/0.5.0</link>
+    <description>Simple, fast user news feeds for Django</description>
+    <pubDate>04 Apr 2012 08:56:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>fivalid 0.2.1</title>
+    <link>http://pypi.python.org/pypi/fivalid/0.2.1</link>
+    <description>Lightweight field data validator.</description>
+    <pubDate>04 Apr 2012 08:42:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>ERPpeek 0.7</title>
+    <link>http://pypi.python.org/pypi/ERPpeek/0.7</link>
+    <description>Versatile tool for browsing OpenERP data</description>
+    <pubDate>04 Apr 2012 08:36:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>zopyx.smartprintng.plone 2.1.22</title>
+    <link>http://pypi.python.org/pypi/zopyx.smartprintng.plone/2.1.22</link>
+    <description>Produce &amp; Publisher server integration with Plone</description>
+    <pubDate>04 Apr 2012 08:18:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>markdown2 1.2.0</title>
+    <link>http://pypi.python.org/pypi/markdown2/1.2.0</link>
+    <description>A fast and complete Python implementaion of Markdown</description>
+    <pubDate>04 Apr 2012 08:06:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>importtools 0.1.1</title>
+    <link>http://pypi.python.org/pypi/importtools/0.1.1</link>
+    <description>Import tools for various data sets.</description>
+    <pubDate>04 Apr 2012 07:49:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>dm.zodb.asynchronous 1.0.2</title>
+    <link>http://pypi.python.org/pypi/dm.zodb.asynchronous/1.0.2</link>
+    <description>Utilities to implement asynchronous operations accessing the ZODB</description>
+    <pubDate>04 Apr 2012 07:38:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>xlrd 0.7.6</title>
+    <link>http://pypi.python.org/pypi/xlrd/0.7.6</link>
+    <description>Library for developers to extract data from Microsoft Excel (tm) spreadsheet files</description>
+    <pubDate>04 Apr 2012 07:21:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>lizpop 0.4.0</title>
+    <link>http://pypi.python.org/pypi/lizpop/0.4.0</link>
+    <description>Scheme interpreter in Python</description>
+    <pubDate>04 Apr 2012 06:40:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>sw.nikeplus 0.1</title>
+    <link>http://pypi.python.org/pypi/sw.nikeplus/0.1</link>
+    <description>API for retrieving workout data from Nike+.</description>
+    <pubDate>04 Apr 2012 06:22:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>statsd-client 1.0.2</title>
+    <link>http://pypi.python.org/pypi/statsd-client/1.0.2</link>
+    <description>StatsD client for Python</description>
+    <pubDate>04 Apr 2012 06:17:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>inspyred 1.0</title>
+    <link>http://pypi.python.org/pypi/inspyred/1.0</link>
+    <description>A framework for creating bio-inspired computational intelligence algorithms in Python.</description>
+    <pubDate>04 Apr 2012 05:10:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>magnum 0.1</title>
+    <link>http://pypi.python.org/pypi/magnum/0.1</link>
+    <description>Python ORM for Humans.</description>
+    <pubDate>04 Apr 2012 05:00:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>vos 1.2.2</title>
+    <link>http://pypi.python.org/pypi/vos/1.2.2</link>
+    <description>CADC VOSpace Filesystem</description>
+    <pubDate>04 Apr 2012 04:41:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>sentry 3.8.1</title>
+    <link>http://pypi.python.org/pypi/sentry/3.8.1</link>
+    <description>A realtime logging an aggregation server.</description>
+    <pubDate>04 Apr 2012 04:18:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>sentry-phabricator 0.5.3</title>
+    <link>http://pypi.python.org/pypi/sentry-phabricator/0.5.3</link>
+    <description>A Sentry extension which integrates with Phabricator.</description>
+    <pubDate>04 Apr 2012 04:12:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>webunit2 0.2.2</title>
+    <link>http://pypi.python.org/pypi/webunit2/0.2.2</link>
+    <description>Eases the testing of web services.</description>
+    <pubDate>04 Apr 2012 03:50:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>scikit-commpy 0.1.0</title>
+    <link>http://pypi.python.org/pypi/scikit-commpy/0.1.0</link>
+    <description>Digital Communication algorithms with Python</description>
+    <pubDate>04 Apr 2012 03:49:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>gj_nester 1.3.0</title>
+    <link>http://pypi.python.org/pypi/gj_nester/1.3.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>04 Apr 2012 02:40:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>StrangeCase v3.4.0</title>
+    <link>http://pypi.python.org/pypi/StrangeCase/v3.4.0</link>
+    <description>A straightforward python static site generator.</description>
+    <pubDate>04 Apr 2012 02:04:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>hfpython 1.0.0</title>
+    <link>http://pypi.python.org/pypi/hfpython/1.0.0</link>
+    <description>A simple discription for test</description>
+    <pubDate>04 Apr 2012 01:46:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-jsonfield 0.8.1</title>
+    <link>http://pypi.python.org/pypi/django-jsonfield/0.8.1</link>
+    <description>JSONField for django models</description>
+    <pubDate>04 Apr 2012 01:38:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>djmako 0.4</title>
+    <link>http://pypi.python.org/pypi/djmako/0.4</link>
+    <description>mako template support for Django &gt;=1.2</description>
+    <pubDate>04 Apr 2012 01:20:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>fastimport 0.9.2</title>
+    <link>http://pypi.python.org/pypi/fastimport/0.9.2</link>
+    <description>VCS fastimport/fastexport parser</description>
+    <pubDate>04 Apr 2012 00:47:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>twoq 0.4.11</title>
+    <link>http://pypi.python.org/pypi/twoq/0.4.11</link>
+    <description>iterator chaining, underscored by a two-headed queue</description>
+    <pubDate>04 Apr 2012 00:46:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-syra 0.1.2</title>
+    <link>http://pypi.python.org/pypi/python-syra/0.1.2</link>
+    <description>Client for the Syra API.</description>
+    <pubDate>04 Apr 2012 00:26:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>madrona 4.0a1</title>
+    <link>http://pypi.python.org/pypi/madrona/4.0a1</link>
+    <description>A framework for building spatial decisison support tools</description>
+    <pubDate>03 Apr 2012 23:37:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-cities 0.2</title>
+    <link>http://pypi.python.org/pypi/django-cities/0.2</link>
+    <description>Place models and data for Django apps</description>
+    <pubDate>03 Apr 2012 23:31:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyVCF 0.4.3</title>
+    <link>http://pypi.python.org/pypi/PyVCF/0.4.3</link>
+    <description>Variant Call Format (VCF) parser for python</description>
+    <pubDate>03 Apr 2012 23:09:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>bottle-sqlalchemy 0.3</title>
+    <link>http://pypi.python.org/pypi/bottle-sqlalchemy/0.3</link>
+    <description>SQLAlchemy integration for Bottle.</description>
+    <pubDate>03 Apr 2012 23:00:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygithub3 0.3</title>
+    <link>http://pypi.python.org/pypi/pygithub3/0.3</link>
+    <description>Python wrapper for the github v3 api</description>
+    <pubDate>03 Apr 2012 22:15:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>trigger 1.0.0.100</title>
+    <link>http://pypi.python.org/pypi/trigger/1.0.0.100</link>
+    <description>Trigger is a framework and suite of tools for configuring network devices</description>
+    <pubDate>03 Apr 2012 22:13:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>uwosh.pfg.d2c 2.1b3</title>
+    <link>http://pypi.python.org/pypi/uwosh.pfg.d2c/2.1b3</link>
+    <description>A PloneFormGen adapter that will save the data from a form to an actual content type. This way you can still use permissions, workflows, etc on the form data.</description>
+    <pubDate>03 Apr 2012 22:09:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>grokpy 0.2.1</title>
+    <link>http://pypi.python.org/pypi/grokpy/0.2.1</link>
+    <description>Python client for Grok Prediction Service</description>
+    <pubDate>03 Apr 2012 22:05:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>pulsebuildmonitor 0.62</title>
+    <link>http://pypi.python.org/pypi/pulsebuildmonitor/0.62</link>
+    <description>montior mozilla tinderbox builds via pulse</description>
+    <pubDate>03 Apr 2012 22:03:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>pep8 1.0</title>
+    <link>http://pypi.python.org/pypi/pep8/1.0</link>
+    <description>Python style guide checker</description>
+    <pubDate>03 Apr 2012 22:02:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>dogapi 1.0.0</title>
+    <link>http://pypi.python.org/pypi/dogapi/1.0.0</link>
+    <description>Python bindings to Datadog's API and a user-facing command line tool.</description>
+    <pubDate>03 Apr 2012 21:52:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>CompositesLib 0.1</title>
+    <link>http://pypi.python.org/pypi/CompositesLib/0.1</link>
+    <description>A Python package for mechanics of composite materials</description>
+    <pubDate>03 Apr 2012 21:46:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>vidscraper 0.5.1</title>
+    <link>http://pypi.python.org/pypi/vidscraper/0.5.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>03 Apr 2012 21:46:13 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

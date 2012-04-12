@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>yametrikapy 1.0</title>
+    <link>http://pypi.python.org/pypi/yametrikapy/1.0</link>
+    <description>UNKNOWN</description>
+    <pubDate>22 Mar 2012 21:04:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>leftronic 1.4</title>
+    <link>http://pypi.python.org/pypi/leftronic/1.4</link>
+    <description>A Python package to interface with the Leftronic API.</description>
+    <pubDate>22 Mar 2012 20:57:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>PubliForge 0.5.1</title>
+    <link>http://pypi.python.org/pypi/PubliForge/0.5.1</link>
+    <description>Online multimedia publishing system</description>
+    <pubDate>22 Mar 2012 20:35:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>inlinestyler 0.1.3</title>
+    <link>http://pypi.python.org/pypi/inlinestyler/0.1.3</link>
+    <description>Inlines external CSS into HTML elements.</description>
+    <pubDate>22 Mar 2012 20:19:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>webapp2_static 0.1</title>
+    <link>http://pypi.python.org/pypi/webapp2_static/0.1</link>
+    <description>Simple handler to Serve static files on non Google App Engine (GAE) webapp2 environments</description>
+    <pubDate>22 Mar 2012 20:15:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>Kotti 0.6.0</title>
+    <link>http://pypi.python.org/pypi/Kotti/0.6.0</link>
+    <description>Kotti is a high-level, 'Pythonic' web application framework. It includes a small and extensible CMS application called the Kotti CMS.</description>
+    <pubDate>22 Mar 2012 20:15:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyassuan 0.1</title>
+    <link>http://pypi.python.org/pypi/pyassuan/0.1</link>
+    <description>Python module and tools for communicating in the Assuan protocol.</description>
+    <pubDate>22 Mar 2012 19:51:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>piano 0.3</title>
+    <link>http://pypi.python.org/pypi/piano/0.3</link>
+    <description>CMS built using Pyramid and MongoDB</description>
+    <pubDate>22 Mar 2012 19:38:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>borg 2012.4.01</title>
+    <link>http://pypi.python.org/pypi/borg/2012.4.01</link>
+    <description>the borg algorithm portfolio toolkit</description>
+    <pubDate>22 Mar 2012 19:29:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>metlog-py 0.8.2</title>
+    <link>http://pypi.python.org/pypi/metlog-py/0.8.2</link>
+    <description>Metrics Logging</description>
+    <pubDate>22 Mar 2012 19:17:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-omgeo 1.1</title>
+    <link>http://pypi.python.org/pypi/python-omgeo/1.1</link>
+    <description>A Python Geocoding Library</description>
+    <pubDate>22 Mar 2012 18:51:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>monupco-openshift-express-python 1.8</title>
+    <link>http://pypi.python.org/pypi/monupco-openshift-express-python/1.8</link>
+    <description>monupco.com registration agent for OpenShift Express / Python applications</description>
+    <pubDate>22 Mar 2012 18:44:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-dashboard-tool 0.7</title>
+    <link>http://pypi.python.org/pypi/lava-dashboard-tool/0.7</link>
+    <description>Command line utility for Launch Control</description>
+    <pubDate>22 Mar 2012 18:36:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_basemodel 0.1</title>
+    <link>http://pypi.python.org/pypi/pyramid_basemodel/0.1</link>
+    <description>Global base classes for Pyramid SQLAlchemy applications.</description>
+    <pubDate>22 Mar 2012 18:36:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-scheduler-tool 0.3</title>
+    <link>http://pypi.python.org/pypi/lava-scheduler-tool/0.3</link>
+    <description>Command line utility for the LAVA scheduler</description>
+    <pubDate>22 Mar 2012 18:34:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_simpleauth 0.2</title>
+    <link>http://pypi.python.org/pypi/pyramid_simpleauth/0.2</link>
+    <description>Session based authentication and role based security                    for a Pyramid web application.</description>
+    <pubDate>22 Mar 2012 18:31:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-tool 0.4</title>
+    <link>http://pypi.python.org/pypi/lava-tool/0.4</link>
+    <description>Command line utility for Linaro validation services</description>
+    <pubDate>22 Mar 2012 18:29:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>Ming 0.3.1dev-20120322</title>
+    <link>http://pypi.python.org/pypi/Ming/0.3.1dev-20120322</link>
+    <description>Bringing order to Mongo since 2009</description>
+    <pubDate>22 Mar 2012 18:16:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>tldextract 1.1</title>
+    <link>http://pypi.python.org/pypi/tldextract/1.1</link>
+    <description>Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.</description>
+    <pubDate>22 Mar 2012 18:14:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>are-you-a-human 1.0.5</title>
+    <link>http://pypi.python.org/pypi/are-you-a-human/1.0.5</link>
+    <description>Are You a Human (AYAH) Python integration library and CAPTCHA alternative</description>
+    <pubDate>22 Mar 2012 18:06:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>jsb 0.84.3</title>
+    <link>http://pypi.python.org/pypi/jsb/0.84.3</link>
+    <description>The bot for you!</description>
+    <pubDate>22 Mar 2012 17:47:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>btcnet_info 0.1.2.7</title>
+    <link>http://pypi.python.org/pypi/btcnet_info/0.1.2.7</link>
+    <description>BitCoin Network Information Library</description>
+    <pubDate>22 Mar 2012 17:47:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>StrangeCase v3.1.1</title>
+    <link>http://pypi.python.org/pypi/StrangeCase/v3.1.1</link>
+    <description>A straightforward python static site generator.</description>
+    <pubDate>22 Mar 2012 17:28:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>NEURON 7.2</title>
+    <link>http://pypi.python.org/pypi/NEURON/7.2</link>
+    <description>NEURON bindings for python</description>
+    <pubDate>22 Mar 2012 17:12:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>wadllib 1.3.1</title>
+    <link>http://pypi.python.org/pypi/wadllib/1.3.1</link>
+    <description>Navigate HTTP resources using WADL files as guides.</description>
+    <pubDate>22 Mar 2012 17:08:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyToXml 0.2</title>
+    <link>http://pypi.python.org/pypi/pyToXml/0.2</link>
+    <description>Simple Python to XML library.</description>
+    <pubDate>22 Mar 2012 17:04:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-oauth2-provider 0.1.8</title>
+    <link>http://pypi.python.org/pypi/django-oauth2-provider/0.1.8</link>
+    <description>Provide OAuth2 access to your app</description>
+    <pubDate>22 Mar 2012 16:50:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>JsQt 0.5.0</title>
+    <link>http://pypi.python.org/pypi/JsQt/0.5.0</link>
+    <description>A tool to compile Qt Designer's .ui files to qooxdoo code.</description>
+    <pubDate>22 Mar 2012 16:39:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>libthirty 0.4.3</title>
+    <link>http://pypi.python.org/pypi/libthirty/0.4.3</link>
+    <description>libthirty provides a python api to access the 30loopsplatform.</description>
+    <pubDate>22 Mar 2012 16:20:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>docar 0.5.3</title>
+    <link>http://pypi.python.org/pypi/docar/0.5.3</link>
+    <description>Create resource oriented architectures for RESTful client and server applications.</description>
+    <pubDate>22 Mar 2012 16:18:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyCPUID 0.4</title>
+    <link>http://pypi.python.org/pypi/PyCPUID/0.4</link>
+    <description>CPUID powered by Python.</description>
+    <pubDate>22 Mar 2012 16:01:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-logstream 1.1</title>
+    <link>http://pypi.python.org/pypi/django-logstream/1.1</link>
+    <description>Multiprocess log collector for python/django-logging</description>
+    <pubDate>22 Mar 2012 15:44:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>uWSGI 1.1.1</title>
+    <link>http://pypi.python.org/pypi/uWSGI/1.1.1</link>
+    <description>The uWSGI server</description>
+    <pubDate>22 Mar 2012 15:37:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>termsaver 0.1</title>
+    <link>http://pypi.python.org/pypi/termsaver/0.1</link>
+    <description>Simple text-based terminal screensaver.</description>
+    <pubDate>22 Mar 2012 15:30:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>yay 0.0.45</title>
+    <link>http://pypi.python.org/pypi/yay/0.0.45</link>
+    <description>An extensible config file format</description>
+    <pubDate>22 Mar 2012 15:27:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyredise 0.1</title>
+    <link>http://pypi.python.org/pypi/pyredise/0.1</link>
+    <description>Python Redis Search Engine</description>
+    <pubDate>22 Mar 2012 15:11:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.ATVocabularyManager 1.6.2</title>
+    <link>http://pypi.python.org/pypi/Products.ATVocabularyManager/1.6.2</link>
+    <description>Vocabulary library Plone. Central, Pluggable, TTW, with IMS VDEX Support</description>
+    <pubDate>22 Mar 2012 15:10:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>rfc3987 1.1</title>
+    <link>http://pypi.python.org/pypi/rfc3987/1.1</link>
+    <description>Parsing and validation of URIs and IRIs</description>
+    <pubDate>22 Mar 2012 14:45:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>ws4py-ivideon 0.2.0</title>
+    <link>http://pypi.python.org/pypi/ws4py-ivideon/0.2.0</link>
+    <description>WebSocket library for Python</description>
+    <pubDate>22 Mar 2012 14:18:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>debugger 0.1</title>
+    <link>http://pypi.python.org/pypi/debugger/0.1</link>
+    <description>Debugging.</description>
+    <pubDate>22 Mar 2012 14:13:26 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

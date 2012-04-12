@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>jeeves-framework 0.1</title>
+    <link>http://pypi.python.org/pypi/jeeves-framework/0.1</link>
+    <description>A Python IRC Bot Framework. Easily create IRC bots with a single command</description>
+    <pubDate>06 Apr 2012 21:29:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>rtorrent-python 0.2.8</title>
+    <link>http://pypi.python.org/pypi/rtorrent-python/0.2.8</link>
+    <description>A simple rTorrent interface written in Python</description>
+    <pubDate>06 Apr 2012 21:22:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>Awwparse 0.1-dev</title>
+    <link>http://pypi.python.org/pypi/Awwparse/0.1-dev</link>
+    <description>A parser for command line arguments</description>
+    <pubDate>06 Apr 2012 21:21:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>pinax-theme-bootstrap 2.0.2.post2</title>
+    <link>http://pypi.python.org/pypi/pinax-theme-bootstrap/2.0.2.post2</link>
+    <description>a theme for Pinax based on Twitter's Bootstrap</description>
+    <pubDate>06 Apr 2012 21:13:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>finance_tools 0.1</title>
+    <link>http://pypi.python.org/pypi/finance_tools/0.1</link>
+    <description>Common financial calculations.</description>
+    <pubDate>06 Apr 2012 21:10:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>peewee 0.9.3</title>
+    <link>http://pypi.python.org/pypi/peewee/0.9.3</link>
+    <description>a little orm</description>
+    <pubDate>06 Apr 2012 20:59:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>djeploy 0.2.3</title>
+    <link>http://pypi.python.org/pypi/djeploy/0.2.3</link>
+    <description>Common tasks used to deploy Django powered websites via Fabric.</description>
+    <pubDate>06 Apr 2012 20:54:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>buildout.bootstrap 1.3.0</title>
+    <link>http://pypi.python.org/pypi/buildout.bootstrap/1.3.0</link>
+    <description>A buildout extension that adds a buildout        bootstrap.py file to your buildout.</description>
+    <pubDate>06 Apr 2012 19:46:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>name-cleaver 0.2.8</title>
+    <link>http://pypi.python.org/pypi/name-cleaver/0.2.8</link>
+    <description>Name parser and formatter (for politicians, individuals, and organizations)</description>
+    <pubDate>06 Apr 2012 19:45:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>ProDy 1.0.1</title>
+    <link>http://pypi.python.org/pypi/ProDy/1.0.1</link>
+    <description>A Python Package for Protein Dynamics Analysis</description>
+    <pubDate>06 Apr 2012 19:35:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>vos 1.3.1</title>
+    <link>http://pypi.python.org/pypi/vos/1.3.1</link>
+    <description>CADC VOSpace Filesystem</description>
+    <pubDate>06 Apr 2012 19:30:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>Mothership 0.0.29</title>
+    <link>http://pypi.python.org/pypi/Mothership/0.0.29</link>
+    <description>Mothership - asset managment</description>
+    <pubDate>06 Apr 2012 18:55:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>futuregrid 1.0</title>
+    <link>http://pypi.python.org/pypi/futuregrid/1.0</link>
+    <description>FutureGrid Rain and Image Management is a software for managing OS images and enabling advance dynamic provisioning to users</description>
+    <pubDate>06 Apr 2012 18:43:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>Albertson 0.1.8</title>
+    <link>http://pypi.python.org/pypi/Albertson/0.1.8</link>
+    <description>Easy to use, scalable, counters powered by Amazon's DynamoDB</description>
+    <pubDate>06 Apr 2012 18:35:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>flask-heroku 0.1.3</title>
+    <link>http://pypi.python.org/pypi/flask-heroku/0.1.3</link>
+    <description>Heroku environment variable configurations for Flask</description>
+    <pubDate>06 Apr 2012 18:35:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>ptah 0.4.0</title>
+    <link>http://pypi.python.org/pypi/ptah/0.4.0</link>
+    <description>Ptah is a fast, fun, open source high-level Python web development environment.</description>
+    <pubDate>06 Apr 2012 18:31:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>tinycss 0.1.1</title>
+    <link>http://pypi.python.org/pypi/tinycss/0.1.1</link>
+    <description>tinycss is a complete yet simple CSS parser for Python.</description>
+    <pubDate>06 Apr 2012 18:06:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>tm_nester 1.4.0</title>
+    <link>http://pypi.python.org/pypi/tm_nester/1.4.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>06 Apr 2012 17:51:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>wc.pageturner 1.2.5</title>
+    <link>http://pypi.python.org/pypi/wc.pageturner/1.2.5</link>
+    <description>A Plone product that provides the PDF viewer FlexPaper.</description>
+    <pubDate>06 Apr 2012 17:33:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>memory_profiler 0.2</title>
+    <link>http://pypi.python.org/pypi/memory_profiler/0.2</link>
+    <description>A module for getting memory usage of a python program</description>
+    <pubDate>06 Apr 2012 17:13:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>zc.ngi 2.0.1</title>
+    <link>http://pypi.python.org/pypi/zc.ngi/2.0.1</link>
+    <description>Network Gateway Interface</description>
+    <pubDate>06 Apr 2012 17:10:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyssf 0.4.5</title>
+    <link>http://pypi.python.org/pypi/pyssf/0.4.5</link>
+    <description>Service Sharing Facility</description>
+    <pubDate>06 Apr 2012 17:09:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>futuregrid.cloud.metric 2.1.3dev</title>
+    <link>http://pypi.python.org/pypi/futuregrid.cloud.metric/2.1.3dev</link>
+    <description>FutureGrid: Cloud Metrics</description>
+    <pubDate>06 Apr 2012 17:01:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>OurProjectName 0.0.0</title>
+    <link>http://pypi.python.org/pypi/OurProjectName/0.0.0</link>
+    <description>OurProjectDescription</description>
+    <pubDate>06 Apr 2012 16:47:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-kanbanize 0.1.11</title>
+    <link>http://pypi.python.org/pypi/python-kanbanize/0.1.11</link>
+    <description>Kanbanize.com Python API Wrapper</description>
+    <pubDate>06 Apr 2012 16:38:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-csvimport 0.5</title>
+    <link>http://pypi.python.org/pypi/django-csvimport/0.5</link>
+    <description>Import CSV files to django models</description>
+    <pubDate>06 Apr 2012 16:33:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>Solution 1.1.0</title>
+    <link>http://pypi.python.org/pypi/Solution/1.1.0</link>
+    <description>Makes SQLAlchemy easy and fun to use, and adds some custom capabilities.</description>
+    <pubDate>06 Apr 2012 16:19:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>aspen 0.14.4</title>
+    <link>http://pypi.python.org/pypi/aspen/0.14.4</link>
+    <description>Aspen is a Python web framework. Simplates are the main attraction.</description>
+    <pubDate>06 Apr 2012 16:13:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-cloudcracker 0.0.3</title>
+    <link>http://pypi.python.org/pypi/python-cloudcracker/0.0.3</link>
+    <description>A python class to interface with the CloudCracker API</description>
+    <pubDate>06 Apr 2012 16:12:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>pep8 1.0.1</title>
+    <link>http://pypi.python.org/pypi/pep8/1.0.1</link>
+    <description>Python style guide checker</description>
+    <pubDate>06 Apr 2012 15:41:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>cmsplugin_zinnia 0.2</title>
+    <link>http://pypi.python.org/pypi/cmsplugin_zinnia/0.2</link>
+    <description>Django-CMS plugins for django-blog-zinnia</description>
+    <pubDate>06 Apr 2012 15:31:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>saimmutable 0.2</title>
+    <link>http://pypi.python.org/pypi/saimmutable/0.2</link>
+    <description>SA instrumentation machinery for immutable data models</description>
+    <pubDate>06 Apr 2012 15:31:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>leaderboard 1.1.5</title>
+    <link>http://pypi.python.org/pypi/leaderboard/1.1.5</link>
+    <description>Library for interacting with leaderboards backed by Redis</description>
+    <pubDate>06 Apr 2012 15:24:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>EOxServer 0.2-beta2</title>
+    <link>http://pypi.python.org/pypi/EOxServer/0.2-beta2</link>
+    <description>EOxServer is a server for Earth Observation (EO) data</description>
+    <pubDate>06 Apr 2012 15:13:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>jsonpublish 0.1.3</title>
+    <link>http://pypi.python.org/pypi/jsonpublish/0.1.3</link>
+    <description>Publish Python object as JSON documents</description>
+    <pubDate>06 Apr 2012 14:58:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxalchemy 0.4</title>
+    <link>http://pypi.python.org/pypi/sphinxalchemy/0.4</link>
+    <description>SQLAlchemy extension for dealing with SphinxQL</description>
+    <pubDate>06 Apr 2012 14:49:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>croniter 0.3.0</title>
+    <link>http://pypi.python.org/pypi/croniter/0.3.0</link>
+    <description>croniter provides iteration for datetime object with cron like format</description>
+    <pubDate>06 Apr 2012 14:46:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyNN 0.7.3</title>
+    <link>http://pypi.python.org/pypi/PyNN/0.7.3</link>
+    <description>A Python package for simulator-independent specification of neuronal network models</description>
+    <pubDate>06 Apr 2012 14:37:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-facebook 3.6.4</title>
+    <link>http://pypi.python.org/pypi/django-facebook/3.6.4</link>
+    <description></description>
+    <pubDate>06 Apr 2012 14:33:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-xmlrpc 0.1.4</title>
+    <link>http://pypi.python.org/pypi/django-xmlrpc/0.1.4</link>
+    <description>XML-RPC Server App for the Django framework.</description>
+    <pubDate>06 Apr 2012 14:13:45 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

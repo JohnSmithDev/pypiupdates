@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>nodeenv 0.5.1</title>
+    <link>http://pypi.python.org/pypi/nodeenv/0.5.1</link>
+    <description>Node.js virtual environment builder</description>
+    <pubDate>09 Apr 2012 08:07:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>vic_pyramid 0.1.1</title>
+    <link>http://pypi.python.org/pypi/vic_pyramid/0.1.1</link>
+    <description>Victor's Pyramid Scaffold</description>
+    <pubDate>09 Apr 2012 07:29:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>merengue 0.8.2</title>
+    <link>http://pypi.python.org/pypi/merengue/0.8.2</link>
+    <description>Django-based CMS on steroids</description>
+    <pubDate>09 Apr 2012 07:19:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>BigJob 0.4.49</title>
+    <link>http://pypi.python.org/pypi/BigJob/0.4.49</link>
+    <description>SAGA-based Pilot-Job Implementation</description>
+    <pubDate>09 Apr 2012 07:05:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-seo 0.3.1</title>
+    <link>http://pypi.python.org/pypi/django-seo/0.3.1</link>
+    <description>Adds generic SEO fields for objects in your site or specific urls</description>
+    <pubDate>09 Apr 2012 07:03:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>redsolutioncms.django-seo 0.3.1</title>
+    <link>http://pypi.python.org/pypi/redsolutioncms.django-seo/0.3.1</link>
+    <description>Adds generic SEO fields for objects in your site or specific urls</description>
+    <pubDate>09 Apr 2012 06:56:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>flickr-spellcheckr 0.2.0</title>
+    <link>http://pypi.python.org/pypi/flickr-spellcheckr/0.2.0</link>
+    <description>Commandline spellchecker for flickr photos</description>
+    <pubDate>09 Apr 2012 06:50:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>vkontakte 1.3.1</title>
+    <link>http://pypi.python.org/pypi/vkontakte/1.3.1</link>
+    <description>vk.com (aka vkontakte.ru) API wrapper</description>
+    <pubDate>09 Apr 2012 06:18:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>patool 0.15</title>
+    <link>http://pypi.python.org/pypi/patool/0.15</link>
+    <description>portable command line archive file manager</description>
+    <pubDate>09 Apr 2012 06:09:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-bootstrap-pagination 0.1.10</title>
+    <link>http://pypi.python.org/pypi/django-bootstrap-pagination/0.1.10</link>
+    <description>Render Django Page objects as Bootstrap Pagination compatible HTML</description>
+    <pubDate>09 Apr 2012 05:23:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>mas_nester 1.1.0</title>
+    <link>http://pypi.python.org/pypi/mas_nester/1.1.0</link>
+    <description>Added two optional arguments (indent = True/False, level = 0,1,2...</description>
+    <pubDate>09 Apr 2012 04:57:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>mitmproxy 0.8</title>
+    <link>http://pypi.python.org/pypi/mitmproxy/0.8</link>
+    <description>An interactive, SSL-capable, man-in-the-middle HTTP proxy for penetration testers and software developers.</description>
+    <pubDate>09 Apr 2012 04:44:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>reviewboard_db_auth 201204</title>
+    <link>http://pypi.python.org/pypi/reviewboard_db_auth/201204</link>
+    <description>Database authentication backend for ReviewBoard</description>
+    <pubDate>09 Apr 2012 04:27:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>tvdb_api 1.6.4</title>
+    <link>http://pypi.python.org/pypi/tvdb_api/1.6.4</link>
+    <description>Interface to thetvdb.com</description>
+    <pubDate>09 Apr 2012 04:24:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>DARE 0.7.132</title>
+    <link>http://pypi.python.org/pypi/DARE/0.7.132</link>
+    <description>Dynamic Application Runtime Environment</description>
+    <pubDate>09 Apr 2012 03:57:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>py-moneyed 0.4</title>
+    <link>http://pypi.python.org/pypi/py-moneyed/0.4</link>
+    <description>Provides Currency and Money classes for use in your Python code.</description>
+    <pubDate>09 Apr 2012 03:34:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-pushserver 0.1.6</title>
+    <link>http://pypi.python.org/pypi/django-pushserver/0.1.6</link>
+    <description>Push server for Django based on Leo Ponomarev's Basic HTTP Push Relay Protocol.</description>
+    <pubDate>09 Apr 2012 03:27:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>BensNester 1.3.0</title>
+    <link>http://pypi.python.org/pypi/BensNester/1.3.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>09 Apr 2012 03:21:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>name-cleaver 0.2.9</title>
+    <link>http://pypi.python.org/pypi/name-cleaver/0.2.9</link>
+    <description>Name parser and formatter (for politicians, individuals, and organizations)</description>
+    <pubDate>09 Apr 2012 03:05:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.recipe.bluebream 0.4.0</title>
+    <link>http://pypi.python.org/pypi/collective.recipe.bluebream/0.4.0</link>
+    <description>collective.recipe.bluebream is a zc.buildout recipe         you can use to bootstrap a Bluebream project</description>
+    <pubDate>09 Apr 2012 03:04:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>pymongo_hadoop 1.0.0</title>
+    <link>http://pypi.python.org/pypi/pymongo_hadoop/1.0.0</link>
+    <description>UNKNOWN</description>
+    <pubDate>09 Apr 2012 03:01:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>BigJob-Test 0.4.48</title>
+    <link>http://pypi.python.org/pypi/BigJob-Test/0.4.48</link>
+    <description>SAGA-based Pilot-Job Implementation</description>
+    <pubDate>09 Apr 2012 01:55:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>asteval 0.9</title>
+    <link>http://pypi.python.org/pypi/asteval/0.9</link>
+    <description>Safe, minimalistic evaluator of python expression using ast module</description>
+    <pubDate>09 Apr 2012 01:46:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>lmfit 0.4</title>
+    <link>http://pypi.python.org/pypi/lmfit/0.4</link>
+    <description>Least-Squares Minimization with Constraints for Python</description>
+    <pubDate>09 Apr 2012 01:43:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>bambu-tools 1.5</title>
+    <link>http://pypi.python.org/pypi/bambu-tools/1.5</link>
+    <description>Tools for Django webapps</description>
+    <pubDate>09 Apr 2012 01:12:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>Notable 0.0.6</title>
+    <link>http://pypi.python.org/pypi/Notable/0.0.6</link>
+    <description>A very simple note taking application</description>
+    <pubDate>09 Apr 2012 00:36:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>kk_nester 1.2.0</title>
+    <link>http://pypi.python.org/pypi/kk_nester/1.2.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>09 Apr 2012 00:28:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-manifest 0.1a1</title>
+    <link>http://pypi.python.org/pypi/django-manifest/0.1a1</link>
+    <description>A package to help automate creation of web applications in Django</description>
+    <pubDate>09 Apr 2012 00:18:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-twilio 0.2</title>
+    <link>http://pypi.python.org/pypi/django-twilio/0.2</link>
+    <description>A simple library for building twilio-powered Django webapps.</description>
+    <pubDate>08 Apr 2012 23:14:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>green-monkey 0.1.2</title>
+    <link>http://pypi.python.org/pypi/green-monkey/0.1.2</link>
+    <description>Use green versions of all possible modules</description>
+    <pubDate>08 Apr 2012 23:05:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>Pyro 3.16</title>
+    <link>http://pypi.python.org/pypi/Pyro/3.16</link>
+    <description>distributed object middleware for Python (IPC/RPC), version 3.x</description>
+    <pubDate>08 Apr 2012 22:50:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>sentry-hipchat 0.2.0</title>
+    <link>http://pypi.python.org/pypi/sentry-hipchat/0.2.0</link>
+    <description>A Sentry extension which integrates with Hipchat.</description>
+    <pubDate>08 Apr 2012 22:19:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>feedcache 1.4</title>
+    <link>http://pypi.python.org/pypi/feedcache/1.4</link>
+    <description>Wrapper for Mark Pilgrim's FeedParser module which caches feed content.</description>
+    <pubDate>08 Apr 2012 22:09:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>vos 1.3.5</title>
+    <link>http://pypi.python.org/pypi/vos/1.3.5</link>
+    <description>CADC VOSpace Filesystem</description>
+    <pubDate>08 Apr 2012 22:08:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>process 0.0.1</title>
+    <link>http://pypi.python.org/pypi/process/0.0.1</link>
+    <description>Running processes in python.</description>
+    <pubDate>08 Apr 2012 21:35:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.transcode.star 0.15</title>
+    <link>http://pypi.python.org/pypi/collective.transcode.star/0.15</link>
+    <description>Transcoding support for Plone video files, using collective.transcode.daemon</description>
+    <pubDate>08 Apr 2012 20:38:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>js.augment 0.4.2</title>
+    <link>http://pypi.python.org/pypi/js.augment/0.4.2</link>
+    <description>Fanstatic packaging of Augment.js</description>
+    <pubDate>08 Apr 2012 20:21:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>npyscreen 2.0pre48c</title>
+    <link>http://pypi.python.org/pypi/npyscreen/2.0pre48c</link>
+    <description>Writing user interfaces without all that ugly mucking about in hyperspace</description>
+    <pubDate>08 Apr 2012 20:19:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-lfstheme 0.7.0b7</title>
+    <link>http://pypi.python.org/pypi/django-lfstheme/0.7.0b7</link>
+    <description>The default theme for LFS</description>
+    <pubDate>08 Apr 2012 19:33:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>virtualenvwrapper 3.2</title>
+    <link>http://pypi.python.org/pypi/virtualenvwrapper/3.2</link>
+    <description>Enhancements to virtualenv</description>
+    <pubDate>08 Apr 2012 19:20:34 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

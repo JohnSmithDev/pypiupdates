@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>th_schachtler 1.4.0</title>
+    <link>http://pypi.python.org/pypi/th_schachtler/1.4.0</link>
+    <description>Einfache Ausgabe geschachtelter Listen</description>
+    <pubDate>19 Mar 2012 17:37:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>Presentation Viewer 1.0.0a1</title>
+    <link>http://pypi.python.org/pypi/Presentation%20Viewer/1.0.0a1</link>
+    <description>UNKNOWN</description>
+    <pubDate>19 Mar 2012 17:33:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>sure 0.10.1</title>
+    <link>http://pypi.python.org/pypi/sure/0.10.1</link>
+    <description>assertion toolbox for python</description>
+    <pubDate>19 Mar 2012 17:23:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>NEURON 7.2</title>
+    <link>http://pypi.python.org/pypi/NEURON/7.2</link>
+    <description>NEURON bindings for python</description>
+    <pubDate>19 Mar 2012 17:05:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>rax_backup_schedule_python_novaclient_ext 0.1.2</title>
+    <link>http://pypi.python.org/pypi/rax_backup_schedule_python_novaclient_ext/0.1.2</link>
+    <description>UNKNOWN</description>
+    <pubDate>19 Mar 2012 17:03:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.portlet.collectionmultiview 2.0</title>
+    <link>http://pypi.python.org/pypi/collective.portlet.collectionmultiview/2.0</link>
+    <description>A collection portlet product which supports multiple views</description>
+    <pubDate>19 Mar 2012 17:03:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>vs.tdi 0.3.2</title>
+    <link>http://pypi.python.org/pypi/vs.tdi/0.3.2</link>
+    <description>vs.tdi (tabbed document interface)</description>
+    <pubDate>19 Mar 2012 16:55:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-keyboard-shortcuts 0.0.6</title>
+    <link>http://pypi.python.org/pypi/django-keyboard-shortcuts/0.0.6</link>
+    <description>Allow to use the keyboard instead of the mouse inside your web project.</description>
+    <pubDate>19 Mar 2012 16:54:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>opencnam 0.2</title>
+    <link>http://pypi.python.org/pypi/opencnam/0.2</link>
+    <description>A simple python library for getting caller ID name information using the opencnam API.</description>
+    <pubDate>19 Mar 2012 16:28:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>thumbor 2.7.1</title>
+    <link>http://pypi.python.org/pypi/thumbor/2.7.1</link>
+    <description>thumbor is an open-source photo thumbnail service by globo.com</description>
+    <pubDate>19 Mar 2012 16:25:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>pytextseg 0.1.0</title>
+    <link>http://pypi.python.org/pypi/pytextseg/0.1.0</link>
+    <description>Python module for text segmentation.</description>
+    <pubDate>19 Mar 2012 16:24:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>imposm.geocoder 0.1.2</title>
+    <link>http://pypi.python.org/pypi/imposm.geocoder/0.1.2</link>
+    <description>Imposm Geocoder for OSM-Data</description>
+    <pubDate>19 Mar 2012 16:20:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-zipfile 0.1.2</title>
+    <link>http://pypi.python.org/pypi/django-zipfile/0.1.2</link>
+    <description>A ZipFile subclass that accepts Django Templates</description>
+    <pubDate>19 Mar 2012 16:16:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>avro 1.6.3</title>
+    <link>http://pypi.python.org/pypi/avro/1.6.3</link>
+    <description>Avro is a serialization and RPC framework.</description>
+    <pubDate>19 Mar 2012 16:16:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>makesite 0.9.33</title>
+    <link>http://pypi.python.org/pypi/makesite/0.9.33</link>
+    <description>Makesite is collection scripts for make and control site structure.</description>
+    <pubDate>19 Mar 2012 16:14:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>simpledict 0.2.3</title>
+    <link>http://pypi.python.org/pypi/simpledict/0.2.3</link>
+    <description>Simple dictionary wrapper</description>
+    <pubDate>19 Mar 2012 16:08:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.tooltip 1.0</title>
+    <link>http://pypi.python.org/pypi/ftw.tooltip/1.0</link>
+    <description>Apply tooltips dynamically</description>
+    <pubDate>19 Mar 2012 16:03:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>silk-deployment 0.3.14</title>
+    <link>http://pypi.python.org/pypi/silk-deployment/0.3.14</link>
+    <description>A Fabric-based tool for deploying WSGI apps on an Ubuntu/Nginx/Supervisord/Gunicorn stack.</description>
+    <pubDate>19 Mar 2012 15:47:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.z3cform.keywordwidget 1.2</title>
+    <link>http://pypi.python.org/pypi/collective.z3cform.keywordwidget/1.2</link>
+    <description>Adds a keyword widget (similar to to Archetypes.Widget:KeywordWidget) to z3cform.</description>
+    <pubDate>19 Mar 2012 15:38:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>datafilters 0.1.6</title>
+    <link>http://pypi.python.org/pypi/datafilters/0.1.6</link>
+    <description>Neat QuerySet filter for django apps with filterforms based on django forms</description>
+    <pubDate>19 Mar 2012 15:32:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>tiddlywebplugins.sqlalchemy3 3.0.1</title>
+    <link>http://pypi.python.org/pypi/tiddlywebplugins.sqlalchemy3/3.0.1</link>
+    <description>sqlalchemy store for tiddlyweb</description>
+    <pubDate>19 Mar 2012 15:30:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-immutablemodel 0.3.1</title>
+    <link>http://pypi.python.org/pypi/django-immutablemodel/0.3.1</link>
+    <description>A base class for Django to allow immutable fields on Models</description>
+    <pubDate>19 Mar 2012 15:21:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>plone.formwidget.querystring 1.0b2</title>
+    <link>http://pypi.python.org/pypi/plone.formwidget.querystring/1.0b2</link>
+    <description>A widget for composing a Query string/search.</description>
+    <pubDate>19 Mar 2012 15:00:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>armstrong.core.arm_content 1.2.0</title>
+    <link>http://pypi.python.org/pypi/armstrong.core.arm_content/1.2.0</link>
+    <description>A library for building news sites with multiple content types</description>
+    <pubDate>19 Mar 2012 14:56:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>plivo 0.2</title>
+    <link>http://pypi.python.org/pypi/plivo/0.2</link>
+    <description>Plivo Python library</description>
+    <pubDate>19 Mar 2012 14:40:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>astkit 0.4</title>
+    <link>http://pypi.python.org/pypi/astkit/0.4</link>
+    <description>A collection of tools and utilities built on the ast (python &gt;=  2.6) module.</description>
+    <pubDate>19 Mar 2012 14:36:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>fabtools 0.3.2</title>
+    <link>http://pypi.python.org/pypi/fabtools/0.3.2</link>
+    <description>Tools for writing awesome Fabric files</description>
+    <pubDate>19 Mar 2012 14:34:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-leaflet 0.0.1</title>
+    <link>http://pypi.python.org/pypi/django-leaflet/0.0.1</link>
+    <description>Use Leaflet in your django projects</description>
+    <pubDate>19 Mar 2012 14:31:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyame 0.8.5</title>
+    <link>http://pypi.python.org/pypi/pyame/0.8.5</link>
+    <description>Static website creator with Markdown syntax</description>
+    <pubDate>19 Mar 2012 14:29:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>gevent-fastcgi 0.1.3dev</title>
+    <link>http://pypi.python.org/pypi/gevent-fastcgi/0.1.3dev</link>
+    <description>FastCGI/WSGI server implementation using gevent</description>
+    <pubDate>19 Mar 2012 13:59:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-jcache 0.5</title>
+    <link>http://pypi.python.org/pypi/django-jcache/0.5</link>
+    <description>JCache support for Django</description>
+    <pubDate>19 Mar 2012 13:56:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>infi.pyutils 0.0.21</title>
+    <link>http://pypi.python.org/pypi/infi.pyutils/0.0.21</link>
+    <description>Misc. pure-python utilities</description>
+    <pubDate>19 Mar 2012 13:52:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>bug-repo-syncer 0.3.0b1</title>
+    <link>http://pypi.python.org/pypi/bug-repo-syncer/0.3.0b1</link>
+    <description>Program to synchronize bug repositories</description>
+    <pubDate>19 Mar 2012 13:36:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>aspen 0.13.11</title>
+    <link>http://pypi.python.org/pypi/aspen/0.13.11</link>
+    <description>Aspen is a Python web framework. Simplates are the main attraction.</description>
+    <pubDate>19 Mar 2012 13:33:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>stxnext.staticdeployment 0.8.3</title>
+    <link>http://pypi.python.org/pypi/stxnext.staticdeployment/0.8.3</link>
+    <description>Deploy Plone site to static files.</description>
+    <pubDate>19 Mar 2012 13:33:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygit2 0.16.1</title>
+    <link>http://pypi.python.org/pypi/pygit2/0.16.1</link>
+    <description>Python bindings for libgit2.</description>
+    <pubDate>19 Mar 2012 13:21:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-group-access 1.0.0</title>
+    <link>http://pypi.python.org/pypi/django-group-access/1.0.0</link>
+    <description>Base Django model to add access control, via groups, to objects.</description>
+    <pubDate>19 Mar 2012 13:07:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>OpenAnywhere 1.0</title>
+    <link>http://pypi.python.org/pypi/OpenAnywhere/1.0</link>
+    <description>A Python library taken from the Dive Into Python book, to open any resource (either string, file or url) and manage it as a file.</description>
+    <pubDate>19 Mar 2012 13:00:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>MailManager 1.0</title>
+    <link>http://pypi.python.org/pypi/MailManager/1.0</link>
+    <description>A Python library for sending emails easily through SMTP</description>
+    <pubDate>19 Mar 2012 12:52:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>lstscrpt 1.0.0</title>
+    <link>http://pypi.python.org/pypi/lstscrpt/1.0.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>19 Mar 2012 12:50:19 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

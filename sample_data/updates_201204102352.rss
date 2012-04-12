@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>DendroPy 3.11.0</title>
+    <link>http://pypi.python.org/pypi/DendroPy/3.11.0</link>
+    <description>A Python library for phylogenetics and phylogenetic computing: reading, writing, simulation, processing and manipulation of phylogenetic trees (phylogenies) and characters.</description>
+    <pubDate>10 Apr 2012 22:41:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>armstrong.apps.donations 0.12.1</title>
+    <link>http://pypi.python.org/pypi/armstrong.apps.donations/0.12.1</link>
+    <description>Provides a framework for accepting donations</description>
+    <pubDate>10 Apr 2012 22:28:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>unittest-xml-reporting 1.3.2</title>
+    <link>http://pypi.python.org/pypi/unittest-xml-reporting/1.3.2</link>
+    <description>PyUnit-based test runner with JUnit like XML reporting.</description>
+    <pubDate>10 Apr 2012 22:23:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>cache 0.0.7</title>
+    <link>http://pypi.python.org/pypi/cache/0.0.7</link>
+    <description>caching for humans</description>
+    <pubDate>10 Apr 2012 22:13:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>fexpect 0.1-20120411</title>
+    <link>http://pypi.python.org/pypi/fexpect/0.1-20120411</link>
+    <description>extension of fabric for handling prompts with pexpect</description>
+    <pubDate>10 Apr 2012 21:37:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyteomics 1.2.2</title>
+    <link>http://pypi.python.org/pypi/pyteomics/1.2.2</link>
+    <description>A framework for proteomics data analysis.</description>
+    <pubDate>10 Apr 2012 21:24:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>mysolr 0.5.1</title>
+    <link>http://pypi.python.org/pypi/mysolr/0.5.1</link>
+    <description>Solr Python binding</description>
+    <pubDate>10 Apr 2012 21:12:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyfits 3.0.7</title>
+    <link>http://pypi.python.org/pypi/pyfits/3.0.7</link>
+    <description>Reads FITS images and tables into numpy or numarray objects and
+manipulates FITS headers</description>
+    <pubDate>10 Apr 2012 21:08:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>cconfig 1.0</title>
+    <link>http://pypi.python.org/pypi/cconfig/1.0</link>
+    <description>UNKNOWN</description>
+    <pubDate>10 Apr 2012 21:05:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>geoloqi-python 12.101</title>
+    <link>http://pypi.python.org/pypi/geoloqi-python/12.101</link>
+    <description>A powerful platform for mobile location, messaging and analytics.</description>
+    <pubDate>10 Apr 2012 20:50:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>Sider 0.1.2</title>
+    <link>http://pypi.python.org/pypi/Sider/0.1.2</link>
+    <description>A persistent object library based on Redis</description>
+    <pubDate>10 Apr 2012 20:48:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>zojax.mr.gae 0.3</title>
+    <link>http://pypi.python.org/pypi/zojax.mr.gae/0.3</link>
+    <description>Simple GAE-extension for buildout</description>
+    <pubDate>10 Apr 2012 19:40:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-novaclient 2.6.0.1</title>
+    <link>http://pypi.python.org/pypi/python-novaclient/2.6.0.1</link>
+    <description>Client library for OpenStack Nova API</description>
+    <pubDate>10 Apr 2012 19:39:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>requests-cache 0.1.0</title>
+    <link>http://pypi.python.org/pypi/requests-cache/0.1.0</link>
+    <description>Persistent cache for requests library</description>
+    <pubDate>10 Apr 2012 19:24:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>jabbapylib 0.2.1</title>
+    <link>http://pypi.python.org/pypi/jabbapylib/0.2.1</link>
+    <description>A lightweight, general-purpose Python library</description>
+    <pubDate>10 Apr 2012 19:16:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>Scio 0.12.0</title>
+    <link>http://pypi.python.org/pypi/Scio/0.12.0</link>
+    <description>Scio is a humane SOAP client</description>
+    <pubDate>10 Apr 2012 18:54:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>cryptacular 1.4.1</title>
+    <link>http://pypi.python.org/pypi/cryptacular/1.4.1</link>
+    <description>A password hashing framework with bcrypt and pbkdf2.</description>
+    <pubDate>10 Apr 2012 18:50:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-mongonaut 0.2.12</title>
+    <link>http://pypi.python.org/pypi/django-mongonaut/0.2.12</link>
+    <description>An introspective interface for Django and MongoDB</description>
+    <pubDate>10 Apr 2012 18:23:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>Pydap 3.0.3</title>
+    <link>http://pypi.python.org/pypi/Pydap/3.0.3</link>
+    <description>Pure Python Opendap/DODS client and server.</description>
+    <pubDate>10 Apr 2012 17:46:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>bottle-mysql 0.1.1</title>
+    <link>http://pypi.python.org/pypi/bottle-mysql/0.1.1</link>
+    <description>MySQL integration for Bottle.</description>
+    <pubDate>10 Apr 2012 17:37:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>WeoGeoAPI 0.0.1</title>
+    <link>http://pypi.python.org/pypi/WeoGeoAPI/0.0.1</link>
+    <description>a wrapper that allows users access to the functionality of the WeoGeo API from within Python</description>
+    <pubDate>10 Apr 2012 17:37:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>statprof 0.1.2</title>
+    <link>http://pypi.python.org/pypi/statprof/0.1.2</link>
+    <description>Statistical profiling for Python</description>
+    <pubDate>10 Apr 2012 17:32:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>statsd 0.5.0</title>
+    <link>http://pypi.python.org/pypi/statsd/0.5.0</link>
+    <description>A simple statsd client.</description>
+    <pubDate>10 Apr 2012 17:30:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>smachine 0.2</title>
+    <link>http://pypi.python.org/pypi/smachine/0.2</link>
+    <description>Simple finite state machine.</description>
+    <pubDate>10 Apr 2012 16:52:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>docopt 0.1</title>
+    <link>http://pypi.python.org/pypi/docopt/0.1</link>
+    <description>Pythonic option parser, that will make you smile</description>
+    <pubDate>10 Apr 2012 16:35:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>babble.client 2.0</title>
+    <link>http://pypi.python.org/pypi/babble.client/2.0</link>
+    <description>Babble: Instant messaging client for Plone</description>
+    <pubDate>10 Apr 2012 16:22:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygeoip 0.2.3</title>
+    <link>http://pypi.python.org/pypi/pygeoip/0.2.3</link>
+    <description>Pure Python GeoIP API</description>
+    <pubDate>10 Apr 2012 16:20:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>babble.server 1.0</title>
+    <link>http://pypi.python.org/pypi/babble.server/1.0</link>
+    <description>A backend messaging server for Zope2.</description>
+    <pubDate>10 Apr 2012 16:13:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>npyscreen 2.0pre49</title>
+    <link>http://pypi.python.org/pypi/npyscreen/2.0pre49</link>
+    <description>Writing user interfaces without all that ugly mucking about in hyperspace</description>
+    <pubDate>10 Apr 2012 16:11:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>hydna 0.1</title>
+    <link>http://pypi.python.org/pypi/hydna/0.1</link>
+    <description>Python client for Hydna.</description>
+    <pubDate>10 Apr 2012 16:10:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>anafero 0.2</title>
+    <link>http://pypi.python.org/pypi/anafero/0.2</link>
+    <description>a referrals app for Django</description>
+    <pubDate>10 Apr 2012 15:36:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>kombu 2.1.4</title>
+    <link>http://pypi.python.org/pypi/kombu/2.1.4</link>
+    <description>Messaging Framework for Python</description>
+    <pubDate>10 Apr 2012 15:06:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>inferno 0.1.29</title>
+    <link>http://pypi.python.org/pypi/inferno/0.1.29</link>
+    <description>Inferno: a python map/reduce platform powered by disco.</description>
+    <pubDate>10 Apr 2012 15:03:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>NEURON 7.2.536.10</title>
+    <link>http://pypi.python.org/pypi/NEURON/7.2.536.10</link>
+    <description>A Python package version of NEURON, for empirically-based simulations of neurons and networks of neurons</description>
+    <pubDate>10 Apr 2012 14:31:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>NagParser 0.0.19</title>
+    <link>http://pypi.python.org/pypi/NagParser/0.0.19</link>
+    <description>Parse realtime Nagios Data from status.dat and objects.cache, do useful stuff with it</description>
+    <pubDate>10 Apr 2012 14:19:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-tastypie-mongoengine 0.1</title>
+    <link>http://pypi.python.org/pypi/django-tastypie-mongoengine/0.1</link>
+    <description>MongoEngine support for django-tastypie.</description>
+    <pubDate>10 Apr 2012 13:52:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>redomino.css3theme 1.3</title>
+    <link>http://pypi.python.org/pypi/redomino.css3theme/1.3</link>
+    <description>A responsive (and mobile) theme for Plone 4 (based on sunburst)</description>
+    <pubDate>10 Apr 2012 13:39:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-email-as-username 1.4.4</title>
+    <link>http://pypi.python.org/pypi/django-email-as-username/1.4.4</link>
+    <description>User authentication with email addresses instead of usernames.</description>
+    <pubDate>10 Apr 2012 13:13:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-email-as-username 1.4.3</title>
+    <link>http://pypi.python.org/pypi/django-email-as-username/1.4.3</link>
+    <description>User authentication with email addresses instead of usernames.</description>
+    <pubDate>10 Apr 2012 13:03:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-money 0.2</title>
+    <link>http://pypi.python.org/pypi/django-money/0.2</link>
+    <description>Money fields for django forms and models.</description>
+    <pubDate>10 Apr 2012 12:56:40 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

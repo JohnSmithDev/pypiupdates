@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>django-missing 0.1.2</title>
+    <link>http://pypi.python.org/pypi/django-missing/0.1.2</link>
+    <description>Some missing features in Django. Are not missing anymore.</description>
+    <pubDate>23 Mar 2012 10:44:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-pushserver 0.1.1</title>
+    <link>http://pypi.python.org/pypi/django-pushserver/0.1.1</link>
+    <description>Push server for Django based on Leo Ponomarev's Basic HTTP Push Relay Protocol.</description>
+    <pubDate>23 Mar 2012 10:39:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>redomino.tabsandslides 0.8.0</title>
+    <link>http://pypi.python.org/pypi/redomino.tabsandslides/0.8.0</link>
+    <description>jquerytools tabs and slide implementations</description>
+    <pubDate>23 Mar 2012 10:28:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyMunin 0.9.13</title>
+    <link>http://pypi.python.org/pypi/PyMunin/0.9.13</link>
+    <description>Python Module for developing Munin Multigraph Monitoring Plugins.</description>
+    <pubDate>23 Mar 2012 10:19:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>tinycss 0.1dev</title>
+    <link>http://pypi.python.org/pypi/tinycss/0.1dev</link>
+    <description>A CSS parser, and nothing else.</description>
+    <pubDate>23 Mar 2012 10:04:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>CmakePy 0.1.2</title>
+    <link>http://pypi.python.org/pypi/CmakePy/0.1.2</link>
+    <description>Creates a new cmake project</description>
+    <pubDate>23 Mar 2012 10:02:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>sesspy 0.3.0</title>
+    <link>http://pypi.python.org/pypi/sesspy/0.3.0</link>
+    <description>Session/Transaction Management and Dependency Injection</description>
+    <pubDate>23 Mar 2012 10:01:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>openssh-wrapper 0.2.1</title>
+    <link>http://pypi.python.org/pypi/openssh-wrapper/0.2.1</link>
+    <description>OpenSSH python wrapper</description>
+    <pubDate>23 Mar 2012 10:00:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygvm 0.2.2</title>
+    <link>http://pypi.python.org/pypi/pygvm/0.2.2</link>
+    <description>Simplified port of GVM for python. See http://www.tomgibara.com/clustering/fast-spatial/java-library for the original.</description>
+    <pubDate>23 Mar 2012 09:54:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>winshell 0.5.4</title>
+    <link>http://pypi.python.org/pypi/winshell/0.5.4</link>
+    <description>Windows shell functions</description>
+    <pubDate>23 Mar 2012 09:32:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>Notable 0.0.1</title>
+    <link>http://pypi.python.org/pypi/Notable/0.0.1</link>
+    <description>A very simple note taking application</description>
+    <pubDate>23 Mar 2012 09:29:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>winshell 0.5.3</title>
+    <link>http://pypi.python.org/pypi/winshell/0.5.3</link>
+    <description>Windows shell functions</description>
+    <pubDate>23 Mar 2012 09:02:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>BatchQ 0.1-1-pre-alpha</title>
+    <link>http://pypi.python.org/pypi/BatchQ/0.1-1-pre-alpha</link>
+    <description>Python automatisation tools.</description>
+    <pubDate>23 Mar 2012 08:50:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>gyroid 0.1</title>
+    <link>http://pypi.python.org/pypi/gyroid/0.1</link>
+    <description>A symmetry adapted basis function (SABF) generator.</description>
+    <pubDate>23 Mar 2012 07:52:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>pagepress 0.1</title>
+    <link>http://pypi.python.org/pypi/pagepress/0.1</link>
+    <description>Pagepress is a Site-Generation Utility.</description>
+    <pubDate>23 Mar 2012 07:37:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>feedzilla 0.1.20</title>
+    <link>http://pypi.python.org/pypi/feedzilla/0.1.20</link>
+    <description>Django application for atom/rss feeds aggregation i.e. planet engine</description>
+    <pubDate>23 Mar 2012 07:27:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>drest 0.9.6</title>
+    <link>http://pypi.python.org/pypi/drest/0.9.6</link>
+    <description>HTTP/REST Client Library for Python</description>
+    <pubDate>23 Mar 2012 06:53:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>tracefront 0.3</title>
+    <link>http://pypi.python.org/pypi/tracefront/0.3</link>
+    <description>Format tracebacks better.</description>
+    <pubDate>23 Mar 2012 06:37:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>eplist 0.1.4</title>
+    <link>http://pypi.python.org/pypi/eplist/0.1.4</link>
+    <description>Simple episode renaming program</description>
+    <pubDate>23 Mar 2012 06:37:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>matricks 0.3.17</title>
+    <link>http://pypi.python.org/pypi/matricks/0.3.17</link>
+    <description>manipulate datasets encoded as 2-D matrices with annotation (first) row and (first) column</description>
+    <pubDate>23 Mar 2012 06:20:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>termsaver 0.1</title>
+    <link>http://pypi.python.org/pypi/termsaver/0.1</link>
+    <description>Simple text-based terminal screensaver.</description>
+    <pubDate>23 Mar 2012 04:50:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>pymcu 1.0.7</title>
+    <link>http://pypi.python.org/pypi/pymcu/1.0.7</link>
+    <description>pyMCU - Python Micro Controller Wrapper</description>
+    <pubDate>23 Mar 2012 04:39:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>flexmock 0.9.3</title>
+    <link>http://pypi.python.org/pypi/flexmock/0.9.3</link>
+    <description>Mock/Stub/Spy library for Python</description>
+    <pubDate>23 Mar 2012 04:01:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>topzootools 0.3.26dev-20120323</title>
+    <link>http://pypi.python.org/pypi/topzootools/0.3.26dev-20120323</link>
+    <description>Processing and conversion tools for Internet Topology Zoo</description>
+    <pubDate>23 Mar 2012 03:04:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>liquidluck 0.3</title>
+    <link>http://pypi.python.org/pypi/liquidluck/0.3</link>
+    <description>A lightweight static weblog generator</description>
+    <pubDate>23 Mar 2012 02:58:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>backlift 0.1.0</title>
+    <link>http://pypi.python.org/pypi/backlift/0.1.0</link>
+    <description>Backlift Command Line Interface</description>
+    <pubDate>23 Mar 2012 02:45:06 GMT</pubDate>
+   </item>
+  <item>
+    <title>regex 0.1.20120323</title>
+    <link>http://pypi.python.org/pypi/regex/0.1.20120323</link>
+    <description>Alternative regular expression module, to replace re.</description>
+    <pubDate>23 Mar 2012 02:38:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>storescrapper 0.1.8</title>
+    <link>http://pypi.python.org/pypi/storescrapper/0.1.8</link>
+    <description>Web scrapping API for selected stores</description>
+    <pubDate>23 Mar 2012 02:05:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-android-test 0.2</title>
+    <link>http://pypi.python.org/pypi/lava-android-test/0.2</link>
+    <description>LAVA android test execution framework</description>
+    <pubDate>23 Mar 2012 02:00:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-test 0.6</title>
+    <link>http://pypi.python.org/pypi/lava-test/0.6</link>
+    <description>LAVA test execution framework</description>
+    <pubDate>23 Mar 2012 02:00:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-dispatcher 0.5.10</title>
+    <link>http://pypi.python.org/pypi/lava-dispatcher/0.5.10</link>
+    <description>Part of the LAVA framework for dispatching test jobs</description>
+    <pubDate>23 Mar 2012 02:00:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-scheduler 0.12</title>
+    <link>http://pypi.python.org/pypi/lava-scheduler/0.12</link>
+    <description>LAVA Scheduler Application</description>
+    <pubDate>23 Mar 2012 01:59:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-dashboard 0.14</title>
+    <link>http://pypi.python.org/pypi/lava-dashboard/0.14</link>
+    <description>Validation Dashboard for LAVA Server</description>
+    <pubDate>23 Mar 2012 01:59:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>lava-server 0.12.dev357</title>
+    <link>http://pypi.python.org/pypi/lava-server/0.12.dev357</link>
+    <description>LAVA Server Application Container</description>
+    <pubDate>23 Mar 2012 01:59:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>datatype 0.8.5</title>
+    <link>http://pypi.python.org/pypi/datatype/0.8.5</link>
+    <description>Anonymous datatype validation</description>
+    <pubDate>23 Mar 2012 01:37:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-simple-links 0.1.0</title>
+    <link>http://pypi.python.org/pypi/django-simple-links/0.1.0</link>
+    <description>Simple bookmarking application for Django projects</description>
+    <pubDate>23 Mar 2012 01:26:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>twoq 0.4.0</title>
+    <link>http://pypi.python.org/pypi/twoq/0.4.0</link>
+    <description>iterator chaining, underscored by a two-headed queue</description>
+    <pubDate>23 Mar 2012 00:54:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>pbs 0.102</title>
+    <link>http://pypi.python.org/pypi/pbs/0.102</link>
+    <description>Python subprocess wrapper</description>
+    <pubDate>23 Mar 2012 00:50:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>powerlaw .4</title>
+    <link>http://pypi.python.org/pypi/powerlaw/.4</link>
+    <description>Toolbox for testing if a probability distribution fits a power law</description>
+    <pubDate>23 Mar 2012 00:35:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyson 0.2</title>
+    <link>http://pypi.python.org/pypi/pyson/0.2</link>
+    <description>Maniplates JSON-like structures consisting of dictionaries and lists.</description>
+    <pubDate>23 Mar 2012 00:31:28 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>Distutils2 1.0a4</title>
+    <link>http://pypi.python.org/pypi/Distutils2/1.0a4</link>
+    <description>Python Packaging Library</description>
+    <pubDate>13 Mar 2012 15:59:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-comments 1.0.0.b</title>
+    <link>http://pypi.python.org/pypi/django-comments/1.0.0.b</link>
+    <description>Generic pluggable comments application</description>
+    <pubDate>13 Mar 2012 15:38:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-simple-aes-field 0.1.2</title>
+    <link>http://pypi.python.org/pypi/django-simple-aes-field/0.1.2</link>
+    <description>A SimpleAES encoded field for Django.</description>
+    <pubDate>13 Mar 2012 15:23:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>annotator 0.6.4</title>
+    <link>http://pypi.python.org/pypi/annotator/0.6.4</link>
+    <description>Inline web annotation application and middleware using javascript and WSGI</description>
+    <pubDate>13 Mar 2012 15:21:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>mapq 0.3</title>
+    <link>http://pypi.python.org/pypi/mapq/0.3</link>
+    <description>An easy-to-use Mapquest Geocoding API wrapper.</description>
+    <pubDate>13 Mar 2012 15:18:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>bongo 0.2</title>
+    <link>http://pypi.python.org/pypi/bongo/0.2</link>
+    <description>An API wrapper for Iowa City's bus data</description>
+    <pubDate>13 Mar 2012 15:10:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>mmailer 0.2.0-1-g6f74782</title>
+    <link>http://pypi.python.org/pypi/mmailer/0.2.0-1-g6f74782</link>
+    <description>Serial/Mass mail tool</description>
+    <pubDate>13 Mar 2012 15:09:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>wheezy.web 0.1.159</title>
+    <link>http://pypi.python.org/pypi/wheezy.web/0.1.159</link>
+    <description>A lightweight WSGI web framework.</description>
+    <pubDate>13 Mar 2012 14:28:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>robotframework-debuglibrary 0.2.3</title>
+    <link>http://pypi.python.org/pypi/robotframework-debuglibrary/0.2.3</link>
+    <description>RobotFramework debug library and an interactive shell</description>
+    <pubDate>13 Mar 2012 14:25:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>pybedtools 0.6</title>
+    <link>http://pypi.python.org/pypi/pybedtools/0.6</link>
+    <description>Wrapper around BEDTools for bioinformatics work</description>
+    <pubDate>13 Mar 2012 14:02:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>html2list 0.1.6</title>
+    <link>http://pypi.python.org/pypi/html2list/0.1.6</link>
+    <description>A library for converting html markup from an email or webpage into a list</description>
+    <pubDate>13 Mar 2012 14:02:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.ZScheduler 4.2.0</title>
+    <link>http://pypi.python.org/pypi/Products.ZScheduler/4.2.0</link>
+    <description>Zope/Plone remote timer</description>
+    <pubDate>13 Mar 2012 14:02:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>coop-tag 0.1.3</title>
+    <link>http://pypi.python.org/pypi/coop-tag/0.1.3</link>
+    <description>Add-on for django-coop for managing tags with django-taggit</description>
+    <pubDate>13 Mar 2012 14:01:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-coop 0.1.5</title>
+    <link>http://pypi.python.org/pypi/django-coop/0.1.5</link>
+    <description>A basis for a cooperative organization directory, with people, organization, offers.</description>
+    <pubDate>13 Mar 2012 13:59:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>pydas 0.2.0</title>
+    <link>http://pypi.python.org/pypi/pydas/0.2.0</link>
+    <description>UNKNOWN</description>
+    <pubDate>13 Mar 2012 13:47:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>wheezy.caching 0.1.46</title>
+    <link>http://pypi.python.org/pypi/wheezy.caching/0.1.46</link>
+    <description>A lightweight caching library</description>
+    <pubDate>13 Mar 2012 13:36:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>metapdf 0.2.5</title>
+    <link>http://pypi.python.org/pypi/metapdf/0.2.5</link>
+    <description>A lightweight PDF library optimized for metadata extraction and insertion</description>
+    <pubDate>13 Mar 2012 13:12:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>Yaybu 0.1.19</title>
+    <link>http://pypi.python.org/pypi/Yaybu/0.1.19</link>
+    <description>Server deployment and configuration management in Python</description>
+    <pubDate>13 Mar 2012 13:06:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>nipype 0.6.0.g48b2c25-dev</title>
+    <link>http://pypi.python.org/pypi/nipype/0.6.0.g48b2c25-dev</link>
+    <description>Neuroimaging in Python: Pipelines and Interfaces</description>
+    <pubDate>13 Mar 2012 13:06:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>ftw.contentmenu 2.1</title>
+    <link>http://pypi.python.org/pypi/ftw.contentmenu/2.1</link>
+    <description>Customize Plone's content menu</description>
+    <pubDate>13 Mar 2012 13:01:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>ella 2.0.7</title>
+    <link>http://pypi.python.org/pypi/ella/2.0.7</link>
+    <description>Ella - Django powered CMS</description>
+    <pubDate>13 Mar 2012 12:44:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>git-recipe 0.0.1</title>
+    <link>http://pypi.python.org/pypi/git-recipe/0.0.1</link>
+    <description>Simple buildout recipe for downloading git repositories. It uses system git command and its syntax</description>
+    <pubDate>13 Mar 2012 12:32:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>consent 0.6</title>
+    <link>http://pypi.python.org/pypi/consent/0.6</link>
+    <description>Software for general assemblies</description>
+    <pubDate>13 Mar 2012 12:10:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>easydict 1.4</title>
+    <link>http://pypi.python.org/pypi/easydict/1.4</link>
+    <description>Access dict values as attributes (works recursively)</description>
+    <pubDate>13 Mar 2012 11:48:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>provpy 1.1.3</title>
+    <link>http://pypi.python.org/pypi/provpy/1.1.3</link>
+    <description>Python implementation of PROV-DM data model</description>
+    <pubDate>13 Mar 2012 11:37:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>RescueDelicious 0.1.1</title>
+    <link>http://pypi.python.org/pypi/RescueDelicious/0.1.1</link>
+    <description>Convert bookmarks in delicious firefox extension to importable file</description>
+    <pubDate>13 Mar 2012 11:32:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>mfabrik.webandmobile 1.0.9</title>
+    <link>http://pypi.python.org/pypi/mfabrik.webandmobile/1.0.9</link>
+    <description>Mobile and multichannel content management for Plone</description>
+    <pubDate>13 Mar 2012 10:53:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.cron 1.0</title>
+    <link>http://pypi.python.org/pypi/collective.cron/1.0</link>
+    <description>Product that enable cron like jobs based on plone.app.async</description>
+    <pubDate>13 Mar 2012 10:50:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>gomobile.mobile 1.0.4</title>
+    <link>http://pypi.python.org/pypi/gomobile.mobile/1.0.4</link>
+    <description>Core package for mobilizing Plone CMS</description>
+    <pubDate>13 Mar 2012 10:49:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>gomobile.supporter 0.9.3</title>
+    <link>http://pypi.python.org/pypi/gomobile.supporter/0.9.3</link>
+    <description>Add mobile support for various Plone add on products</description>
+    <pubDate>13 Mar 2012 10:46:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyGPD3303S 1.0.2</title>
+    <link>http://pypi.python.org/pypi/PyGPD3303S/1.0.2</link>
+    <description>Python Interface for DC power supply GPD-3303S</description>
+    <pubDate>13 Mar 2012 10:32:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygal 0.9.12</title>
+    <link>http://pypi.python.org/pypi/pygal/0.9.12</link>
+    <description>A python svg graph plotting library</description>
+    <pubDate>13 Mar 2012 10:20:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>snmpdesk 0.0.9</title>
+    <link>http://pypi.python.org/pypi/snmpdesk/0.0.9</link>
+    <description>Scripts for easy get snmp data</description>
+    <pubDate>13 Mar 2012 10:11:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>run-python 0.2.6</title>
+    <link>http://pypi.python.org/pypi/run-python/0.2.6</link>
+    <description>Python driver for Run. For more information - https://github.com/respect31/run-core.</description>
+    <pubDate>13 Mar 2012 09:47:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>run-core 0.5.1</title>
+    <link>http://pypi.python.org/pypi/run-core/0.5.1</link>
+    <description>Runs, gets help and lists functions/methods from file with autocompletion. Extendable core/language drivers design.</description>
+    <pubDate>13 Mar 2012 09:46:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>aspen 0.13.5</title>
+    <link>http://pypi.python.org/pypi/aspen/0.13.5</link>
+    <description>Aspen is a Python web framework. Simplates are the main attraction.</description>
+    <pubDate>13 Mar 2012 09:36:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>glitter 0.1.1</title>
+    <link>http://pypi.python.org/pypi/glitter/0.1.1</link>
+    <description>Intuitive OpenGL wrappers</description>
+    <pubDate>13 Mar 2012 09:31:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>geographiclib 1.19</title>
+    <link>http://pypi.python.org/pypi/geographiclib/1.19</link>
+    <description>A translation of the GeographicLib::Geodesic class to Python</description>
+    <pubDate>13 Mar 2012 09:28:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>repoze.what-x509 0.1.1</title>
+    <link>http://pypi.python.org/pypi/repoze.what-x509/0.1.1</link>
+    <description>x509 repoze.what plugin</description>
+    <pubDate>13 Mar 2012 09:10:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>rbtranslations 0.9</title>
+    <link>http://pypi.python.org/pypi/rbtranslations/0.9</link>
+    <description>Java ResourceBundle like approach to localization.</description>
+    <pubDate>13 Mar 2012 09:09:28 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

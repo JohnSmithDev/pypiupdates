@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>gevent-fastcgi 0.1.3dev</title>
+    <link>http://pypi.python.org/pypi/gevent-fastcgi/0.1.3dev</link>
+    <description>FastCGI/WSGI server implementation using gevent</description>
+    <pubDate>19 Mar 2012 13:59:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-jcache 0.5</title>
+    <link>http://pypi.python.org/pypi/django-jcache/0.5</link>
+    <description>JCache support for Django</description>
+    <pubDate>19 Mar 2012 13:56:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>infi.pyutils 0.0.21</title>
+    <link>http://pypi.python.org/pypi/infi.pyutils/0.0.21</link>
+    <description>Misc. pure-python utilities</description>
+    <pubDate>19 Mar 2012 13:52:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>bug-repo-syncer 0.3.0b1</title>
+    <link>http://pypi.python.org/pypi/bug-repo-syncer/0.3.0b1</link>
+    <description>Program to synchronize bug repositories</description>
+    <pubDate>19 Mar 2012 13:36:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>aspen 0.13.11</title>
+    <link>http://pypi.python.org/pypi/aspen/0.13.11</link>
+    <description>Aspen is a Python web framework. Simplates are the main attraction.</description>
+    <pubDate>19 Mar 2012 13:33:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>stxnext.staticdeployment 0.8.3</title>
+    <link>http://pypi.python.org/pypi/stxnext.staticdeployment/0.8.3</link>
+    <description>Deploy Plone site to static files.</description>
+    <pubDate>19 Mar 2012 13:33:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygit2 0.16.1</title>
+    <link>http://pypi.python.org/pypi/pygit2/0.16.1</link>
+    <description>Python bindings for libgit2.</description>
+    <pubDate>19 Mar 2012 13:21:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-group-access 1.0.0</title>
+    <link>http://pypi.python.org/pypi/django-group-access/1.0.0</link>
+    <description>Base Django model to add access control, via groups, to objects.</description>
+    <pubDate>19 Mar 2012 13:07:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>OpenAnywhere 1.0</title>
+    <link>http://pypi.python.org/pypi/OpenAnywhere/1.0</link>
+    <description>A Python library taken from the Dive Into Python book, to open any resource (either string, file or url) and manage it as a file.</description>
+    <pubDate>19 Mar 2012 13:00:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>MailManager 1.0</title>
+    <link>http://pypi.python.org/pypi/MailManager/1.0</link>
+    <description>A Python library for sending emails easily through SMTP</description>
+    <pubDate>19 Mar 2012 12:52:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>lstscrpt 1.0.0</title>
+    <link>http://pypi.python.org/pypi/lstscrpt/1.0.0</link>
+    <description>A simple printer of nested lists</description>
+    <pubDate>19 Mar 2012 12:50:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>dummycache 0.0.1</title>
+    <link>http://pypi.python.org/pypi/dummycache/0.0.1</link>
+    <description>A dummy in-memory cache for development and testing (never use in production).</description>
+    <pubDate>19 Mar 2012 12:47:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>revelation-indicator 0.1.0</title>
+    <link>http://pypi.python.org/pypi/revelation-indicator/0.1.0</link>
+    <description>UNKNOWN</description>
+    <pubDate>19 Mar 2012 12:37:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyame 0.8.4</title>
+    <link>http://pypi.python.org/pypi/pyame/0.8.4</link>
+    <description>Static website creator with Markdown syntax</description>
+    <pubDate>19 Mar 2012 12:30:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>lovely.buildouthttp 0.4.2</title>
+    <link>http://pypi.python.org/pypi/lovely.buildouthttp/0.4.2</link>
+    <description>Buildout extension to add http authentication for find-links and download recipies</description>
+    <pubDate>19 Mar 2012 12:02:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>vs.tdi 0.3.1</title>
+    <link>http://pypi.python.org/pypi/vs.tdi/0.3.1</link>
+    <description>vs.tdi (tabbed document interface)</description>
+    <pubDate>19 Mar 2012 11:52:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>imread 0.2</title>
+    <link>http://pypi.python.org/pypi/imread/0.2</link>
+    <description>imread: Image reading library</description>
+    <pubDate>19 Mar 2012 11:47:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>pbundler 0.0.3</title>
+    <link>http://pypi.python.org/pypi/pbundler/0.0.3</link>
+    <description>Bundler for Python</description>
+    <pubDate>19 Mar 2012 11:29:30 GMT</pubDate>
+   </item>
+  <item>
+    <title>dj.choices 0.8.3</title>
+    <link>http://pypi.python.org/pypi/dj.choices/0.8.3</link>
+    <description>An enum implementation for Django forms and models.</description>
+    <pubDate>19 Mar 2012 11:11:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>Cartridge 0.4.5</title>
+    <link>http://pypi.python.org/pypi/Cartridge/0.4.5</link>
+    <description>A Django shopping cart application.</description>
+    <pubDate>19 Mar 2012 10:42:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>makesite 0.9.31</title>
+    <link>http://pypi.python.org/pypi/makesite/0.9.31</link>
+    <description>Makesite is collection scripts for make and control site structure.</description>
+    <pubDate>19 Mar 2012 10:38:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>Mezzanine 1.0.4</title>
+    <link>http://pypi.python.org/pypi/Mezzanine/1.0.4</link>
+    <description>An open source content management platform built using the Django framework.</description>
+    <pubDate>19 Mar 2012 10:38:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>filebrowser_safe 0.2.2</title>
+    <link>http://pypi.python.org/pypi/filebrowser_safe/0.2.2</link>
+    <description>A snapshot of the filebrowser_3 branch of django-filebrowser, packaged as a dependency for the Mezzanine CMS for Django.</description>
+    <pubDate>19 Mar 2012 10:35:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>neuronvisio 0.8.1</title>
+    <link>http://pypi.python.org/pypi/neuronvisio/0.8.1</link>
+    <description>Neuronvisio is a Graphical User Interface for NEURON simulator environment</description>
+    <pubDate>19 Mar 2012 10:33:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>bambu-tools 0.7</title>
+    <link>http://pypi.python.org/pypi/bambu-tools/0.7</link>
+    <description>Tools for Django webapps</description>
+    <pubDate>19 Mar 2012 10:28:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>plivo 0.1</title>
+    <link>http://pypi.python.org/pypi/plivo/0.1</link>
+    <description>Plivo Python library</description>
+    <pubDate>19 Mar 2012 10:21:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygal 0.9.14</title>
+    <link>http://pypi.python.org/pypi/pygal/0.9.14</link>
+    <description>A python svg graph plotting library</description>
+    <pubDate>19 Mar 2012 10:17:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>cookies 0.9.1</title>
+    <link>http://pypi.python.org/pypi/cookies/0.9.1</link>
+    <description>Friendlier RFC 6265-compliant cookie parser/renderer</description>
+    <pubDate>19 Mar 2012 10:12:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>L1L2Signature 0.2.2</title>
+    <link>http://pypi.python.org/pypi/L1L2Signature/0.2.2</link>
+    <description>Unbiased framework for gene expression analysis</description>
+    <pubDate>19 Mar 2012 10:07:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>alfREST 0.9.1</title>
+    <link>http://pypi.python.org/pypi/alfREST/0.9.1</link>
+    <description>Alfresco REST web services client library for python</description>
+    <pubDate>19 Mar 2012 10:04:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>yafowil.webob 1.1</title>
+    <link>http://pypi.python.org/pypi/yafowil.webob/1.1</link>
+    <description>WebOb Integration for YAFOWIL</description>
+    <pubDate>19 Mar 2012 09:58:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>adrest 1.1.7</title>
+    <link>http://pypi.python.org/pypi/adrest/1.1.7</link>
+    <description>Adrest - another django REST. Simple application for quick build RESTfull API.</description>
+    <pubDate>19 Mar 2012 09:57:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>grappelli_safe 0.2.2</title>
+    <link>http://pypi.python.org/pypi/grappelli_safe/0.2.2</link>
+    <description>A snapshot of the grappelli_2 branch of django-grappelli, packaged as a dependency for the Mezzanine CMS for Django.</description>
+    <pubDate>19 Mar 2012 09:49:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>yafowil.yaml 1.0.2</title>
+    <link>http://pypi.python.org/pypi/yafowil.yaml/1.0.2</link>
+    <description>YAFOWIL - YAML parser for widget trees.</description>
+    <pubDate>19 Mar 2012 09:40:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>phonenumbers 4.7b1</title>
+    <link>http://pypi.python.org/pypi/phonenumbers/4.7b1</link>
+    <description>Python version of Google's common library for parsing, formatting, storing and validating international phone numbers.</description>
+    <pubDate>19 Mar 2012 09:38:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>webtail 0.1b16</title>
+    <link>http://pypi.python.org/pypi/webtail/0.1b16</link>
+    <description>Tornado-based log viewer</description>
+    <pubDate>19 Mar 2012 09:32:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>yafowil.widget.array 1.0</title>
+    <link>http://pypi.python.org/pypi/yafowil.widget.array/1.0</link>
+    <description>Array Widget for YAFOWIL</description>
+    <pubDate>19 Mar 2012 09:15:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>fugue-icons 3.3.4</title>
+    <link>http://pypi.python.org/pypi/fugue-icons/3.3.4</link>
+    <description>Fugue Icons packaged for simple use in web apps.</description>
+    <pubDate>19 Mar 2012 09:12:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>yafowil.widget.richtext 1.2</title>
+    <link>http://pypi.python.org/pypi/yafowil.widget.richtext/1.2</link>
+    <description>Richtext Widget for YAFOWIL</description>
+    <pubDate>19 Mar 2012 09:08:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>callchain 0.2.0</title>
+    <link>http://pypi.python.org/pypi/callchain/0.2.0</link>
+    <description>callables and components joined in one big happy chain</description>
+    <pubDate>19 Mar 2012 08:57:42 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

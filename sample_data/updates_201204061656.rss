@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>cmsplugin_zinnia 0.2</title>
+    <link>http://pypi.python.org/pypi/cmsplugin_zinnia/0.2</link>
+    <description>Django-CMS plugins for django-blog-zinnia</description>
+    <pubDate>06 Apr 2012 15:31:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>saimmutable 0.2</title>
+    <link>http://pypi.python.org/pypi/saimmutable/0.2</link>
+    <description>SA instrumentation machinery for immutable data models</description>
+    <pubDate>06 Apr 2012 15:31:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>leaderboard 1.1.5</title>
+    <link>http://pypi.python.org/pypi/leaderboard/1.1.5</link>
+    <description>Library for interacting with leaderboards backed by Redis</description>
+    <pubDate>06 Apr 2012 15:24:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-kanbanize 0.1.7</title>
+    <link>http://pypi.python.org/pypi/python-kanbanize/0.1.7</link>
+    <description>Kanbanize.com Python API Wrapper</description>
+    <pubDate>06 Apr 2012 15:17:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>futuregrid.cloud.metric 2.1.2dev</title>
+    <link>http://pypi.python.org/pypi/futuregrid.cloud.metric/2.1.2dev</link>
+    <description>FutureGrid: Cloud Metrics</description>
+    <pubDate>06 Apr 2012 15:14:11 GMT</pubDate>
+   </item>
+  <item>
+    <title>EOxServer 0.2-beta2</title>
+    <link>http://pypi.python.org/pypi/EOxServer/0.2-beta2</link>
+    <description>EOxServer is a server for Earth Observation (EO) data</description>
+    <pubDate>06 Apr 2012 15:13:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>jsonpublish 0.1.3</title>
+    <link>http://pypi.python.org/pypi/jsonpublish/0.1.3</link>
+    <description>Publish Python object as JSON documents</description>
+    <pubDate>06 Apr 2012 14:58:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>sphinxalchemy 0.4</title>
+    <link>http://pypi.python.org/pypi/sphinxalchemy/0.4</link>
+    <description>SQLAlchemy extension for dealing with SphinxQL</description>
+    <pubDate>06 Apr 2012 14:49:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>croniter 0.3.0</title>
+    <link>http://pypi.python.org/pypi/croniter/0.3.0</link>
+    <description>croniter provides iteration for datetime object with cron like format</description>
+    <pubDate>06 Apr 2012 14:46:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>PyNN 0.7.3</title>
+    <link>http://pypi.python.org/pypi/PyNN/0.7.3</link>
+    <description>A Python package for simulator-independent specification of neuronal network models</description>
+    <pubDate>06 Apr 2012 14:37:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-facebook 3.6.4</title>
+    <link>http://pypi.python.org/pypi/django-facebook/3.6.4</link>
+    <description></description>
+    <pubDate>06 Apr 2012 14:33:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-xmlrpc 0.1.4</title>
+    <link>http://pypi.python.org/pypi/django-xmlrpc/0.1.4</link>
+    <description>XML-RPC Server App for the Django framework.</description>
+    <pubDate>06 Apr 2012 14:13:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>ndbunq 0.1.0</title>
+    <link>http://pypi.python.org/pypi/ndbunq/0.1.0</link>
+    <description>Poor man unique constraints for Google Appengine NDB</description>
+    <pubDate>06 Apr 2012 14:13:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>cornice 0.8</title>
+    <link>http://pypi.python.org/pypi/cornice/0.8</link>
+    <description>Define Web Services in Pyramid.</description>
+    <pubDate>06 Apr 2012 13:50:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>bottle-hotqueue 0.2.0</title>
+    <link>http://pypi.python.org/pypi/bottle-hotqueue/0.2.0</link>
+    <description>FIFO Queue for Bottle built upon HotQueue</description>
+    <pubDate>06 Apr 2012 13:41:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>tgext.crud 0.5</title>
+    <link>http://pypi.python.org/pypi/tgext.crud/0.5</link>
+    <description>Crud Controller Extension for TG2</description>
+    <pubDate>06 Apr 2012 13:38:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>tgext.admin 0.5</title>
+    <link>http://pypi.python.org/pypi/tgext.admin/0.5</link>
+    <description>Admin Controller add-on for basic TG identity model.</description>
+    <pubDate>06 Apr 2012 13:38:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>iboto 0.20.1</title>
+    <link>http://pypi.python.org/pypi/iboto/0.20.1</link>
+    <description>Amazon EC2 shell for managing multiple accounts and regions easily</description>
+    <pubDate>06 Apr 2012 13:17:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>sandboxie 0.1.0</title>
+    <link>http://pypi.python.org/pypi/sandboxie/0.1.0</link>
+    <description>Python interface to Sandboxie.</description>
+    <pubDate>06 Apr 2012 12:44:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>p01.remote 0.5.4</title>
+    <link>http://pypi.python.org/pypi/p01.remote/0.5.4</link>
+    <description>Remote processing queue for Zope3</description>
+    <pubDate>06 Apr 2012 12:42:22 GMT</pubDate>
+   </item>
+  <item>
+    <title>jabbatron 0.1.4</title>
+    <link>http://pypi.python.org/pypi/jabbatron/0.1.4</link>
+    <description>Interactive installer script for Ubuntu.</description>
+    <pubDate>06 Apr 2012 12:35:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>jabbapylib 0.2.0</title>
+    <link>http://pypi.python.org/pypi/jabbapylib/0.2.0</link>
+    <description>A lightweight, general-purpose Python library</description>
+    <pubDate>06 Apr 2012 12:33:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>redsolutioncms.django-easy-news 0.1.1</title>
+    <link>http://pypi.python.org/pypi/redsolutioncms.django-easy-news/0.1.1</link>
+    <description>UNKNOWN</description>
+    <pubDate>06 Apr 2012 11:52:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>test-aaaa 1.3</title>
+    <link>http://pypi.python.org/pypi/test-aaaa/1.3</link>
+    <description>test pypi</description>
+    <pubDate>06 Apr 2012 11:45:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>deploytool 0.2.3</title>
+    <link>http://pypi.python.org/pypi/deploytool/0.2.3</link>
+    <description>Deploytool - a Django Fabric deploytool</description>
+    <pubDate>06 Apr 2012 11:26:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>routr 0.1.4</title>
+    <link>http://pypi.python.org/pypi/routr/0.1.4</link>
+    <description>URL routing made right</description>
+    <pubDate>06 Apr 2012 11:10:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>redomino.tabsandslides 0.8.1</title>
+    <link>http://pypi.python.org/pypi/redomino.tabsandslides/0.8.1</link>
+    <description>jquerytools tabs and slide implementations</description>
+    <pubDate>06 Apr 2012 10:56:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>adrest 1.1.14</title>
+    <link>http://pypi.python.org/pypi/adrest/1.1.14</link>
+    <description>Adrest - another django REST. Simple application for quick build RESTfull API.</description>
+    <pubDate>06 Apr 2012 10:16:21 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-basket 0.4.2</title>
+    <link>http://pypi.python.org/pypi/django-basket/0.4.2</link>
+    <description>Django generic basket application. Allow to put in basket any object and view orders in the Django admin interface</description>
+    <pubDate>06 Apr 2012 10:06:46 GMT</pubDate>
+   </item>
+  <item>
+    <title>cipher.configstore 1.2.0</title>
+    <link>http://pypi.python.org/pypi/cipher.configstore/1.2.0</link>
+    <description>UNKNOWN</description>
+    <pubDate>06 Apr 2012 09:32:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>cipher.encryptingstorage 1.0.0</title>
+    <link>http://pypi.python.org/pypi/cipher.encryptingstorage/1.0.0</link>
+    <description>ZODB storage wrapper for encryption of database records</description>
+    <pubDate>06 Apr 2012 09:04:57 GMT</pubDate>
+   </item>
+  <item>
+    <title>mltool 0.5.1b</title>
+    <link>http://pypi.python.org/pypi/mltool/0.5.1b</link>
+    <description>Machine learning tool for regression.</description>
+    <pubDate>06 Apr 2012 07:52:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-haystack 1.2.7</title>
+    <link>http://pypi.python.org/pypi/django-haystack/1.2.7</link>
+    <description>Pluggable search for Django.</description>
+    <pubDate>06 Apr 2012 07:38:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>lettuce 0.1.35</title>
+    <link>http://pypi.python.org/pypi/lettuce/0.1.35</link>
+    <description>Behaviour Driven Development for python</description>
+    <pubDate>06 Apr 2012 05:02:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>TileStache 1.30.0</title>
+    <link>http://pypi.python.org/pypi/TileStache/1.30.0</link>
+    <description>A stylish alternative for caching your map tiles.</description>
+    <pubDate>06 Apr 2012 04:09:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>fqueue 0.0.3</title>
+    <link>http://pypi.python.org/pypi/fqueue/0.0.3</link>
+    <description>A plain file queue service</description>
+    <pubDate>06 Apr 2012 03:40:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>yandex-maps 0.6.1</title>
+    <link>http://pypi.python.org/pypi/yandex-maps/0.6.1</link>
+    <description>Yandex.Maps API python wrapper with optional django integration.</description>
+    <pubDate>06 Apr 2012 03:35:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.facebook.portlets 1.0b1</title>
+    <link>http://pypi.python.org/pypi/collective.facebook.portlets/1.0b1</link>
+    <description>This product allows you to add a portlet to your site that will show the latest comments made to a Facebook wall.</description>
+    <pubDate>06 Apr 2012 03:22:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.facebook.accounts 1.0b1</title>
+    <link>http://pypi.python.org/pypi/collective.facebook.accounts/1.0b1</link>
+    <description>This product allows you to add Facebook accounts to a Plone site.</description>
+    <pubDate>06 Apr 2012 03:04:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-nomadblog 0.5.1</title>
+    <link>http://pypi.python.org/pypi/django-nomadblog/0.5.1</link>
+    <description>A minimalist Django blogging system.</description>
+    <pubDate>06 Apr 2012 03:02:46 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

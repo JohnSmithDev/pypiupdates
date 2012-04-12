@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>Fast String Comparator 1.0</title>
+    <link>http://pypi.python.org/pypi/Fast%20String%20Comparator/1.0</link>
+    <description>Faster Computation of Levenshtein Distance for Spell Checker.</description>
+    <pubDate>07 Apr 2012 09:02:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>pinax-theme-bootstrap 2.0.2.post3</title>
+    <link>http://pypi.python.org/pypi/pinax-theme-bootstrap/2.0.2.post3</link>
+    <description>a theme for Pinax based on Twitter's Bootstrap</description>
+    <pubDate>07 Apr 2012 08:04:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>irclog 0.2.0</title>
+    <link>http://pypi.python.org/pypi/irclog/0.2.0</link>
+    <description>The web IRC loger view.</description>
+    <pubDate>07 Apr 2012 08:00:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>TurboGears2 2.1.5</title>
+    <link>http://pypi.python.org/pypi/TurboGears2/2.1.5</link>
+    <description>Next generation TurboGears built on Pylons</description>
+    <pubDate>07 Apr 2012 06:23:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>tg.devtools 2.1.5</title>
+    <link>http://pypi.python.org/pypi/tg.devtools/2.1.5</link>
+    <description>UNKNOWN</description>
+    <pubDate>07 Apr 2012 06:22:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>piep 0.6.1</title>
+    <link>http://pypi.python.org/pypi/piep/0.6.1</link>
+    <description>unix-style stream manipulation with python's syntax</description>
+    <pubDate>07 Apr 2012 06:21:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>pasttle 0.4.1</title>
+    <link>http://pypi.python.org/pypi/pasttle/0.4.1</link>
+    <description>Simple pastebin on top of bottle.</description>
+    <pubDate>07 Apr 2012 05:54:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>slimit 0.6.2</title>
+    <link>http://pypi.python.org/pypi/slimit/0.6.2</link>
+    <description>SlimIt - JavaScript minifier</description>
+    <pubDate>07 Apr 2012 05:53:42 GMT</pubDate>
+   </item>
+  <item>
+    <title>pywinusb 0.3.1</title>
+    <link>http://pypi.python.org/pypi/pywinusb/0.3.1</link>
+    <description>A package that simplifies USB/HID communications on windows</description>
+    <pubDate>07 Apr 2012 04:40:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>Cooker 0.2</title>
+    <link>http://pypi.python.org/pypi/Cooker/0.2</link>
+    <description>Python CodeChef Utilities</description>
+    <pubDate>07 Apr 2012 04:32:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyramid_mongodb 1.3</title>
+    <link>http://pypi.python.org/pypi/pyramid_mongodb/1.3</link>
+    <description>Pyramid application template for a traversal-based URL mapping and MongoDB project.</description>
+    <pubDate>07 Apr 2012 04:14:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>django_slumber 0.5.0</title>
+    <link>http://pypi.python.org/pypi/django_slumber/0.5.0</link>
+    <description>RESTful data connector for Django</description>
+    <pubDate>07 Apr 2012 03:52:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>atmos 0.1</title>
+    <link>http://pypi.python.org/pypi/atmos/0.1</link>
+    <description>Python API for Atmos cloud storage.</description>
+    <pubDate>07 Apr 2012 03:45:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-thummer 2.0.6</title>
+    <link>http://pypi.python.org/pypi/django-thummer/2.0.6</link>
+    <description>A website screenshot and thumbnailing app for Django.</description>
+    <pubDate>07 Apr 2012 03:27:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.formtoy 0.3.0</title>
+    <link>http://pypi.python.org/pypi/collective.formtoy/0.3.0</link>
+    <description>A tool to mock up ad hoc forms in Plone</description>
+    <pubDate>07 Apr 2012 03:07:08 GMT</pubDate>
+   </item>
+  <item>
+    <title>pymatgen 1.7.2</title>
+    <link>http://pypi.python.org/pypi/pymatgen/1.7.2</link>
+    <description>pymatgen is the Python library powering the Materials Project (www.materialsproject.org).</description>
+    <pubDate>07 Apr 2012 03:05:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>TinyFastSS 1.0</title>
+    <link>http://pypi.python.org/pypi/TinyFastSS/1.0</link>
+    <description>Efficient Data Structure for Fuzzy String Search.</description>
+    <pubDate>07 Apr 2012 02:46:52 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.controlpanel.edit_css 0.3.0</title>
+    <link>http://pypi.python.org/pypi/collective.controlpanel.edit_css/0.3.0</link>
+    <description>Use a text area in the Plone control panel to        edit CSS and Javascript.</description>
+    <pubDate>07 Apr 2012 02:23:35 GMT</pubDate>
+   </item>
+  <item>
+    <title>maestro 0.1.1</title>
+    <link>http://pypi.python.org/pypi/maestro/0.1.1</link>
+    <description>DevOps management</description>
+    <pubDate>07 Apr 2012 01:15:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>specloud 0.4.5</title>
+    <link>http://pypi.python.org/pypi/specloud/0.4.5</link>
+    <description>install nosetests and plugins to ease bdd unit specs</description>
+    <pubDate>07 Apr 2012 01:15:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>trigger 1.0.0.101</title>
+    <link>http://pypi.python.org/pypi/trigger/1.0.0.101</link>
+    <description>Trigger is a framework and suite of tools for configuring network devices</description>
+    <pubDate>07 Apr 2012 01:05:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>Nestache 0.4.2</title>
+    <link>http://pypi.python.org/pypi/Nestache/0.4.2</link>
+    <description>Nested View for Mustache</description>
+    <pubDate>07 Apr 2012 00:21:51 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-heroku 0</title>
+    <link>http://pypi.python.org/pypi/django-heroku/0</link>
+    <description></description>
+    <pubDate>06 Apr 2012 23:44:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>yay 0.0.47</title>
+    <link>http://pypi.python.org/pypi/yay/0.0.47</link>
+    <description>An extensible config file format</description>
+    <pubDate>06 Apr 2012 22:54:55 GMT</pubDate>
+   </item>
+  <item>
+    <title>Combinatorics 1.2.0</title>
+    <link>http://pypi.python.org/pypi/Combinatorics/1.2.0</link>
+    <description>This set of basic combinatorics functions supplements Python's itertools module.</description>
+    <pubDate>06 Apr 2012 22:28:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>jig 0.1.0</title>
+    <link>http://pypi.python.org/pypi/jig/0.1.0</link>
+    <description>Check your code for stuff before you `git commit`</description>
+    <pubDate>06 Apr 2012 22:06:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>huey 0.2.1</title>
+    <link>http://pypi.python.org/pypi/huey/0.2.1</link>
+    <description>huey, a little task queue</description>
+    <pubDate>06 Apr 2012 21:51:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>pysb 0.1.3</title>
+    <link>http://pypi.python.org/pypi/pysb/0.1.3</link>
+    <description>Python Systems Biology modeling framework</description>
+    <pubDate>06 Apr 2012 21:38:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>rtorrent-python 0.2.8</title>
+    <link>http://pypi.python.org/pypi/rtorrent-python/0.2.8</link>
+    <description>A simple rTorrent interface written in Python</description>
+    <pubDate>06 Apr 2012 21:22:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>Awwparse 0.1-dev</title>
+    <link>http://pypi.python.org/pypi/Awwparse/0.1-dev</link>
+    <description>A parser for command line arguments</description>
+    <pubDate>06 Apr 2012 21:21:01 GMT</pubDate>
+   </item>
+  <item>
+    <title>finance_tools 0.1</title>
+    <link>http://pypi.python.org/pypi/finance_tools/0.1</link>
+    <description>Common financial calculations.</description>
+    <pubDate>06 Apr 2012 21:10:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>peewee 0.9.3</title>
+    <link>http://pypi.python.org/pypi/peewee/0.9.3</link>
+    <description>a little orm</description>
+    <pubDate>06 Apr 2012 20:59:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>djeploy 0.2.3</title>
+    <link>http://pypi.python.org/pypi/djeploy/0.2.3</link>
+    <description>Common tasks used to deploy Django powered websites via Fabric.</description>
+    <pubDate>06 Apr 2012 20:54:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>buildout.bootstrap 1.3.0</title>
+    <link>http://pypi.python.org/pypi/buildout.bootstrap/1.3.0</link>
+    <description>A buildout extension that adds a buildout        bootstrap.py file to your buildout.</description>
+    <pubDate>06 Apr 2012 19:46:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>name-cleaver 0.2.8</title>
+    <link>http://pypi.python.org/pypi/name-cleaver/0.2.8</link>
+    <description>Name parser and formatter (for politicians, individuals, and organizations)</description>
+    <pubDate>06 Apr 2012 19:45:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>ProDy 1.0.1</title>
+    <link>http://pypi.python.org/pypi/ProDy/1.0.1</link>
+    <description>A Python Package for Protein Dynamics Analysis</description>
+    <pubDate>06 Apr 2012 19:35:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>vos 1.3.1</title>
+    <link>http://pypi.python.org/pypi/vos/1.3.1</link>
+    <description>CADC VOSpace Filesystem</description>
+    <pubDate>06 Apr 2012 19:30:00 GMT</pubDate>
+   </item>
+  <item>
+    <title>Mothership 0.0.29</title>
+    <link>http://pypi.python.org/pypi/Mothership/0.0.29</link>
+    <description>Mothership - asset managment</description>
+    <pubDate>06 Apr 2012 18:55:54 GMT</pubDate>
+   </item>
+  <item>
+    <title>futuregrid 1.0</title>
+    <link>http://pypi.python.org/pypi/futuregrid/1.0</link>
+    <description>FutureGrid Rain and Image Management is a software for managing OS images and enabling advance dynamic provisioning to users</description>
+    <pubDate>06 Apr 2012 18:43:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>Albertson 0.1.8</title>
+    <link>http://pypi.python.org/pypi/Albertson/0.1.8</link>
+    <description>Easy to use, scalable, counters powered by Amazon's DynamoDB</description>
+    <pubDate>06 Apr 2012 18:35:48 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

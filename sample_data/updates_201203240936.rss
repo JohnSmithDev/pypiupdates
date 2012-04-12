@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>zerorpc 0.1.0</title>
+    <link>http://pypi.python.org/pypi/zerorpc/0.1.0</link>
+    <description>zerorpc is a flexible RPC based on zeromq.</description>
+    <pubDate>24 Mar 2012 09:34:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>dm.zope.saml2 1.0b1</title>
+    <link>http://pypi.python.org/pypi/dm.zope.saml2/1.0b1</link>
+    <description>Zope 2/Plone extension for SAML2 based Single Sign On: identity, attribute and service providers</description>
+    <pubDate>24 Mar 2012 09:32:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>autobahntestsuite 0.5.1</title>
+    <link>http://pypi.python.org/pypi/autobahntestsuite/0.5.1</link>
+    <description>AutobahnTestSuite - WebSocket/WAMP protocol implementation test suite.</description>
+    <pubDate>24 Mar 2012 09:18:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>nester_seq 1.1.0</title>
+    <link>http://pypi.python.org/pypi/nester_seq/1.1.0</link>
+    <description>A simple printer of nested lists or tuples</description>
+    <pubDate>24 Mar 2012 08:46:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>python-colourlovers 0.0.1</title>
+    <link>http://pypi.python.org/pypi/python-colourlovers/0.0.1</link>
+    <description>An API providing access to the ColourLovers website.</description>
+    <pubDate>24 Mar 2012 08:46:17 GMT</pubDate>
+   </item>
+  <item>
+    <title>qc 0.1</title>
+    <link>http://pypi.python.org/pypi/qc/0.1</link>
+    <description>QuickCheck: randomized testing made trivial.</description>
+    <pubDate>24 Mar 2012 08:33:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>watching_testrunner 1.0</title>
+    <link>http://pypi.python.org/pypi/watching_testrunner/1.0</link>
+    <description>Automatic test execution on file changes</description>
+    <pubDate>24 Mar 2012 08:08:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>xflash 1.3</title>
+    <link>http://pypi.python.org/pypi/xflash/1.3</link>
+    <description>Xbox360 USB SPI Flasher client</description>
+    <pubDate>24 Mar 2012 07:49:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyrasite 2.0beta9</title>
+    <link>http://pypi.python.org/pypi/pyrasite/2.0beta9</link>
+    <description>Inject code into running Python processes</description>
+    <pubDate>24 Mar 2012 07:25:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>actmon 0.1</title>
+    <link>http://pypi.python.org/pypi/actmon/0.1</link>
+    <description>This package provides a user idle timer for X11.</description>
+    <pubDate>24 Mar 2012 06:57:16 GMT</pubDate>
+   </item>
+  <item>
+    <title>imguring 0.0.1</title>
+    <link>http://pypi.python.org/pypi/imguring/0.0.1</link>
+    <description>A simple client for imgur.</description>
+    <pubDate>24 Mar 2012 06:56:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>pgpu 1.0.2</title>
+    <link>http://pypi.python.org/pypi/pgpu/1.0.2</link>
+    <description>Pydsigner's Generic Python Utilities (PGPU) -- a collection of handy modules 
+and packages for Python.</description>
+    <pubDate>24 Mar 2012 04:34:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>pygu 4.1</title>
+    <link>http://pypi.python.org/pypi/pygu/4.1</link>
+    <description>Pydsigner's Pygame Utilities - a collection of handy modules for Pygame.</description>
+    <pubDate>24 Mar 2012 04:34:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>WHIPS 1.0.4</title>
+    <link>http://pypi.python.org/pypi/WHIPS/1.0.4</link>
+    <description>Scripts for customized regridding of Level-2 data to Level-3 data</description>
+    <pubDate>24 Mar 2012 03:50:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>utcondor 0.3</title>
+    <link>http://pypi.python.org/pypi/utcondor/0.3</link>
+    <description>tools for distributed computing at UTCS</description>
+    <pubDate>24 Mar 2012 03:47:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>Cartridge 0.4.8</title>
+    <link>http://pypi.python.org/pypi/Cartridge/0.4.8</link>
+    <description>A Django shopping cart application.</description>
+    <pubDate>24 Mar 2012 03:45:37 GMT</pubDate>
+   </item>
+  <item>
+    <title>Mezzanine 1.0.7</title>
+    <link>http://pypi.python.org/pypi/Mezzanine/1.0.7</link>
+    <description>An open source content management platform built using the Django framework.</description>
+    <pubDate>24 Mar 2012 03:40:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>18-e final</title>
+    <link>http://pypi.python.org/pypi/18-e/final</link>
+    <description></description>
+    <pubDate>24 Mar 2012 02:33:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>storescrapper 0.1.9</title>
+    <link>http://pypi.python.org/pypi/storescrapper/0.1.9</link>
+    <description>Web scrapping API for selected stores</description>
+    <pubDate>24 Mar 2012 02:30:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>mailman 3.0.0b1</title>
+    <link>http://pypi.python.org/pypi/mailman/3.0.0b1</link>
+    <description>Mailman -- the GNU mailing list manager</description>
+    <pubDate>24 Mar 2012 01:51:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>twython 1.5.2</title>
+    <link>http://pypi.python.org/pypi/twython/1.5.2</link>
+    <description>An easy (and up to date) way to access Twitter data with Python.</description>
+    <pubDate>24 Mar 2012 01:45:28 GMT</pubDate>
+   </item>
+  <item>
+    <title>cloud 2.4.4</title>
+    <link>http://pypi.python.org/pypi/cloud/2.4.4</link>
+    <description>PiCloud client-side library</description>
+    <pubDate>24 Mar 2012 01:14:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>vzaar 1.0.6</title>
+    <link>http://pypi.python.org/pypi/vzaar/1.0.6</link>
+    <description>Python library wrapping Vzaar's v1.0 API</description>
+    <pubDate>24 Mar 2012 01:05:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.blog 0.3.13</title>
+    <link>http://pypi.python.org/pypi/ztfy.blog/0.3.13</link>
+    <description>ZTFY blog handling package</description>
+    <pubDate>24 Mar 2012 00:55:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>postorius 1.0.0a1</title>
+    <link>http://pypi.python.org/pypi/postorius/1.0.0a1</link>
+    <description>A web user interface for GNU Mailman</description>
+    <pubDate>24 Mar 2012 00:52:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>django_friendlyurls 0.1.0</title>
+    <link>http://pypi.python.org/pypi/django_friendlyurls/0.1.0</link>
+    <description>Use friendly urls with Django.</description>
+    <pubDate>24 Mar 2012 00:49:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>cmsplugin-nivoslider 0.2.3</title>
+    <link>http://pypi.python.org/pypi/cmsplugin-nivoslider/0.2.3</link>
+    <description>Simple Nivo Slider plugin for django-cms</description>
+    <pubDate>24 Mar 2012 00:43:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.extfile 0.2.6</title>
+    <link>http://pypi.python.org/pypi/ztfy.extfile/0.2.6</link>
+    <description>ZTFY package used to handle external files storage in Zope3</description>
+    <pubDate>24 Mar 2012 00:41:23 GMT</pubDate>
+   </item>
+  <item>
+    <title>mmstats 0.6.2</title>
+    <link>http://pypi.python.org/pypi/mmstats/0.6.2</link>
+    <description>Stat, metric, and diagnostic publishing and consuming tools</description>
+    <pubDate>24 Mar 2012 00:38:43 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.workflow 0.2.5</title>
+    <link>http://pypi.python.org/pypi/ztfy.workflow/0.2.5</link>
+    <description>ZTFY package used to handle simple workflow</description>
+    <pubDate>24 Mar 2012 00:31:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.skin 0.2.9</title>
+    <link>http://pypi.python.org/pypi/ztfy.skin/0.2.9</link>
+    <description>ZTFY skin utility package, including views, forms and viewlets base classes</description>
+    <pubDate>24 Mar 2012 00:15:05 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-cms-fragments 0.0.2</title>
+    <link>http://pypi.python.org/pypi/django-cms-fragments/0.0.2</link>
+    <description>Injecting fragments of js, css and html in a django-cms plugin</description>
+    <pubDate>24 Mar 2012 00:07:09 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.jqueryui 0.5.4</title>
+    <link>http://pypi.python.org/pypi/ztfy.jqueryui/0.5.4</link>
+    <description>A package containing JQuery, JQuery UI, JQuery Tools and a small set of JQuery plugins</description>
+    <pubDate>23 Mar 2012 23:57:48 GMT</pubDate>
+   </item>
+  <item>
+    <title>lodstats 0.3.1</title>
+    <link>http://pypi.python.org/pypi/lodstats/0.3.1</link>
+    <description>Gather statistics from RDF files in various formats</description>
+    <pubDate>23 Mar 2012 23:39:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>facebook_utils 0.13</title>
+    <link>http://pypi.python.org/pypi/facebook_utils/0.13</link>
+    <description>simple utilites for facebook integration.</description>
+    <pubDate>23 Mar 2012 23:36:18 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.alchemy 0.2.3</title>
+    <link>http://pypi.python.org/pypi/ztfy.alchemy/0.2.3</link>
+    <description>SQLAlchemy integration package for Zope3</description>
+    <pubDate>23 Mar 2012 23:32:14 GMT</pubDate>
+   </item>
+  <item>
+    <title>ztfy.utils 0.3.9</title>
+    <link>http://pypi.python.org/pypi/ztfy.utils/0.3.9</link>
+    <description>ZTFY utility functions and classes for Zope3</description>
+    <pubDate>23 Mar 2012 23:29:36 GMT</pubDate>
+   </item>
+  <item>
+    <title>aldjemy 0.3.6</title>
+    <link>http://pypi.python.org/pypi/aldjemy/0.3.6</link>
+    <description>SQLAlchemy to Django integration library</description>
+    <pubDate>23 Mar 2012 22:55:49 GMT</pubDate>
+   </item>
+  <item>
+    <title>ConvUtils 1.1</title>
+    <link>http://pypi.python.org/pypi/ConvUtils/1.1</link>
+    <description>A library of convenient utility functions and pure Python data structures.</description>
+    <pubDate>23 Mar 2012 22:41:50 GMT</pubDate>
+   </item>
+  <item>
+    <title>trafaret 0.3.82</title>
+    <link>http://pypi.python.org/pypi/trafaret/0.3.82</link>
+    <description>Validation and parsing library</description>
+    <pubDate>23 Mar 2012 21:47:53 GMT</pubDate>
+   </item>
+  </channel>
+</rss>

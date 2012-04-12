@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+ <channel>
+  <title>PyPI recent updates</title>
+  <link>http://pypi.python.org/pypi</link>
+  <description>Updates to the Python Package Index</description>
+  <language>en</language>
+
+  <item>
+    <title>xabi 1.3.0</title>
+    <link>http://pypi.python.org/pypi/xabi/1.3.0</link>
+    <description>a simple printer of nested lists</description>
+    <pubDate>11 Apr 2012 10:25:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-simple-feedback 0.2.5</title>
+    <link>http://pypi.python.org/pypi/django-simple-feedback/0.2.5</link>
+    <description>Django application that allows you to easily get user
+feedbacks. Users need to be registrated via django.contrib.auth.</description>
+    <pubDate>11 Apr 2012 09:56:26 GMT</pubDate>
+   </item>
+  <item>
+    <title>Products.Faq 1.2</title>
+    <link>http://pypi.python.org/pypi/Products.Faq/1.2</link>
+    <description>FAQ - An AT contenttype for Plone</description>
+    <pubDate>11 Apr 2012 09:50:41 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-statictemplate 1.0</title>
+    <link>http://pypi.python.org/pypi/django-statictemplate/1.0</link>
+    <description>This project aims at providing a compromise between dynamic error pages for Django (that use template tags etc and therefore potentially error too) and having to write static error pages by hand.</description>
+    <pubDate>11 Apr 2012 09:30:19 GMT</pubDate>
+   </item>
+  <item>
+    <title>jslibs 0.10</title>
+    <link>http://pypi.python.org/pypi/jslibs/0.10</link>
+    <description>A package which does stuff with js libs</description>
+    <pubDate>11 Apr 2012 09:24:56 GMT</pubDate>
+   </item>
+  <item>
+    <title>redsolutioncms.django-page-cms 1.3.2</title>
+    <link>http://pypi.python.org/pypi/redsolutioncms.django-page-cms/1.3.2</link>
+    <description>A tree based Django CMS application</description>
+    <pubDate>11 Apr 2012 09:13:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyspread 0.2.2</title>
+    <link>http://pypi.python.org/pypi/pyspread/0.2.2</link>
+    <description>Python Spreadsheet</description>
+    <pubDate>11 Apr 2012 09:06:40 GMT</pubDate>
+   </item>
+  <item>
+    <title>babble.server 1.1</title>
+    <link>http://pypi.python.org/pypi/babble.server/1.1</link>
+    <description>A backend messaging server for Zope2.</description>
+    <pubDate>11 Apr 2012 08:51:31 GMT</pubDate>
+   </item>
+  <item>
+    <title>taxon 0.1.1</title>
+    <link>http://pypi.python.org/pypi/taxon/0.1.1</link>
+    <description>Provides simple object taxonomy.</description>
+    <pubDate>11 Apr 2012 08:32:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>cssselect 0</title>
+    <link>http://pypi.python.org/pypi/cssselect/0</link>
+    <description></description>
+    <pubDate>11 Apr 2012 08:14:39 GMT</pubDate>
+   </item>
+  <item>
+    <title>kim 1.1.0</title>
+    <link>http://pypi.python.org/pypi/kim/1.1.0</link>
+    <description>a simpel</description>
+    <pubDate>11 Apr 2012 07:56:10 GMT</pubDate>
+   </item>
+  <item>
+    <title>lesscpy 0.9a</title>
+    <link>http://pypi.python.org/pypi/lesscpy/0.9a</link>
+    <description>Lesscss compiler.</description>
+    <pubDate>11 Apr 2012 07:37:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-manifest 0.1a5</title>
+    <link>http://pypi.python.org/pypi/django-manifest/0.1a5</link>
+    <description>A package to help automate creation of web applications in Django</description>
+    <pubDate>11 Apr 2012 07:20:02 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.js.underscore 1.3.3</title>
+    <link>http://pypi.python.org/pypi/collective.js.underscore/1.3.3</link>
+    <description>underscore.js for plone</description>
+    <pubDate>11 Apr 2012 07:00:38 GMT</pubDate>
+   </item>
+  <item>
+    <title>pystache 0.5.0</title>
+    <link>http://pypi.python.org/pypi/pystache/0.5.0</link>
+    <description>Mustache for Python</description>
+    <pubDate>11 Apr 2012 06:59:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>httpagentparser 1.0.3</title>
+    <link>http://pypi.python.org/pypi/httpagentparser/1.0.3</link>
+    <description>Extracts OS Browser etc information from http user agent string</description>
+    <pubDate>11 Apr 2012 06:41:53 GMT</pubDate>
+   </item>
+  <item>
+    <title>plonetheme.aqueouslight 1.0</title>
+    <link>http://pypi.python.org/pypi/plonetheme.aqueouslight/1.0</link>
+    <description>An installable Diazo theme for Plone 4.1</description>
+    <pubDate>11 Apr 2012 06:32:44 GMT</pubDate>
+   </item>
+  <item>
+    <title>agilekalaf_nester 1.0.4</title>
+    <link>http://pypi.python.org/pypi/agilekalaf_nester/1.0.4</link>
+    <description>A simple printer of nested lists, with indenting optional as well as levels</description>
+    <pubDate>11 Apr 2012 06:06:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>monome 0</title>
+    <link>http://pypi.python.org/pypi/monome/0</link>
+    <description></description>
+    <pubDate>11 Apr 2012 05:24:20 GMT</pubDate>
+   </item>
+  <item>
+    <title>plumi.app 4.3.1</title>
+    <link>http://pypi.python.org/pypi/plumi.app/4.3.1</link>
+    <description>Plumi video sharing</description>
+    <pubDate>11 Apr 2012 04:40:58 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.twitter.portlets 1.0b1</title>
+    <link>http://pypi.python.org/pypi/collective.twitter.portlets/1.0b1</link>
+    <description>This product allows you to add different kinds of portlets to your site to get tweets.</description>
+    <pubDate>11 Apr 2012 04:28:12 GMT</pubDate>
+   </item>
+  <item>
+    <title>Voodoo 1.0.0</title>
+    <link>http://pypi.python.org/pypi/Voodoo/1.0.0</link>
+    <description>Reanimates an application skeleton, just for you.</description>
+    <pubDate>11 Apr 2012 04:27:47 GMT</pubDate>
+   </item>
+  <item>
+    <title>plumi.content 4.3.1</title>
+    <link>http://pypi.python.org/pypi/plumi.content/4.3.1</link>
+    <description>Plumi Content Types Product</description>
+    <pubDate>11 Apr 2012 03:56:45 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.contentlicensing 2.2.2</title>
+    <link>http://pypi.python.org/pypi/collective.contentlicensing/2.2.2</link>
+    <description>This tool is used to manage copyright licenses within plone.</description>
+    <pubDate>11 Apr 2012 03:54:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>plumi.skin 4.3.1</title>
+    <link>http://pypi.python.org/pypi/plumi.skin/4.3.1</link>
+    <description>Plumi Skin</description>
+    <pubDate>11 Apr 2012 03:42:15 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.twitter.accounts 1.0.3</title>
+    <link>http://pypi.python.org/pypi/collective.twitter.accounts/1.0.3</link>
+    <description>Provide Twitter integration for a Plone Site</description>
+    <pubDate>11 Apr 2012 03:35:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>zfec 1.4.23</title>
+    <link>http://pypi.python.org/pypi/zfec/1.4.23</link>
+    <description>a fast erasure codec which can be used with the command-line, C, Python, or Haskell</description>
+    <pubDate>11 Apr 2012 03:24:34 GMT</pubDate>
+   </item>
+  <item>
+    <title>pyutil 1.9.2</title>
+    <link>http://pypi.python.org/pypi/pyutil/1.9.2</link>
+    <description>a collection of utilities for Python programmers</description>
+    <pubDate>11 Apr 2012 03:21:33 GMT</pubDate>
+   </item>
+  <item>
+    <title>dynamixel 1.0.1</title>
+    <link>http://pypi.python.org/pypi/dynamixel/1.0.1</link>
+    <description>Dynamixel Servo Library</description>
+    <pubDate>11 Apr 2012 03:03:32 GMT</pubDate>
+   </item>
+  <item>
+    <title>bebop-server 0.3.1</title>
+    <link>http://pypi.python.org/pypi/bebop-server/0.3.1</link>
+    <description>A tool for rapid web development</description>
+    <pubDate>11 Apr 2012 03:01:13 GMT</pubDate>
+   </item>
+  <item>
+    <title>collective.transcode.star 0.16</title>
+    <link>http://pypi.python.org/pypi/collective.transcode.star/0.16</link>
+    <description>Transcoding support for Plone video files, using collective.transcode.daemon</description>
+    <pubDate>11 Apr 2012 02:55:03 GMT</pubDate>
+   </item>
+  <item>
+    <title>django-dynamic-fixture 1.6.3</title>
+    <link>http://pypi.python.org/pypi/django-dynamic-fixture/1.6.3</link>
+    <description>A full library to create dynamic model instances for testing purposes.</description>
+    <pubDate>11 Apr 2012 02:21:29 GMT</pubDate>
+   </item>
+  <item>
+    <title>zmqc 0.1.0</title>
+    <link>http://pypi.python.org/pypi/zmqc/0.1.0</link>
+    <description>A small but powerful command-line interface to ØMQ.</description>
+    <pubDate>11 Apr 2012 01:58:04 GMT</pubDate>
+   </item>
+  <item>
+    <title>geometryIO 0.9.3</title>
+    <link>http://pypi.python.org/pypi/geometryIO/0.9.3</link>
+    <description>GDAL wrapper for reading and writing geospatial data to a variety of vector formats</description>
+    <pubDate>11 Apr 2012 01:42:07 GMT</pubDate>
+   </item>
+  <item>
+    <title>mailjet 1.0</title>
+    <link>http://pypi.python.org/pypi/mailjet/1.0</link>
+    <description>mailjet is a django app to implement the mailjet REST
+        API</description>
+    <pubDate>11 Apr 2012 01:40:24 GMT</pubDate>
+   </item>
+  <item>
+    <title>mongolfiera 0.1.0</title>
+    <link>http://pypi.python.org/pypi/mongolfiera/0.1.0</link>
+    <description>Mongolfiera Model-to-MongoDB Mapper</description>
+    <pubDate>11 Apr 2012 00:53:25 GMT</pubDate>
+   </item>
+  <item>
+    <title>pymeshio 2.5.2</title>
+    <link>http://pypi.python.org/pypi/pymeshio/2.5.2</link>
+    <description>3d model io library for mqo, pmd, pmx, vmd and vpd</description>
+    <pubDate>11 Apr 2012 00:43:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>mrjob 0.3.3.2</title>
+    <link>http://pypi.python.org/pypi/mrjob/0.3.3.2</link>
+    <description>Python MapReduce framework</description>
+    <pubDate>11 Apr 2012 00:42:59 GMT</pubDate>
+   </item>
+  <item>
+    <title>dogpile.cache 0.1.1</title>
+    <link>http://pypi.python.org/pypi/dogpile.cache/0.1.1</link>
+    <description>A caching front-end based on the Dogpile lock.</description>
+    <pubDate>11 Apr 2012 00:28:27 GMT</pubDate>
+   </item>
+  <item>
+    <title>pylocator 0.30.dev</title>
+    <link>http://pypi.python.org/pypi/pylocator/0.30.dev</link>
+    <description>Program for the localization of EEG-electrodes.</description>
+    <pubDate>11 Apr 2012 00:23:36 GMT</pubDate>
+   </item>
+  </channel>
+</rss>
